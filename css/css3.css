@@ -5,16 +5,16 @@ a,input,textarea,button{
 	outline: none;
 }
 /*header.css*/
-body{font-size: 62.5%; overflow-y: scroll;background: #ecede2;height: 100%;font:14px arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
+body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:14px arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
 .header{
 	height: 97px;
-	position: fixed;
+	position: relative;
 	top: 0;
 	margin: 0 auto;
 	left: 0;
 	width: 100%;
 	z-index: 9999;
-	background: #333;
+	background: #121212;
 }
 
 .header a{
@@ -24,7 +24,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #ecede2;height: 100%;font:
 
 .header-box{
 	width: 960px;
-	height: 80px;
+	height: 97px;
 	position: relative;
 	margin: 0 auto;
 	padding: 0;
@@ -194,11 +194,11 @@ body{font-size: 62.5%; overflow-y: scroll;background: #ecede2;height: 100%;font:
 
 /*index.css*/
 .hidden{display: none;}
-.BD{margin:0 auto; width: 100%; max-width: 960px;}
+.BD{margin:0 auto; width: 100%; padding: 30px;}
 .container{
-  margin: 97px auto 70px auto;
+  width: 100%;
   position: relative;
-  margin-right: -30px;
+  background: #ecede2;
 }
 
 .search-title{
