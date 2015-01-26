@@ -96,13 +96,13 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 #go-top span{
 	width: 40px;
 	height: 40px;
-	background: url(../img/gototop.png) no-repeat;
+	background: url(img/gototop.png) no-repeat;
 	background-size: 40px;
 	display: block;
 }
 
 #go-top span:hover{
-	background: url(../img/gototop2.png) no-repeat;
+	background: url(img/gototop2.png) no-repeat;
 	background-size: 40px;
 }
 /*footer.css*/
