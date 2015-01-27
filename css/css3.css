@@ -79,6 +79,11 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	width: 100%;
 }
 
+.intro_infor{
+	width: 960px;
+	margin: 0 auto;
+}
+
 #go-top{
 	width: 40px;
 	height: 40px;
@@ -223,14 +228,19 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 .img-list li{
   float: left; 
   list-style: none; 
-  height: 300px;
+  height: 180px;
   width: 300px; 
-  margin: 0 30px 30px 0;
+  margin: 0 35px 30px 0;
+}
+
+.img-list li:last-child{
+	margin: 0;
 }
 
 #box_2{
-    width: 385px;
+    width: 395px;
 	height: 340px;
+	margin: 0 0 30px 0;
 }
 
 .img-list li:hover{
@@ -244,7 +254,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 .img-box img{
   display:block;
   width: 300px;
-  height: 300px;
+  height: 180px;
   -webkit-transition: all .5s;
   -o-transition: all .5s;
   transition: all .5s;
@@ -274,7 +284,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 }
 
 #m-img{
-	width: 385px;
+	width: 395px;
 	height: 340px;
 	display: block;
 }
@@ -285,7 +295,6 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
   background: rgba(0,0,0,0.3);
   position: relative;
   display: block;
-  width: 385px;
   top: -75px;
   z-index: 1;
 }
