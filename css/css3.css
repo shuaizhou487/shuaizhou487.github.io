@@ -221,7 +221,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 }
 
 .waterfall{
-  width: 990px;
+  width: 960px;
   margin: 0 auto;
   position: relative;
   display: -webkit-box;
@@ -231,7 +231,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
   list-style: none; 
   height: 180px;
   width: 300px; 
-  margin: 0 35px 50px 0;
+  margin: 0 30px 50px 0;
 }
 
 .img-list li:last-child{
@@ -239,7 +239,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 }
 
 #box_2{
-    width: 395px;
+    width: 380px;
 	height: 340px;
 	margin: 0 0 50px 0;
 }
@@ -273,35 +273,31 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 }
 
 #img-box-b{
-  width: 535px;
+  width: 540px;
   height: 340px;
   margin-right: 40px;
 }
 
 #b-img{
-  width: 535px;
+  width: 540px;
   height: 340px; 
   display: block;
 }
 
 #m-img{
-	width: 395px;
+	width: 380px;
 	height: 340px;
 	display: block;
 }
 
 
 .box{
-  height:75px; 
+  height:100%; 
   background: rgba(0,0,0,0.3);
   position: relative;
-  display: block;
-  top: -75px;
+  display: none;
+  top: -100%;
   z-index: 1;
-}
-
-#b_box{
-  width: 630px;
 }
 
 .img-title{padding:0 0 0 15px; height: 33px; position: relative;}

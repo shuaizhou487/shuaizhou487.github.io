@@ -18,7 +18,8 @@ $(document).ready(function(){
           		$('.m-menu').hide();
           	});
 
-	       $("#go-top").hide();
+	       $(document).ready(function(){
+	$("#go-top").hide();
 	        $(window).scroll(function(){
 	            	$(window).scroll(function(){
 	            		if($(window).scrollTop()>50){
@@ -31,9 +32,10 @@ $(document).ready(function(){
 	        });
 
 	        $("#go-top a").click(function(){
-	        	$("html,body").animate({scrollTop:0},500);
+	        	$("html,body").animate({scrollTop:0},800);
 	        	return false;
 	         });
+})
 
 });
 
