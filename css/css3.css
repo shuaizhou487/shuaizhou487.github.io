@@ -204,6 +204,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
   position: relative;
   background: #ecede2;
   display: inline-block;
+  padding-top: 40px;
 }
 
 .search-title{
@@ -225,6 +226,11 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
   height: 300px;
   width: 300px; 
   margin: 0 30px 30px 0;
+}
+
+#box_2{
+    width: 385px;
+	height: 340px;
 }
 
 .img-list li:hover{
@@ -256,8 +262,9 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 }
 
 #img-box-b{
-  height: 630px; 
-  width: 630px;
+  width: 535px;
+  height: 340px;
+  margin-right: 40px;
 }
 
 #b-img{
@@ -266,13 +273,19 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
   display: block;
 }
 
+#m-img{
+	width: 385px;
+	height: 340px;
+	display: block;
+}
+
 
 .box{
   height:75px; 
   background: rgba(0,0,0,0.3);
   position: relative;
   display: block;
-  width: 300px;
+  width: 385px;
   top: -75px;
   z-index: 1;
 }
