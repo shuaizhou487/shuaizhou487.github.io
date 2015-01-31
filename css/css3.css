@@ -205,11 +205,8 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 /*index.css*/
 .hidden{display: none;}
 .BD{margin:0 auto; width: 100%; padding: 30px;}
+.Bg{background: #ecede2;}
 .container{
-  width: 100%;
-  position: relative;
-  background: #ecede2;
-  display: inline-block;
   padding: 40px 0;
 }
 
@@ -223,8 +220,13 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
   width: 960px;
   margin: 0 auto;
   position: relative;
-  display: -webkit-box;
 }
+
+.img-list{
+	display: inline-block;
+	width: 990px;
+}
+
 .img-list li{
   float: left; 
   list-style: none; 
