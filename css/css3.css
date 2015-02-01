@@ -81,7 +81,42 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 .intro_infor{
 	width: 960px;
 	margin: 0 auto;
-	padding: 30px 0;
+	padding: 20px 0;
+}
+
+.intro_infor_icon{
+	position: relative;
+}
+
+.h_icon{
+	width: 20px;
+	height: 20px;
+	background: url(../img/home.png) no-repeat;
+	background-size: 20px;
+	position: relative;
+	display: inline-block;
+}
+
+.intro_infor_icon span{
+	color: #999;
+	position: absolute;
+	top: 4px;
+	padding-left: 5px;
+}
+
+.intro_infor_left{
+	width: 44%;
+	display: inline-block;
+	top: -40px;
+	position: relative;
+}
+
+.intro_infor_right{
+    width: 55%;
+	display: inline-block;
+	position: relative;
+	right: 0;
+	line-height: 1.5;
 }
 
 #go-top{
