@@ -5,7 +5,7 @@ a,input,textarea,button{
 	outline: none;
 }
 /*header.css*/
-body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:14px arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
+body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:14px Avenir, sans-serif;}
 .header{
 	height: 97px;
 	position: relative;
@@ -61,7 +61,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 }
 
 .menu li a:hover{
-	color: #f6bd25;
+	color: rgba(255,255,255,.5);
 }
 
 .header a {
@@ -78,14 +78,40 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	width: 100%;
 }
 
+.intro_portfolio{
+	background: none;
+}
+
 .intro_infor{
 	width: 960px;
 	margin: 0 auto;
-	padding: 20px 0;
+	padding: 4rem 0;
 }
 
-.intro_infor_icon{
+.link_back{
+    background: #dcddd3;
+    width: 100%;
+}
+
+.cv_page{
+	width: 960px;
+	margin: 0 auto;
+	padding: 4rem 0.5rem;
+}
+
+.ati{
+	margin: 2rem 0;
+}
+
+.main_t_r{
+	float: right;
+}
+
+.breadcrumb_nav_icon{
 	position: relative;
+	width: 960px;
+	margin: 0 auto;
+	padding: 10px 0;
 }
 
 .h_icon{
@@ -97,18 +123,19 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	display: inline-block;
 }
 
-.intro_infor_icon span{
+.breadcrumb_nav_icon span{
 	color: #999;
 	position: absolute;
-	top: 4px;
+	bottom: 3px;
 	padding-left: 5px;
 }
 
 .intro_infor_left{
 	width: 44%;
-	display: inline-block;
-	top: -40px;
+	float: left;
 	position: relative;
+	font-size: 1.25rem;
+    font-weight: 500;
 }
 
 .intro_infor_right{
@@ -116,7 +143,32 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	display: inline-block;
 	position: relative;
 	right: 0;
-	line-height: 1.5;
+	font-size: 0.95rem;
+	line-height: 1.6;
+}
+
+.intro_infor_right p{
+	font-weight: lighter;
+	color: rgba(0,0,0,.6);
+}
+
+
+.location{
+	position: absolute;
+	right: 0;
+}
+
+.vertical-text{
+	margin-top: 14rem;
+}
+
+.vertical-text p{
+	-webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    letter-spacing: 2px;
+    font-size: 1.05rem;
+    margin: 0 0 10px;
 }
 
 #go-top{
@@ -177,7 +229,6 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	font-size: 14px;
 	color: #fff;
 	line-height: 2;
-	letter-spacing: 2px;
 }
 
 .footer a {
@@ -215,28 +266,6 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	padding-top: 10px;
 }
 
-.qqweibo{
-	left: 0;
-}
-
-.weibo{
-	right: 0;
-	position: absolute;
-}
-
-.qqweibo{
-	width: 25px;
-	height: 25px;
-	background: url(../img/icon.png) no-repeat;
-	background-position: -35px 0;
-}
-
-.weibo{
-	width: 25px;
-	height: 25px;
-	background: url(../img/icon.png) no-repeat;
-}
-
 /*index.css*/
 .hidden{display: none;}
 .BD{margin:0 auto; width: 100%; padding: 30px;}
@@ -249,6 +278,15 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	width: 960px;
 	margin: 0 auto;
 	text-align: right;
+}
+
+.show_btn a{
+	font-size: 1.05rem;
+	font-weight: 500;
+}
+
+.show_btn a:hover{
+    color: #32c182;
 }
 
 .waterfall{
@@ -808,15 +846,9 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 
 /*store.css*/
 @font-face {
-font-family:"悦黑细体";
-src:url(../font/悦黑细体.otf);
-src:url(../font/悦黑细体.otf?#iefix) format('embedded-opentype'), url(../font/悦黑细体.otf) format('woff'), url(../font/悦黑细体.otf) format('truetype'), url(../font/悦黑细体.otf) format('svg');
-}
-.im{
-	cursor: url("../img/buy.png"),default;
-}
-.st{
-	margin-top: 97px;
+font-family:"Avenir";
+src:url(../font/Avenir.otf);
+src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Avenir.otf) format('woff'), url(../font/Avenir.otf) format('truetype'), url(../font/Avenir.otf) format('svg');
 }
 
 .st p,.st span{
@@ -825,11 +857,11 @@ src:url(../font/悦黑细体.otf?#iefix) format('embedded-opentype'), url(../fon
 }
 
 .store_w{
-	background: #fff;
+	background: #ecede2;
 }
 
 .store_g{
-	background: #f8f8f8;
+	background: #f3f3f3;
 }
 
 .store{
@@ -921,46 +953,6 @@ src:url(../font/悦黑细体.otf?#iefix) format('embedded-opentype'), url(../fon
 	margin-left: 22px;
 }
 
-.n_d{
-	width: 68px;
-	height: 68px;
-	position: relative;
-	display: inline-block;
-	z-index: 2;
-	border: 0 solid transparent;
-	-moz-border-radius:100px;
-	-webkit-border-radius:100px;
-	border-radius:100px;
-	background:url(../img/store-d.png) no-repeat,#ddd;
-	background-position: 50%;
-	overflow: hidden;
-}
-
-.n_d:hover{
-	-webkit-transform: scale(1.1);
-	-ms-transform: scale(1.1);
-	-o-transform: scale(1.1);
-	transform: scale(1.1);
-}
-
-.n_b{
-    border: 0 solid transparent;
-	-moz-border-radius:100px;
-	-webkit-border-radius:100px;
-	border-radius:100px;
-	position: absolute;
-	display: inline-block;
-	left: -145px;
-	background: #ddd;
-	color: #ddd;
-	padding: 28px 50px 28px 101px;
-	z-index: 1;
-}
-
-.n_b:hover{
-	color: #fff!important;
-}
-
 .store_person a:hover span{
 	left: 0;
 	color: #333;
@@ -968,11 +960,6 @@ src:url(../font/悦黑细体.otf?#iefix) format('embedded-opentype'), url(../fon
 	-o-transition: left .5s;
 	transition: left .5s;
 }
-
-.two,.four{
-	left: 153px;
-}
-
 
 .anim{
 	width:200px;
@@ -1231,9 +1218,6 @@ src:url(../font/悦黑细体.otf?#iefix) format('embedded-opentype'), url(../fon
 	.store_person a{
 		width: 68px;
 	}
-	.two,.four{
-		margin-left: -48px!important;
-	}
 	.store_1_right, .store_3_right{
 		left: 10px;
 	}
@@ -1243,8 +1227,5 @@ src:url(../font/悦黑细体.otf?#iefix) format('embedded-opentype'), url(../fon
 	}
 	.store_1_left img,.store_2_right img{
 		width: 160px;
-	}
-	.n_b{
-		display: none;
 	}
 }
