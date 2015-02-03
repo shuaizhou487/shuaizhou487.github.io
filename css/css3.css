@@ -1130,8 +1130,10 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 
 @media screen and (max-width: 479px){
     .BD{
-    	width: 100%;
+    	width: 100%;padding: 0px;
     }
+    .location{display: none;}
+    .intro_infor{width: 100%;}
     .header-box{
     	width: 100%;
     }
@@ -1144,6 +1146,10 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     .waterfall{
     	width: 100%;
     }
+    .img-list{
+    	width: 100%;
+    }
+
     .img-list li{
     	width: 100%;
     	height: 100%;
@@ -1153,6 +1159,9 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     	width: 100%;
     	height: 100%;
     	margin: 0 0 30px 0;
+    }
+    .bot-link{
+    	width: 100%;
     }
     #b-img{
     	width: 100%;
@@ -1227,5 +1236,25 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	.store_1_left img,.store_2_right img{
 		width: 160px;
+	}
+	.intro_infor_left{
+		float: none;
+		width: 100%;
+		padding: 0 0.9375rem;
+		font-size: 1.5rem;
+	}
+	.intro_infor_right{
+		padding: 0 0.9375rem;
+		display: block;
+		width: 100%;
+	}
+	.intro_infor_right p{
+		padding-top: 1.5rem;
+	}
+	.show_btn{
+		width: 100%;
+	}
+	#go-top{
+		right: 15px;
 	}
 }
