@@ -1154,7 +1154,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     	right: 0px;
     }
     .container{
-    	margin-right: 0px;
+    	padding: 0 0.9375rem;
     }
     .waterfall{
     	width: 100%;
@@ -1220,6 +1220,10 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	.menu li a{
 		display: block;
 	}
+
+	#box_2{
+		width: 100%;
+	}
 	.top-img{
 		left: 30px;
 	}
@@ -1266,6 +1270,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	.show_btn{
 		width: 100%;
+		padding: 1.75rem 0;
 	}
 	#go-top{
 		right: 15px;
