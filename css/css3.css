@@ -333,14 +333,14 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	margin: 0;
 }
 
-#box_2{
+#box_2,#box_mobile{
     width: 380px;
 	height: 340px;
 	margin: 0 0 50px 0;
 	background: #fff;
 }
 
-#box_2 a{
+#box_2,#box_mobile a{
 	display: block;
 }
 
@@ -1110,6 +1110,12 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	#box_2 img{
 		width: 100%;
         height: auto;
+	}
+	#box_mobile{
+		width: 100%;
+		height: auto;
+		background: #fff;
+		margin: 0 0 30px 0;
 	}
 	.top-img{
 		left: 0.9375rem;
