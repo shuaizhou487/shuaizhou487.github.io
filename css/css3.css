@@ -1284,4 +1284,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 		right: 15px;
 		bottom: 120px;
 	}
+	.breadcrumb_nav_icon{
+		width: 100%;
+	}
 }
