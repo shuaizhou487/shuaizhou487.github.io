@@ -1223,6 +1223,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 
 	#box_2{
 		width: 100%;
+		height: auto;
 		margin: 0 0 30px 0;
 	}
 
