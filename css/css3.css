@@ -337,6 +337,11 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
     width: 380px;
 	height: 340px;
 	margin: 0 0 50px 0;
+	background: #fff;
+}
+
+#box_2 a{
+	display: block;
 }
 
 .img-list li:hover{
@@ -380,9 +385,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 }
 
 #m-img{
-	width: 380px;
+	width: auto;
 	height: 340px;
 	display: block;
+	margin: 0 auto;
 }
 
 
@@ -948,27 +954,23 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	#img-box-b{
 		margin: 0 0 30px 0;
-		width: 480px;
-		height: 480px;
+		
 	}
 	.img-list li{
-		width: 480px;
-		height: 480px;
+		
 		margin: 0 0 30px 0;
 	}
 	#b_box{
-		width: 480px;
+		
 	}
 	.box{
-		width: 480px;
+		
 	}
 	#b-img{
-		width: 480px;
-		height: 480px;
+		
 	}
 	.img-box img{
-		width: 480px;
-		height: 480px;
+		
 	}
 	.head-img img{
 		width: 24px;
