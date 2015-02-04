@@ -197,6 +197,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	width: 40px;
 	height: 40px;
 	position: relative;
+	display: block;
 }
 
 #go-top span{
