@@ -1052,6 +1052,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     }
     .bot-link{
     	width: 100%;
+    	padding: 0 0.9375rem;
     }
     #b-img{
     	width: 100%;
@@ -1109,7 +1110,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
         height: auto;
 	}
 	.top-img{
-		left: 30px;
+		left: 0.9375rem;
 	}
 	.intro_infor_left{
 		float: none;
@@ -1135,5 +1136,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	.breadcrumb_nav_icon{
 		width: 100%;
+		padding: 0 0.9375rem;
 	}
 }
