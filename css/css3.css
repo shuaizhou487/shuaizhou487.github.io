@@ -94,6 +94,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 .link_back{
     background: #dcddd3;
     width: 100%;
+    height: 40px;
 }
 
 .cv_page{
@@ -123,8 +124,13 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 .breadcrumb_nav_icon{
 	position: relative;
 	width: 960px;
+	height: 40px;
 	margin: 0 auto;
-	padding: 10px 0;
+}
+
+.breadcrumb_nav_icon li{
+	list-style: none;
+	float: left;
 }
 
 .h_icon{
@@ -134,12 +140,13 @@ body{font-size: 62.5%; overflow-y: scroll;background: #2a2a2a;height: 100%;font:
 	background-size: 20px;
 	position: relative;
 	display: inline-block;
+	top: 10px;
 }
 
-.breadcrumb_nav_icon span{
+.sect{
+	top: 13px;
+	position: relative;
 	color: #999;
-	position: absolute;
-	bottom: 3px;
 	padding-left: 5px;
 }
 
@@ -865,6 +872,11 @@ src:url(../font/Avenir.otf);
 src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Avenir.otf) format('woff'), url(../font/Avenir.otf) format('truetype'), url(../font/Avenir.otf) format('svg');
 }
 
+.st{
+	width: 960px;
+	margin: 0 auto;
+}
+
 .st p,.st span{
 	font-family: "MicrosoftYaHei";
 	font-size: 12px;
@@ -878,108 +890,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	background: #f3f3f3;
 }
 
-.store{
-	width:960px;
-	height: 500px;
-	margin: 0 auto;
-	background: url(../img/store.png) no-repeat 50% 50%;
 
-}
-.store h1{
-	color: #333;
-	font-size: 30px;
-	font-family:"悦黑细体";
-}
-
-.store_1_content,.store_2_content,.store_3_content,.store_4_content{
-	height: 500px;
-	width: 590px;
-	margin: 0 auto;
-	position: relative;
-}
-
-.store_1_left,.store_3_left{
-	vertical-align: top;
-	padding-top: 130px;
-	display: inline-block;
-}
-
-.store_person{
-	position: relative;
-    margin-top: 40px;
-}
-
-.store_person h2{
-	font-size: 20px;
-	font-weight: 900;
-	color: #ccc;
-	display: inline-block;
-	font-family: "Gotham Black";
-	position: relative;
-	vertical-align: top;
-}
-
-.store_text{
-	width: 320px;
-	display: inline-block;
-	position: relative;
-	top: 140px;
-}
-
-.store_text p{
-	margin-top: 42px;
-	line-height: 20px;
-}
-
-.store_materia{
-	margin-top: 15px;
-	line-height: 10px;
-}
-
-.store_size{
-	margin-top: 10px;
-	line-height: 10px;
-}
-
-.store_materia span:last-child,.store_size span:last-child{
-	margin-left: 12px;
-}
-
-.store_1_right,.store_3_right{
-	left: 82px;
-}
-
-.store_2_right{
-	position: absolute;
-	right: 0;
-	top: 130px;
-}
-
-.store_person a{
-	position: absolute;
-	display:inline;
-	width: 200px;
-	height: 68px;
-	overflow: hidden;
-	border-radius: 100px;
-	-moz-border-radius:100px;
-	-webkit-border-radius:100px;
-	margin-left: 22px;
-}
-
-.store_person a:hover span{
-	left: 0;
-	color: #333;
-	-webkit-transition: left .5s;
-	-o-transition: left .5s;
-	transition: left .5s;
-}
-
-.anim{
-	width:200px;
-	background-position: 4px 50%; 
-	color: #333;
-}
 
 
 @media screen and (min-width: 768px) and (max-width: 959px){
@@ -1012,12 +923,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	.bot-ex{
 		text-align: center;
-	}
-	.store{
-		width: 630px;
-	}
-	.store_person a{
-		width: 68px;
 	}
 	.n_b{
 		display: none;
@@ -1089,35 +994,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	.search-box{
 		display: none;
-	}
-	
-	.store{
-		width: 480px;
-	}
-	.store h1{
-		font-size: 22px;
-	}
-	.store_1_content, .store_2_content, .store_3_content, .store_4_content{
-		width: 450px;
-	}
-	.store_text{
-		width: 250px;
-		top: 130px;
-	}
-	.store_person a{
-		width: 68px;
-	}
-	.two,.four{
-		margin-left: -48px!important;
-	}
-	.store_1_right, .store_3_right{
-		left: 10px;
-	}
-	.store_1_left{
-		padding-top: 130px;
-	}
-	.store_1_left img,.store_2_right img{
-		width: 160px;
 	}
 	.n_b{
 		display: none;
@@ -1234,33 +1110,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	.top-img{
 		left: 30px;
-	}
-	
-	.store{
-		width: 100%;
-	}
-	.store h1{
-		font-size: 22px;
-	}
-	.store_1_content, .store_2_content, .store_3_content, .store_4_content{
-		width: 100%;
-	}
-	.store_text{
-		width: 250px;
-		top: 130px;
-	}
-	.store_person a{
-		width: 68px;
-	}
-	.store_1_right, .store_3_right{
-		left: 10px;
-	}
-	.store_1_left{
-		padding-top: 130px;
-		padding-left: 10px;
-	}
-	.store_1_left img,.store_2_right img{
-		width: 160px;
 	}
 	.intro_infor_left{
 		float: none;
