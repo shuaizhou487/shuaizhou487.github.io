@@ -1224,6 +1224,11 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	#box_2{
 		width: 100%;
 	}
+
+	#box_2 img{
+		width: 100%;
+        height: auto;
+	}
 	.top-img{
 		left: 30px;
 	}
