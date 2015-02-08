@@ -1,24 +1,4 @@
 $(document).ready(function(){
-	$(".icon-1").toggle(function(){
-		$(".icon-1").addClass("icon-1-click");
-	},function(){
-		$(".icon-1").removeClass("icon-1-click");
-	});
-
-	$(".icon-3").toggle(function(){
-		$(".message-share").show();
-	},function(){
-		$(".message-share").hide();
-	});
-
-
-            $(".m-icon").toggle(function(){
-          		$(".m-menu").show();
-          	},function(){
-          		$('.m-menu').hide();
-          	});
-
-	       $(document).ready(function(){
 	$("#go-top").hide();
 	        $(window).scroll(function(){
 	            	$(window).scroll(function(){
@@ -36,6 +16,4 @@ $(document).ready(function(){
 	        	return false;
 	         });
 })
-
-});
 
