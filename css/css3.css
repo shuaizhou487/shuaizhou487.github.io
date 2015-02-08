@@ -535,14 +535,18 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 }
 
 .design_ui{
+	padding: 2rem 0;
+}
 
+.design_element{
+	padding: 2rem 0;
 }
 
 .design_img{
     margin:1.5rem 0 0.5rem;
 }
 .design_img img{
-	width: 100%;
+	width: 60%;
 }
 
 
