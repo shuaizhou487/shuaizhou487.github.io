@@ -499,9 +499,38 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	height: 44px;
 	display: inline-block;
 	line-height: 44px;
-	background: #dab564;
 	color: #fff;
 	margin-top: 100px;
+}
+
+
+/*sohufilm*/
+.cb_sohufilm .number_box, .cb_sohufilm .title_line{
+	background: #dab564;
+}
+.cb_sohufilm .title_inside{
+	color: #dab564;
+}
+.cb_sohufilm .web_link a{
+	color: #00b3ff;
+}
+
+
+/*sce*/
+.cb_sce .number_box, .cb_sce .title_line{
+	background: #409AF0;
+}
+
+.cb_sce .title_inside{
+	color: #409AF0;
+}
+
+.cb_sce .web_link a{
+	color: #f45b5b;
+}
+
+.nb{
+	margin-top: 15rem;
 }
 
 .title_line{
@@ -527,7 +556,6 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 
 .web_link a{
 	font-size: 16px;
-	color: #00b3ff;
 }
 
 .web_link a:hover{
@@ -743,21 +771,34 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	height: 100%;
 }
 
+@media screen and (min-width: 1400px){
+	.header-box{
+		width: 640px;
+	}
+}
 
 
-
-@media screen and (min-width: 768px) and (max-width: 959px){
+@media screen and (min-width: 768px) and (max-width: 859px){
 	.header-box{
 		width: 630px;
 	}
 	.waterfall{
-		width: 660px;
+		width: 630px;
+	}
+	.img-list{
+		width: 630px;
+	}
+	.location{
+		display: none;
 	}
 	#img-box-b{
 		margin: 0 0 30px 0;
 	}
 	.menu{
 		right: 0;
+	}
+	.intro_infor{
+		width: 100%;
 	}
 	.search-box{
 		display: none;
@@ -816,6 +857,14 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	.menu li a{
 		display: block;
+	}
+	.mobile_nav{
+		width: 88px;
+		height: 88px;
+		display: inline-block;
+	}
+	.location{
+		display: none;
 	}
 	.search-box{
 		display: none;
