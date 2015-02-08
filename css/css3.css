@@ -485,7 +485,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 }
 
 .container_box{
-	width: 960px;
+	width: 100%;
 	margin: 0 auto;
 	text-align: center;
 	position: relative;
