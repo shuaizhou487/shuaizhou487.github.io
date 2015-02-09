@@ -528,6 +528,23 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 .cb_sce .web_link a{
 	color: #f45b5b;
 }
+/*fans*/
+.cb_fans .number_box, .cb_fans .title_line{
+	background: #00a79d;
+}
+.cb_fans .title_inside{
+	color: #00a79d;
+}
+
+.cb_fans .web_link a{
+	color: #00a79d;
+}
+.cb_mila .number_box, .cb_mila .title_line{
+	background: #eb5055;
+}
+.cb_mila .title_inside{
+	color: #eb5055;
+}
 
 .nb{
 	margin-top: 15rem;
@@ -575,6 +592,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 }
 .design_img img{
 	width: 60%;
+}
+#sceimg{
+	width: 30%;
+	margin:0 auto;
 }
 
 
