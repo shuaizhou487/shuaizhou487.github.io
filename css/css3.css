@@ -225,7 +225,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	height: 170px;
 	background: #fff;
 	position: relative;
-	margin-top: 50px;
+	margin-top: 150px;
 }
 
 .bot-link {
@@ -331,7 +331,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 
 .waterfall{
   width: 960px;
-  margin: 0 auto;
+  margin: 50px auto;
   position: relative;
 }
 
@@ -544,6 +544,9 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 }
 .cb_mila .title_inside{
 	color: #eb5055;
+}
+.cb_mila img{
+	box-shadow: 0 0 5px rgba(0,0,0,.1);
 }
 
 .nb{
