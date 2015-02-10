@@ -486,6 +486,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	margin: 0 auto;
 	text-align: center;
 	position: relative;
+	line-height: 1.5;
 }
 
 .space_box{
@@ -539,6 +540,8 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 .cb_fans .web_link a{
 	color: #00a79d;
 }
+
+/*mila*/
 .cb_mila .number_box, .cb_mila .title_line{
 	background: #eb5055;
 }
@@ -548,6 +551,15 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 .cb_mila img{
 	box-shadow: 0 0 5px rgba(0,0,0,.1);
 }
+
+/*seewrod*/
+.cb_seeword .number_box,.cb_seeword .title_line{
+	background: #12469a;
+}
+.cb_seeword .title_inside{
+	color: #12469a;
+}
+
 
 .nb{
 	margin-top: 15rem;
@@ -594,7 +606,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
     margin:1.5rem 0 0.5rem;
 }
 .design_img img{
-	width: 60%;
+	width: 70%;
 }
 #sceimg{
 	width: 30%;
