@@ -567,6 +567,13 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 .cb_seeword .title_inside{
 	color: #12469a;
 }
+/*player*/
+.cb_player .number_box, .cb_player .title_line{
+	background: #fd2147;
+}
+.cb_player .title_inside{
+	color: #fd2147;
+}
 
 .title_line{
 	width: 24px;
@@ -618,6 +625,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 }
 .design_img img{
 	width: 70%;
+}
+.cb_player_img{
+	width: 40%;
+	margin:0 auto;
 }
 #sceimg{
 	width: 30%;
