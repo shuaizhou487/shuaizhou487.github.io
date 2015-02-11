@@ -502,7 +502,14 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	display: inline-block;
 	line-height: 44px;
 	color: #fff;
-	margin-top: 100px;
+}
+
+.part{
+	margin-top: 10rem;
+}
+
+.nb{
+	margin-top: 5rem;
 }
 
 
@@ -561,11 +568,6 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	color: #12469a;
 }
 
-
-.nb{
-	margin-top: 15rem;
-}
-
 .title_line{
 	width: 24px;
 	height: 5px;
@@ -597,6 +599,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 
 .design_ui{
 	padding: 2rem 0;
+	font-size: 16px;
 }
 
 .design_ui em{
