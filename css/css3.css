@@ -34,6 +34,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	position: relative;
 	top: 24px;
 	display: inline-block;
+	left: 0;
 }
 .top-img img{
 	width: 50px;
@@ -598,6 +599,13 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	padding: 2rem 0;
 }
 
+.design_ui em{
+	font-style: normal;
+	font-size: 18px;
+	font-weight: 500;
+	color: #dab564;
+}
+
 .design_element{
 	padding: 2rem 0;
 }
@@ -1035,5 +1043,8 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	.breadcrumb_nav_icon{
 		width: 100%;
 		padding: 0 0.9375rem;
+	}
+	.design_img img{
+		width: 100%;
 	}
 }
