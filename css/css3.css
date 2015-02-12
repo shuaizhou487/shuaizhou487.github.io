@@ -574,7 +574,6 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 .cb_player .title_inside{
 	color: #fd2147;
 }
-
 .title_line{
 	width: 24px;
 	height: 5px;
@@ -625,6 +624,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 }
 .design_img img{
 	width: 70%;
+}
+/*xiaomi*/
+.cb_xiaomi img{
+	width: 30%;
 }
 .cb_player_img{
 	width: 40%;
