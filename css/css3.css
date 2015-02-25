@@ -414,7 +414,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 
 .box{
   height:68px; 
-  background: rgba(0,0,0,0.3);
+  background: rgba(0,0,0,0.1);
   position: relative;
   display: block;
   top: -68px;
@@ -430,6 +430,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
   white-space: nowrap;
   font-size: 18px;
   top: 15px;
+  color: #fff;
 }
 
 .img-title span:hover{
@@ -440,18 +441,17 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
   padding:0 15px 0 15px; 
   color: #ccc; 
   font-size: 12px; 
-  height: 42px;
   position: relative;
 }
 
 .head-img{
   position:relative;
-  height: 42px;
+  color: rgba(255,255,255,.6);
 }
 
 .head-img a{
   width: 210px;
-  height: 42px;
+  height: 35px;
   display: inline-block;
   position: relative;
 }
@@ -467,6 +467,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 .head-img-name{
   top: 15px;
   position: absolute;
+  color: rgba(255,255,255,.6);
 }
 
 .head-img-name:hover{
