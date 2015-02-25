@@ -5,7 +5,7 @@ a,input,textarea,button{
 	outline: none;
 }
 /*header.css*/
-body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14px "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;}
+body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-family: 'Lato', sans-serif; }
 .header{
 	height: 97px;
 	position: relative;
@@ -405,7 +405,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 }
 
 #m-img{
-	width: auto;
+	width: 380px;
 	height: 340px;
 	display: block;
 	margin: 0 auto;
@@ -509,6 +509,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	margin-top: 15rem;
 }
 
+.part_1{
+	margin-top: 0;
+}
+
 .nb{
 	margin-top: 5rem;
 }
@@ -605,8 +609,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 }
 
 .design_ui{
-	padding: 2rem 0 0 0;
-	font-size: 0.875rem;
+	font-size: 1.25rem;
+	color: #666;
+	width: 720px;
+	margin: 0 auto;
 }
 
 .design_ui em{
@@ -614,6 +620,21 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
 	font-size: 18px;
 	font-weight: 500;
 	color: #dab564;
+}
+
+.design_title{
+	font-size: 1.5rem;
+	color: #12469a;
+	margin:  1.5rem 0;
+}
+
+.design_p{
+	width: 640px;
+	margin: 1.5rem auto;
+	color: #ccc;
+	font-size: 1.25rem;
+	text-align: justify;
+	line-height: 1.5;
 }
 
 .design_element{
@@ -624,8 +645,9 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%;font:14p
     margin:1.5rem 0 0.5rem;
 }
 .design_img img{
-	width: 60%;
+	width: 90%;
 }
+#ti_img{width: 15%; margin: 1.5rem auto;}
 /*xiaomi*/
 .cb_xiaomi img{
 	width: 30%;
