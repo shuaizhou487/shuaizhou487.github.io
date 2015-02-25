@@ -413,12 +413,13 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 
 
 .box{
-  height:100%; 
+  height:68px; 
   background: rgba(0,0,0,0.3);
   position: relative;
-  display: none;
-  top: -100%;
+  display: block;
+  top: -68px;
   z-index: 1;
+  color: #fff;
 }
 
 .img-title{padding:0 0 0 15px; height: 33px; position: relative;}
@@ -466,7 +467,6 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 .head-img-name{
   top: 15px;
   position: absolute;
-  left: 34px;
 }
 
 .head-img-name:hover{
@@ -529,6 +529,11 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 	color: #00b3ff;
 }
 
+.cb_sohufilm .design_title{
+	color: #dab564;
+}
+
+
 
 /*sce*/
 .cb_sce .number_box, .cb_sce .title_line{
@@ -572,6 +577,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 .cb_seeword .title_inside{
 	color: #12469a;
 }
+
+.cb_seeword .design_title{
+	color: #12469a;
+}
 /*player*/
 .cb_player .number_box, .cb_player .title_line{
 	background: #fd2147;
@@ -579,6 +588,11 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 .cb_player .title_inside{
 	color: #fd2147;
 }
+#m_i{
+	width: 15%;
+	margin: 0 auto;
+}
+
 .title_line{
 	width: 24px;
 	height: 5px;
@@ -595,9 +609,8 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 	color: #dab564;
 }
 
-.respon_work{
-	margin: 1.5rem 0 0.5rem;
-	color: #666;
+.web_link{
+	margin: 1.5rem auto;
 }
 
 .web_link a{
@@ -612,7 +625,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 	font-size: 1.25rem;
 	color: #666;
 	width: 720px;
-	margin: 0 auto;
+	margin: 2rem auto 0;
 }
 
 .design_ui em{
@@ -624,7 +637,6 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 
 .design_title{
 	font-size: 1.5rem;
-	color: #12469a;
 	margin:  1.5rem 0;
 }
 
