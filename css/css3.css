@@ -629,7 +629,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 	margin: 2rem auto 0;
 }
 
-.design_ui em{
+em{
 	font-style: normal;
 	font-size: 18px;
 	font-weight: 500;
