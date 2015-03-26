@@ -993,7 +993,8 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     	width: 100%;
     }
     .design_ui,.design_p{width: 100%; padding: 0 0.9375rem;}
-
+    .part_2{margin-top: 8rem;}
+    .nb{margin-top: 8rem;}
     .img-list li{
     	width: 100%;
     	height: auto;
