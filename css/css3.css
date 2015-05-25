@@ -1297,6 +1297,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	.portfolio_content{
 		width: 100%;
 		padding: 5rem 0;
+		display: inline-block;
 	}
 	.portfolio_content_img{
 		width: 100%;
@@ -1380,6 +1381,10 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 
 .copy{
 	width: 100%;
+}
+
+.portfolio_content_right .copy{
+	float: none;
 }
 
 .heading2{
