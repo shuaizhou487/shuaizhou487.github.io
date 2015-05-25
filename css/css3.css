@@ -1379,7 +1379,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	padding-top: 2rem;
 }
 
-.meta{
+.meta p{
 	display: none;
 }
 
