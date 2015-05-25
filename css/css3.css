@@ -1283,9 +1283,9 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     .menu{
     	right: 0px;
     }
-    .container{
+    /*.container{
     	padding: 0 0.9375rem;
-    }
+    }*/
 
     /*首页*/
     .sub_th_1{
@@ -1296,9 +1296,14 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 	.portfolio_content{
 		width: 100%;
-		padding: 5rem 0;
+		padding: 5rem 0.9375rem 2rem 0.9375rem;
 		display: inline-block;
 	}
+
+	.portfolio_content_right{
+		background: #f2f2f5;
+	}
+
 	.portfolio_content_img{
 		width: 100%;
 	}
@@ -1377,6 +1382,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 .inner{
 	width: 100%;
 	margin: 0;
+	text-align: center;
 }
 
 .copy{
@@ -1388,10 +1394,14 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 }
 
 .heading2{
-	padding-top: 2rem;
+	padding: 2rem 0;
 }
 
-.meta p{
+.meta{
+	display: none;
+}
+
+.headingline{
 	display: none;
 }
 
