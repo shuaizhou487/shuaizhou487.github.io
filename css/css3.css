@@ -58,7 +58,13 @@ body{font-size: 62.5%; overflow-y: scroll;background: #f2f2f5;height: 100%; font
 	height: 100%;
 }
 
-canvas{
+.canvas_img{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+#background: {
 	text-align: center;
 	width: 100%;
 }
@@ -1352,4 +1358,11 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	.design_img img{
 		width: 100%;
 	}
+
+	#background:{
+	text-align: center;
+	width: auto;
+	height: 100%;
+}
+
 }
