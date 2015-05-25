@@ -616,6 +616,7 @@ keyframes shrink{
 	width: 960px;
 	margin: 0 auto;
 	position: relative;
+    padding: 5rem 0.9375rem;
 }
 
 .linked {
@@ -1218,7 +1219,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 		width: 100%;
 	}
 	.footer{
-		height: 130px;
+		
 	}
 }
 
@@ -1264,7 +1265,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	}
 
 	.footer{
-		height: 130px;
+		
 	}
 }
 
