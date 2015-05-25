@@ -609,14 +609,12 @@ keyframes shrink{
 .footer {
 	width: 100%;
 	position: relative;
-	height: 100px;
 	z-index: 3;
 }
 
 .bot-link {
 	width: 960px;
 	margin: 0 auto;
-	height: 120px;
 	position: relative;
 }
 
@@ -673,7 +671,6 @@ keyframes shrink{
 
 .link-list{
 	position: relative;
-	padding-top: 20px;
 }
 
 .lik_logo{
@@ -1313,7 +1310,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     .nb{margin-top: 8rem;}
     .bot-link{
     	width: 100%;
-    	padding: 0 0.9375rem;
+    	padding: 5rem 0.9375rem;
     }
     .menu{
         display: none;
