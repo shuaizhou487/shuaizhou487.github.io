@@ -1360,17 +1360,18 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 		width: 100%;
 	}
 
+.canvas_img{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
 #background:{
 	text-align: center;
 	width: auto;
 	height: 100%;
 }
 
-.canvas_img{
-	width: 100%;
-	height: 100%;
-	overflow: hidden;
-}
 
 .inner{
 	width: 100%;
