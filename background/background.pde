@@ -12,7 +12,7 @@ void setup(){ //The block of code under setup runs only once at the start of the
 }
  
 void draw(){ //The block of code under draw loops continuously while the program is running
-  background(130,208,190); //Sets the background color to black
+  background(92,193,175); //Sets the background color to black
   
   fill(82,68,141,127); //Sets the fill color of any following objects to white
   ellipse(x,y,r + s/2,r + s/2); //Creates a circle with radius "r" and a center at the point (x,y)
