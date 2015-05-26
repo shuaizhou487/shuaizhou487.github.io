@@ -7,12 +7,12 @@ float yspeed = .8; //Creates the variable for the ellipse's speed when moving ve
 float xspeed = .9; //Creates the variable for the ellipse's speed when moving horizontally
 float zspeed = .6; 
 void setup(){ //The block of code under setup runs only once at the start of the program
-  size(2000,400); //Defines the size of the screen
+  size(2000,2000); //Defines the size of the screen
   noStroke();
 }
  
 void draw(){ //The block of code under draw loops continuously while the program is running
-  background(28,28,56); //Sets the background color to black
+  background(116,199,167); //Sets the background color to black
   
   fill(82,68,141,127); //Sets the fill color of any following objects to white
   ellipse(x,y,r + s/2,r + s/2); //Creates a circle with radius "r" and a center at the point (x,y)

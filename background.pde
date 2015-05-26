@@ -12,7 +12,7 @@ void setup(){ //The block of code under setup runs only once at the start of the
 }
  
 void draw(){ //The block of code under draw loops continuously while the program is running
-  background(116,199,167); //Sets the background color to black
+  background(130,208,190); //Sets the background color to black
   
   fill(82,68,141,127); //Sets the fill color of any following objects to white
   ellipse(x,y,r + s/2,r + s/2); //Creates a circle with radius "r" and a center at the point (x,y)
@@ -45,17 +45,17 @@ void draw(){ //The block of code under draw loops continuously while the program
   ellipse(z+x,y+x,r/3+y,r/3+y);
 
   x = x + xspeed;
-  if(x+r>width || x-r<0){ //If the sides of the ellipse reaches either side of the screen...
+  if(x+r>width/2 || x-r<0){ //If the sides of the ellipse reaches either side of the screen...
     xspeed = xspeed * -1; //..the side-to-side direction of the ellipse's movement reverses
   }
    
   y = y + yspeed; //Tells the circle to move up and down at a speed of "yspeed" pixels per frame
-  if(y+r>height || y-r<0){ //If the top or bottom of the ellipse reach the top or bottom of the screen..
+  if(y+r>height/2 || y-r<0){ //If the top or bottom of the ellipse reach the top or bottom of the screen..
     yspeed = yspeed * -1; //...the up or down direction of movement reverses
   }
   
   z = z + zspeed; //Tells the circle to move up and down at a speed of "yspeed" pixels per frame
-  if(z+r>height || z-r<0){ //If the top or bottom of the ellipse reach the top or bottom of the screen..
+  if(z+r>height/2 || z-r<0){ //If the top or bottom of the ellipse reach the top or bottom of the screen..
     zspeed = zspeed * -1; //...the up or down direction of movement reverses
   }
 }
