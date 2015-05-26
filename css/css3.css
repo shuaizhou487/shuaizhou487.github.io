@@ -137,7 +137,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #f2f2f5;height: 100%; font
 	position: relative;
 	text-align: center;
 	height: 100vh;
-	background: #5cc1af;
+	background: rgb(92,193,175);
 }
 
 .title_header_portfoilo{
