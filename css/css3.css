@@ -67,6 +67,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #f2f2f5;height: 100%; font
 #background: {
 	text-align: center;
 	width: 100%;
+	height: auto;
 }
 
 .sub_th_1{
