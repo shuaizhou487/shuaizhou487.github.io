@@ -1407,12 +1407,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	overflow: hidden;
 }
 
-.ani:{
-	width: auto;
-	height: 100%;
-}
-
-
 .inner{
 	width: 100%;
 	margin: 0;
@@ -1437,6 +1431,11 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 
 .headingline{
 	display: none;
+}
+
+canvas:{
+	width: auto;
+	height: 100%;
 }
 
 }
