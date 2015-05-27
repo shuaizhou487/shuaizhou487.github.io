@@ -745,9 +745,9 @@ keyframes shrink{
 }
 
 .heading6{
-	font-size: 1.25rem;
+	font-size: 1.15rem;
 	color: #787f8c;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 .portfolio_content_img{
@@ -768,13 +768,16 @@ keyframes shrink{
   padding: .5rem 1rem;
   border: 2px solid #5abd4f;
   border-radius: 3px;
+  background: #5abd4f;
   display: inline-block;
+  color: #fff;
 }
 
 .btn:hover{
-	border: 2px solid #5abd4f;
-	background: #5abd4f;
-	color: #fff;
+	border: 2px solid #4EB842;
+	border-radius: 3px;
+	background: #f2f2f5;
+	color: rgba(0,0,0,.6);
 }
 
 .copy{

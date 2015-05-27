@@ -7,7 +7,7 @@ float yspeed = .8; //Creates the variable for the ellipse's speed when moving ve
 float xspeed = .9; //Creates the variable for the ellipse's speed when moving horizontally
 float zspeed = .6; 
 void setup(){ //The block of code under setup runs only once at the start of the program
-  size(2000,2000); //Defines the size of the screen
+  size(1024,768); //Defines the size of the screen
   noStroke();
 }
  
