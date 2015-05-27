@@ -64,7 +64,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #f2f2f5;height: 100%; font
 	overflow: hidden;
 }
 
-.background{
+.ani{
 	width: 100%;
 	height: auto;
 }
@@ -1407,8 +1407,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	overflow: hidden;
 }
 
-.background:{
-	text-align: center;
+.ani:{
 	width: auto;
 	height: 100%;
 }
