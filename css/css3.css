@@ -701,6 +701,16 @@ keyframes shrink{
   z-index: 999;
 }
 
+.container_piece{
+	width: 100%;
+	position: relative;
+	height: auto;
+}
+
+.container_piece_2{
+	background: #11a0de;
+}
+
 .portfolio_content{
 	width: 960px;
 	margin: 0 auto;
@@ -719,6 +729,30 @@ keyframes shrink{
 
 .heading2{
 	font-size: 1.875rem;
+}
+
+.container_piece_2 .heading2 a{
+	color: #fff;
+}
+
+.container_piece_2 .headingline{
+	border-bottom: 3px solid#f2f2f5;
+}
+
+.container_piece_2 .heading6{
+	color: #eee;
+}
+
+.container_piece_2 .btn{
+  border: 2px solid #FFFFFF;
+  background: #FFFFFF;
+  color: #787878;
+}
+
+.container_piece_2 .btn:hover{
+  border: 2px solid #f2f2f5;
+  background: #11a0de;
+  color: #fff;
 }
 
 .heading2 a{
