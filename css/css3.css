@@ -110,6 +110,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #f2f2f5;height: 100%; font
 	color: rgba(255,255,255,1);
 }
 
+.menu_resume li a:hover{
+	color: rgba(100,100,100,.9);
+}
+
 .header a {
 	text-decoration: none;
 	list-style-type: none;
@@ -120,7 +124,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #f2f2f5;height: 100%; font
 }
 
 .menu_resume .selected a{
-	color: rgba(100,100,100,.8)!important;
+	color: rgba(100,100,100,.9)!important;
 }
 
 /*.selected0 a{
@@ -772,7 +776,7 @@ keyframes shrink{
 
 .container_piece_2 .btn:hover{
   border: 2px solid #f2f2f5;
-  background: #11a0de;
+  background: #54ABD0;
   color: #fff;
 }
 
@@ -831,7 +835,7 @@ keyframes shrink{
 .btn:hover{
 	border: 2px solid #4EB842;
 	border-radius: 3px;
-	background: #f2f2f5;
+	background: #fff;
 	color: rgba(0,0,0,.6);
 }
 
