@@ -98,7 +98,12 @@ body{font-size: 62.5%; overflow-y: scroll;background: #f2f2f5;height: 100%; font
 }
 
 .menu li a {
-	color: rgba(255,255,255,0.5)
+	color: rgba(255,255,255,0.5);
+	font-weight: 500;
+}
+
+.menu_resume li a{
+	color: rgba(100,100,100,.4);
 }
 
 .menu li a:hover{
@@ -112,6 +117,10 @@ body{font-size: 62.5%; overflow-y: scroll;background: #f2f2f5;height: 100%; font
 
 .selected a{
 	color: #fff!important;
+}
+
+.menu_resume .selected a{
+	color: rgba(100,100,100,.8)!important;
 }
 
 /*.selected0 a{
@@ -391,9 +400,7 @@ keyframes shrink{
 	margin:97px 0 0 0;
 }
 
-.intro_portfolio{
-	background: none;
-}
+
 
 .intro_infor{
 	width: 960px;
@@ -459,6 +466,15 @@ keyframes shrink{
 	margin: 0 auto;
 }
 
+.intro_resume{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.intro_resume_download{
+	padding-top: 3rem;
+}
+
 .intro_infor_left span{
 	display: inline-block;
 	line-height: 1.25rem;
@@ -479,6 +495,11 @@ keyframes shrink{
 
 #red{
 	background: #ee1d53;
+	display: inline-block;
+    line-height: 1.25rem;
+    padding: 0.5rem 1.5rem;
+    color: #fff;
+    font-size: .875rem;
 }
 
 .intro_infor_right{
@@ -708,7 +729,7 @@ keyframes shrink{
 }
 
 .container_piece_2{
-	background: #11a0de;
+	background: #54ABD0;
 }
 
 .portfolio_content{
@@ -1407,6 +1428,11 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	overflow: hidden;
 }
 
+.canvas-img .ani:{
+	width: auto;
+	height: 100%;
+}
+
 .inner{
 	width: 100%;
 	margin: 0;
@@ -1431,11 +1457,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 
 .headingline{
 	display: none;
-}
-
-canvas:{
-	width: auto;
-	height: 100%;
 }
 
 }
