@@ -810,7 +810,7 @@ keyframes shrink{
 }
 
 .portfolio_content_img{
-  width: 30%;
+  width: 40%;
   display: inline-block;
 }
 
@@ -840,7 +840,7 @@ keyframes shrink{
 }
 
 .copy{
-  width: 70%;
+  width: 60%;
   display: inline-block;
   float: right;
 }
