@@ -741,21 +741,11 @@ keyframes shrink{
 	width: 100%;
 	position: relative;
 	height: auto;
-	background: #f2f2f5;
-	-webkit-transition:all 0.8s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	-moz-transition:all 0.8s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	-o-transition:all 0.8s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	transition:all 0.8s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-}
-
-.container_piece:hover{	
-	box-shadow:0 0 20px 0 rgba(0,0,0,0.2),0 5px 10px 0 rgba(0,0,0,0.24);
-	z-index: 2;
-	position: relative;
+	background: #fff;
 }
 
 .container_piece_2{
-	background: #54ABD0;
+	background: #458fcf;
 }
 
 .portfolio_content{
@@ -792,6 +782,7 @@ keyframes shrink{
 
 .container_piece_2 .btn{
   border: 2px solid #FFFFFF;
+  border-radius: 3px;
   background: #FFFFFF;
   color: #787878;
 }
@@ -1033,7 +1024,7 @@ keyframes shrink{
 	color: #fd2147;
 }
 #m_i{
-	width: 15%;
+	width: 25%;
 	margin: 0 auto;
 }
 
