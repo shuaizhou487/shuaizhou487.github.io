@@ -1450,6 +1450,11 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     }*/
 
     /*首页*/
+    .ani{
+    	height: 100%;
+    	width: auto;
+    }
+
     .sub_th_1{
 		padding: 16rem 0.9375rem 0;
 	}
