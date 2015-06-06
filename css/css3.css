@@ -66,11 +66,11 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 }
 
 .logo_img{
-	background: url(../img/logo.png) 50% 50%;
+	background: url(../img/logo.png) 0% 50% no-repeat;
 	display: block;
     height: 97px;
-    width: 97px;
-    background-size: 100%;
+    width: 80px;
+    background-size: 70%;
 }
 
 .scrolled .logo_img{
@@ -138,7 +138,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 	color: rgba(255,255,255,0.5);
 }
 
-.menu_resume li a{
+.menu_resume li a, .menu_myself li a ,.menu_portfolio li a{
 	color: rgba(100,100,100,.4);
 }
 
@@ -149,6 +149,15 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 .menu_resume li a:hover{
 	color: rgba(100,100,100,.9);
 }
+
+.menu_myself li a:hover{
+    color: rgba(100,100,100,.9);	
+}
+
+.menu_portfolio li a:hover{
+	color: rgba(100,100,100,.9);
+}
+
 
 .header a {
 	text-decoration: none;
@@ -164,6 +173,14 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 }
 
 .menu_resume .selected a{
+	color: rgba(100,100,100,.9)!important;
+}
+
+.menu_myself .selected a{
+	color: rgba(100,100,100,.9)!important;
+}
+
+.menu_portfolio .selected a{
 	color: rgba(100,100,100,.9)!important;
 }
 
@@ -827,7 +844,7 @@ keyframes shrink{
 
 .container_piece_2 .btn:hover{
   border: 2px solid #f2f2f5;
-  background: #54ABD0;
+  background: #458fcf;
   color: #fff;
 }
 
