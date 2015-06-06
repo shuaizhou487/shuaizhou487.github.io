@@ -1450,7 +1450,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     }*/
 
     /*首页*/
-    .ani{
+    #ani{
     	height: 100%;
     	width: auto;
     }
