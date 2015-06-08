@@ -207,7 +207,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 	position: relative;
 	text-align: center;
 	height: 100vh;
-	background: rgb(92,193,175);
+	background: rgb(28,28,56);
 }
 
 .title_header_portfoilo{
@@ -1005,7 +1005,8 @@ keyframes shrink{
 .part_1{
 	margin-top: 0;
 	padding: 10rem 0;
-	background: #000;
+	background: url(../img/111.png) no-repeat;
+	background-size: cover;
 }
 
 
