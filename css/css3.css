@@ -1005,9 +1005,22 @@ keyframes shrink{
 .part_1{
 	margin-top: 0;
 	padding: 10rem 0;
+}
+
+.cb_seeword .part_1{
 	background: url(../img/111.png) no-repeat;
 	background-size: cover;
 }
+
+.cb_hci .part_1{
+    background: url(../img/hci_bg.png) no-repeat;
+	background-size: cover;	
+}
+
+.cb_sohufilm .part_1{
+	background: url(../img/film_bg.png) no-repeat;
+	background-size: cover;
+}	
 
 
 /*sohufilm*/
