@@ -51,6 +51,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 
 .header-box{
 	width: 100%;
+	max-width: 960px;
 	height: 97px;
 	position: relative;
 	margin: 0 auto;
@@ -166,6 +167,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 
 .selected a{
 	color: #fff!important;
+	font-weight: 800;
 }
 
 .scrolled .selected a{
@@ -1112,8 +1114,8 @@ keyframes shrink{
 }
 
 .title_inside{
-	font-size: 1.5rem;
-	font-weight: bold;
+	font-size: 2rem;
+	font-weight: 400;
 	color: #dab564;
 }
 
@@ -1131,17 +1133,17 @@ keyframes shrink{
 
 .design_ui{
 	font-size: 1.25rem;
-	color: #666;
+	color: #eee;
 	width: 720px;
 	margin: 2rem auto 0;
 }
 
-em{
+.cb_sohufilm em{
 	font-style: normal;
 	font-size: 18px;
 	font-weight: 700;
 	font-style: italic;
-	color: #12469a;
+	color: #dab564;
 }
 
 .design_title{
@@ -1380,16 +1382,9 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	height: 100%;
 }
 
-@media screen and (min-width: 1025px){
-	.header-box{
-		width: 960px;
-	}
-}
-
-
 @media screen and (min-width: 768px) and (max-width: 859px){
 	.header-box{
-		width: 630px;
+		width: 100%;
 	}
 	.location{
 		display: none;
@@ -1408,7 +1403,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 
 @media screen and (min-width: 480px) and (max-width: 767px){
 	.BD{
-		max-width:480px;
+		width:100%;
 	}
 	.header-box{
 		width: 100%;
@@ -1446,8 +1441,12 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 		display: none;
 	}
 
-	.footer{
-		
+	.design_ui{
+		width: 100%;
+	}
+
+	.bot-link{
+		width: 100%;
 	}
 }
 
