@@ -171,7 +171,7 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 }
 
 .scrolled .selected a{
-	color: rgba(0,0,0,0.5)!important;
+	color: rgb(20,28,39)!important;
 }
 
 .menu_resume .selected a{
@@ -1001,7 +1001,7 @@ keyframes shrink{
 }
 
 .part{
-	margin-top: 15rem;
+	padding-top: 10rem;
 }
 
 .part_1{
@@ -1010,13 +1010,17 @@ keyframes shrink{
 }
 
 .cb_seeword .part_1{
-	background: url(../img/111.png) no-repeat;
+	background: url(../img/seeword22.png) no-repeat;
 	background-size: cover;
 }
 
 .cb_hci .part_1{
     background: url(../img/hci_bg.png) no-repeat;
 	background-size: cover;	
+}
+
+.cb_seeword .part_2{
+    background: #f2f2f5;
 }
 
 .cb_sohufilm .part_1{
