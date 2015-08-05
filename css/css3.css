@@ -175,15 +175,15 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 }
 
 .menu_resume .selected a{
-	color: rgba(100,100,100,.9)!important;
+	color: rgb(20,28,39)!important;
 }
 
 .menu_myself .selected a{
-	color: rgba(100,100,100,.9)!important;
+	color: rgb(20,28,39)!important;
 }
 
 .menu_portfolio .selected a{
-	color: rgba(100,100,100,.9)!important;
+	color: rgb(20,28,39)!important;
 }
 
 /*.selected0 a{
@@ -567,11 +567,11 @@ keyframes shrink{
 	-moz-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 	-o-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 	transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	box-shadow:0 0 0px 0 rgba(0,0,0,0.2),0 1px 5px 0 rgba(0,0,0,0.24);
+	box-shadow:0 0 0px 0 rgba(0,0,0,0.2),0 1px 5px 0 rgba(0,0,0,0);
 }
 
 #red:hover{
-	box-shadow:0 0 2px 0 rgba(0,0,0,0.2),0 5px 10px 0 rgba(0,0,0,0.24);
+	box-shadow:0 0 2px 0 rgba(0,0,0,0.2),0 5px 12px 0 rgba(100,100,100,0.44);
 }
 
 .intro_infor_right{
@@ -806,7 +806,7 @@ keyframes shrink{
 }
 
 .container_piece_2{
-	background: #458fcf;
+	background: #71C0C9;
 }
 
 .portfolio_content{
@@ -850,7 +850,7 @@ keyframes shrink{
 
 .container_piece_2 .btn:hover{
   border: 2px solid #f2f2f5;
-  background: #458fcf;
+  background: #71C0C9;
   color: #fff;
 }
 
@@ -867,15 +867,12 @@ keyframes shrink{
 }
 
 .headingline_film{
-  color: #dab564!important;
-  border-bottom: 3px solid#dab564;
+  background: #dab564;
 }
 
-.headingline_music{
-	color:#fd2248!important;
-	border-bottom: 3px solid#fd2248;
+.headingline_hci{
+	background: #119fde;
 }
-
 
 
 .meta,.quote,.heading6,.heading3{
@@ -934,16 +931,17 @@ keyframes shrink{
 }
 
 .btn3{
-  border: 2px solid #fd2248;
+  border: 2px solid #119fde;
   border-radius: 3px;
-  background: #fd2248;
+  background: #fff;
+  color:#666;
 }
 
 .btn3:hover{
-	border: 2px solid #fd2248;
+	border: 2px solid #119fde;
 	border-radius: 3px;
-	background: #fff;
-	color: rgba(0,0,0,.6);
+	background: #119fde;
+	color: #fff;
 }
 
 .copy{
@@ -1007,6 +1005,10 @@ keyframes shrink{
 .part_1{
 	margin-top: 0;
 	padding: 10rem 0;
+}
+
+.part_3, .part_5{
+	background: #fbfbfb;
 }
 
 .cb_seeword .part_1{
