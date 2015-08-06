@@ -110,8 +110,12 @@ body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-fa
 	position: relative;
 	z-index: 2;
 	height: 100%;
-	padding-top: 19rem;
 }
+
+.sub_th_sb{
+		padding: 25% 0;
+		height: 100%;
+	}
 
 .menu {
 	position: relative;
@@ -999,7 +1003,7 @@ keyframes shrink{
 }
 
 .part{
-	padding-top: 10rem;
+	padding: 8rem 0;
 }
 
 .part_1{
@@ -1019,6 +1023,34 @@ keyframes shrink{
 .cb_hci .part_1{
     background: url(../img/hci_bg.png) no-repeat;
 	background-size: cover;	
+}
+
+.cb_hci .title_inside{
+	color: #119fde;
+	font-size: 3.5rem;
+	font-weight: 600;
+}
+
+.cb_hci .design_title{
+	color: #119fde;
+	font-size: 2rem;
+	font-weight: 600;
+}
+
+.design_img_list ul{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.design_img_list ul li{
+	float: left;
+	width: 50%;
+	margin: 0 auto;
+	display: inline-block;
+}
+
+.hci_con_list{
+
 }
 
 .cb_seeword .part_2{
@@ -1478,9 +1510,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
     	width: auto;
     }
 
-    .sub_th_1{
-		padding: 16rem 0.9375rem 0;
-	}
 	.p1{
 		font-size: 2.5rem;
 	}
