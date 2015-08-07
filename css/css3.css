@@ -1020,13 +1020,14 @@ keyframes shrink{
 	background-size: cover;
 }
 
+/*HCI*/
 .cb_hci .part_1{
     background: url(../img/hci_bg.png) no-repeat;
 	background-size: cover;	
 }
 
 .cb_hci .title_inside{
-	color: #119fde;
+	color: #fff;
 	font-size: 3.5rem;
 	font-weight: 600;
 }
@@ -1037,23 +1038,11 @@ keyframes shrink{
 	font-weight: 600;
 }
 
-.design_img_list ul{
-	width: 80%;
-	margin: 0 auto;
+.cb_hci .title_line{
+	background: #119fde;
 }
 
-.design_img_list ul li{
-	float: left;
-	width: 50%;
-	margin: 0 auto;
-	display: inline-block;
-}
-
-.hci_con_list{
-
-}
-
-.cb_seeword .part_2{
+.cb_seeword .part_2, .cb_hci .part_2{
     background: #f2f2f5;
 }
 
