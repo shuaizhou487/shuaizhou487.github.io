@@ -7,7 +7,7 @@ a,input,textarea,button{
 /*header.css
 box-shadow:0 0 30px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24)}
 */
-body{font-size: 62.5%; overflow-y: scroll;background: #fff;height: 100%; font-family: 'Lato', sans-serif; }
+body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-family: 'Lato', sans-serif; letter-spacing: .5px;}
 .header{
 	height: 97px;
 	position: fixed;
@@ -837,25 +837,8 @@ keyframes shrink{
 	color: #fff;
 }
 
-.container_piece_2 .headingline{
-	border-bottom: 3px solid#f2f2f5;
-}
-
 .container_piece_2 .heading6{
 	color: #eee;
-}
-
-.container_piece_2 .btn{
-  border: 2px solid #FFFFFF;
-  border-radius: 3px;
-  background: #FFFFFF;
-  color: #787878;
-}
-
-.container_piece_2 .btn:hover{
-  border: 2px solid #f2f2f5;
-  background: #71C0C9;
-  color: #fff;
 }
 
 .heading2 a{
@@ -871,11 +854,9 @@ keyframes shrink{
 }
 
 .headingline_film{
-  background: #dab564;
 }
 
 .headingline_hci{
-	background: #119fde;
 }
 
 
@@ -889,7 +870,7 @@ keyframes shrink{
 }
 
 .heading6{
-	font-size: 1.15rem;
+	font-size: 1rem;
 	color: #787f8c;
 	font-weight: 400;
 }
@@ -909,43 +890,27 @@ keyframes shrink{
   -moz-transition: all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
   -o-transition: all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
   transition: all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+  box-shadow:0 0 0px 0 rgba(0,0,0,0.2),0 1px 5px 0 rgba(0,0,0,0);
   padding: .5rem 1rem;
   display: inline-block;
   color: #fff;
 }
 
-.btn:hover{
-	border: 2px solid #4EB842;
-	border-radius: 3px;
-	background: #fff;
-	color: rgba(0,0,0,.6);
-}
-
 .btn1{
-  border: 2px solid #dab564;
-  border-radius: 3px;
   background: #dab564;
 }
 
-.btn1:hover{
-	border: 2px solid #dab564;
-	border-radius: 3px;
+.btn:hover{
+	box-shadow:0 0 2px 0 rgba(0,0,0,0.2),0 5px 12px 0 rgba(100,100,100,0.44);
+}
+
+.btn2{
 	background: #fff;
-	color: rgba(0,0,0,.6);
+	color: #666;
 }
 
 .btn3{
-  border: 2px solid #119fde;
-  border-radius: 3px;
   background: #119fde;
-  color:#fff;
-}
-
-.btn3:hover{
-	border: 2px solid #119fde;
-	border-radius: 3px;
-	background: #fff;
-	color: #666;
 }
 
 .copy{
@@ -1030,6 +995,10 @@ keyframes shrink{
 	color: #fff;
 	font-size: 3.5rem;
 	font-weight: 600;
+}
+
+.cb_hci .number_box, .cb_hci .title_line{
+	background: #119fde;
 }
 
 .cb_hci .design_title{
@@ -1160,7 +1129,7 @@ keyframes shrink{
 
 .design_ui{
 	font-size: 1.25rem;
-	color: #eee;
+	color: #666;
 	width: 720px;
 	margin: 2rem auto 0;
 }
@@ -1178,13 +1147,17 @@ keyframes shrink{
 	margin:  1.5rem 0;
 }
 
-.design_p{
+.design_p, .design_t_p{
 	width: 640px;
 	margin: 1.5rem auto;
-	color: #ccc;
+	color: #666;
 	font-size: 1.25rem;
-	text-align: justify;
+	text-align: left;
 	line-height: 1.5;
+}
+
+.design_t_p{
+	color: #fff;
 }
 
 .design_element{
