@@ -969,6 +969,7 @@ keyframes shrink{
 
 .part{
 	padding: 8rem 0;
+	position: relative;
 }
 
 .part_1{
@@ -980,21 +981,30 @@ keyframes shrink{
 	background: #fbfbfb;
 }
 
+.part_0:before{
+	content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0,0,0,0.35);
+}
+
 .cb_seeword .part_1{
 	background: url(../img/seeword22.png) no-repeat;
 	background-size: cover;
 }
 
 /*HCI*/
-.cb_hci .part_1{
-    background: url(../img/hci_bg.png) no-repeat;
-	background-size: cover;	
-}
-
-.cb_hci .title_inside{
-	color: #fff;
-	font-size: 3.5rem;
-	font-weight: 600;
+.cb_hci .part_0{
+    background: url(../img/hci_b.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+	height: 64vh;
+    /*background-color:rgba(2,173,231,0.5);*/
 }
 
 .cb_hci .number_box, .cb_hci .title_line{
@@ -1015,16 +1025,15 @@ keyframes shrink{
     background: #f2f2f5;
 }
 
-.cb_sohufilm .part_1{
-	background: url(../img/film_bg.png) no-repeat;
+.cb_sohufilm .part_0{
+	background: url(../img/film_b.jpg) no-repeat;
 	background-size: cover;
+    background-position: center;
+	height: 64vh;
 }	
 
 
 /*sohufilm*/
-.cb_sohufilm .number_box, .cb_sohufilm .title_line{
-	background: #dab564;
-}
 .cb_sohufilm .title_inside{
 	color: #dab564;
 }
@@ -1109,10 +1118,13 @@ keyframes shrink{
     position: relative;
 }
 
-.title_inside{
-	font-size: 2rem;
-	font-weight: 400;
-	color: #dab564;
+.part_0 .title_inside{
+	color: #fff;
+	font-size: 3.5rem;
+	font-weight: 600;
+	line-height: 10rem;
+	position: relative;
+	z-index: 1;
 }
 
 .web_link{
