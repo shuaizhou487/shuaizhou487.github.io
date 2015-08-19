@@ -1500,7 +1500,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	.portfolio_content_img{
 		width: 100%;
 	}
-
     .design_ui,.design_p{width: 100%; padding: 0 0.9375rem;}
     .part_2{margin-top: 8rem;}
     .nb{margin-top: 8rem;}
@@ -1546,6 +1545,9 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	.show_btn{
 		width: 100%;
 		padding: 1.75rem 0;
+	}
+	.sub_th_sb{
+		padding-top: 40vh;
 	}
 	#go-top{
 		right: 15px;
