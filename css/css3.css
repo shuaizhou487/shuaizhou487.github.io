@@ -113,7 +113,7 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .sub_th_sb{
-		padding: 25% 0;
+		padding: 40vh 0;
 		height: 100%;
 	}
 
@@ -1493,10 +1493,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 		display: inline-block;
 	}
 
-	.portfolio_content_right{
-		background: #f2f2f5;
-	}
-
 	.portfolio_content_img{
 		width: 100%;
 	}
@@ -1545,9 +1541,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	.show_btn{
 		width: 100%;
 		padding: 1.75rem 0;
-	}
-	.sub_th_sb{
-		padding-top: 40vh;
 	}
 	#go-top{
 		right: 15px;
