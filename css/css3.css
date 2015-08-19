@@ -1120,9 +1120,9 @@ keyframes shrink{
 
 .part_0 .title_inside{
 	color: #fff;
-	font-size: 3.5rem;
+	font-size: 3rem;
 	font-weight: 600;
-	line-height: 10rem;
+	line-height: 12rem;
 	position: relative;
 	z-index: 1;
 }
@@ -1169,7 +1169,7 @@ keyframes shrink{
 }
 
 .design_t_p{
-	color: #fff;
+	color: #333;
 }
 
 .design_element{
