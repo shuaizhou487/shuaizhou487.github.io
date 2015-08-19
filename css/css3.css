@@ -1037,6 +1037,11 @@ keyframes shrink{
 .cb_sohufilm .title_inside{
 	color: #dab564;
 }
+
+.cb_sohufilm .number_box{
+	background: #dab564;
+}
+
 .cb_sohufilm .web_link a{
 	color: #00b3ff;
 }
