@@ -1590,5 +1590,9 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 .headingline{
 	display: none;
 }
+.part_0 .title_inside{
+	font-size: 1.5rem;
+	line-height: 6rem;
+}
 
 }
