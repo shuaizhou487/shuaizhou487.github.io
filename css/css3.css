@@ -1011,12 +1011,6 @@ keyframes shrink{
 	background: #119fde;
 }
 
-.cb_hci .design_title{
-	color: #119fde;
-	font-size: 2rem;
-	font-weight: 600;
-}
-
 .cb_hci .title_line{
 	background: #119fde;
 }
@@ -1044,10 +1038,6 @@ keyframes shrink{
 
 .cb_sohufilm .web_link a{
 	color: #00b3ff;
-}
-
-.cb_sohufilm .design_title{
-	color: #dab564;
 }
 
 .film_box{
@@ -1099,9 +1089,6 @@ keyframes shrink{
 	color: #12469a;
 }
 
-.cb_seeword .design_title{
-	color: #12469a;
-}
 /*player*/
 .cb_player .number_box, .cb_player .title_line{
 	background: #fd2147;
@@ -1124,7 +1111,7 @@ keyframes shrink{
 }
 
 .part_0 .title_inside{
-	color: #fff;
+	color: rgba(255,255,255,.97);
 	font-size: 3rem;
 	font-weight: 600;
 	line-height: 12rem;
@@ -1162,13 +1149,16 @@ keyframes shrink{
 .design_title{
 	font-size: 1.5rem;
 	margin:  1.5rem 0;
+	font-weight: 700;
+	color: #333;
 }
 
 .design_p, .design_t_p{
 	width: 640px;
 	margin: 1.5rem auto;
 	color: #666;
-	font-size: 1.25rem;
+	font-size: 1.15rem;
+	font-weight: 400;
 	text-align: left;
 	line-height: 1.5;
 }
