@@ -7,7 +7,7 @@ a,input,textarea,button{
 /*header.css
 box-shadow:0 0 30px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24)}
 */
-body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-family: 'Lato', sans-serif; letter-spacing: .5px;}
+body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-family:sans-serif; letter-spacing: .5px;}
 .header{
 	height: 97px;
 	position: fixed;
@@ -977,8 +977,12 @@ keyframes shrink{
 	padding: 10rem 0;
 }
 
-.part_3, .part_5{
-	background: #fbfbfb;
+.cb_sohufilm .part_2,.cb_sohufilm .part_4,.cb_sohufilm .part_6,.cb_sohufilm .part_8,.cb_sohufilm .part_10{
+	background: #f2f2f5;
+}
+
+.cb_hci .part_1,.cb_hci .part_3,.cb_hci .part_5,.cb_hci .part_7,.cb_hci .part_9{
+	background: #f2f2f5;
 }
 
 .part_0:before{
@@ -1013,10 +1017,6 @@ keyframes shrink{
 
 .cb_hci .title_line{
 	background: #119fde;
-}
-
-.cb_seeword .part_2, .cb_hci .part_2{
-    background: #f2f2f5;
 }
 
 .cb_sohufilm .part_0{
@@ -1149,8 +1149,20 @@ keyframes shrink{
 .design_title{
 	font-size: 1.5rem;
 	margin:  1.5rem 0;
-	font-weight: 700;
+	font-weight: 900;
 	color: #333;
+}
+
+.cb_hci .design_title{
+	color: #119fde;
+}
+
+.design_subt{
+	text-align: center;
+	font-size: 1.25rem;
+	color: #333;
+	padding-top:3rem; 
+	font-weight: 600;
 }
 
 .design_p, .design_t_p{
@@ -1161,6 +1173,10 @@ keyframes shrink{
 	font-weight: 400;
 	text-align: left;
 	line-height: 1.5;
+}
+
+.design_p{
+	font-size: 0.875rem;
 }
 
 .design_t_p{
@@ -1491,7 +1507,7 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 	.portfolio_content_img{
 		width: 100%;
 	}
-    .design_ui,.design_p{width: 100%; padding: 0 0.9375rem;}
+    .design_ui,.design_t_p,.design_p{width: 100%; padding: 0 0.9375rem;}
     .part_2{margin-top: 8rem;}
     .nb{margin-top: 8rem;}
     .bot-link{
