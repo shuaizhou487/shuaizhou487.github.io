@@ -806,7 +806,7 @@ keyframes shrink{
 	background: #fff;
 }
 
-.container_piece_1{
+.container_piece_3{
 	padding: 5rem 0 0;
 }
 
@@ -835,7 +835,7 @@ keyframes shrink{
 }
 
 .container_piece_2 .heading2 a{
-	color: #fff;
+	color: #5c5c5c;
 }
 
 .container_piece_2 .heading6{
@@ -905,24 +905,14 @@ keyframes shrink{
   padding: .5rem 1rem;
   display: inline-block;
   color: #fff;
-}
-
-.btn1{
-  background: #dab564;
+  background: #5abd4f;
+  border-radius: 3px;
 }
 
 .btn:hover{
 	box-shadow:0 0 2px 0 rgba(0,0,0,0.2),0 5px 12px 0 rgba(100,100,100,0.44);
 }
 
-.btn2{
-	background: #5abd4f;
-	color: #666;
-}
-
-.btn3{
-  background: #5abd4f;
-}
 
 .copy{
   width: 60%;
