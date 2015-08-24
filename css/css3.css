@@ -796,6 +796,7 @@ keyframes shrink{
   background: #fafafa;
   position: relative;
   z-index: 999;
+  margin-bottom:5rem;
 }
 
 .container_piece{
@@ -809,14 +810,14 @@ keyframes shrink{
 	padding: 5rem 0 0;
 }
 
-.container_piece_2{
-	background: #71C0C9;
+.container_piece_4,.container_piece_2{
+	background: #fbfbfb;
 }
 
 .portfolio_content{
 	width: 960px;
 	margin: 0 auto;
-	padding: 9rem 0;
+	padding: 9rem 0 0 0;
 }
 
 .inner{
@@ -870,14 +871,24 @@ keyframes shrink{
 }
 
 .heading6{
-	font-size: 1rem;
+	font-size: 0.875rem;
 	color: #787f8c;
-	font-weight: 400;
+	font-weight: 300;
 }
 
 .portfolio_content_img{
   width: 40%;
   display: inline-block;
+  position: relative;
+  bottom: -4rem;
+  -webkit-transition: all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+  -moz-transition: all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+  -o-transition: all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+  transition: all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+}
+
+.portfolio_content_img:hover{
+	bottom: 1rem;
 }
 
 .portfolio_content_img img{
@@ -905,12 +916,12 @@ keyframes shrink{
 }
 
 .btn2{
-	background: #fff;
+	background: #5abd4f;
 	color: #666;
 }
 
 .btn3{
-  background: #119fde;
+  background: #5abd4f;
 }
 
 .copy{
@@ -997,11 +1008,6 @@ keyframes shrink{
     background: rgba(0,0,0,0.45);
 }
 
-.cb_seeword .part_1{
-	background: url(../img/seeword22.png) no-repeat;
-	background-size: cover;
-}
-
 /*HCI*/
 .cb_hci .part_0{
     background: url(../img/hci_b.jpg) no-repeat;
@@ -1025,6 +1031,13 @@ keyframes shrink{
     background-position: center;
 	height: 64vh;
 }	
+
+.cb_seeword .part_0{
+	background: url(../img/seeword22.png) no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 64vh;
+}
 
 
 /*sohufilm*/
