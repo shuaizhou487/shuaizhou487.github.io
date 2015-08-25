@@ -706,7 +706,7 @@ keyframes shrink{
 .footer {
 	width: 100%;
 	position: relative;
-	z-index: 3;
+	z-index: 999;
 }
 
 .bot-link {
@@ -795,7 +795,7 @@ keyframes shrink{
 .container{
   background: #fafafa;
   position: relative;
-  z-index: 999;
+  z-index: 99;
   margin-bottom:5rem;
 }
 
