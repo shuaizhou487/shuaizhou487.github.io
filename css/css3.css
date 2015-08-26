@@ -796,7 +796,8 @@ keyframes shrink{
   background: #fafafa;
   position: relative;
   z-index: 99;
-  margin-bottom:5rem;
+  margin:5rem 0;
+  overflow: hidden;
 }
 
 .container_piece{
@@ -804,14 +805,11 @@ keyframes shrink{
 	position: relative;
 	height: auto;
 	background: #fff;
-}
-
-.container_piece_3{
-	padding: 5rem 0 0;
+	max-height: 400px;
 }
 
 .container_piece_4,.container_piece_2{
-	background: #fbfbfb;
+	background: #f9f9f9;
 }
 
 .portfolio_content{
@@ -839,7 +837,7 @@ keyframes shrink{
 }
 
 .container_piece_2 .heading6{
-	color: #eee;
+	color: #787f8c;
 }
 
 .heading2 a{
