@@ -21,6 +21,28 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	-o-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 	transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 }
+
+.fp-tableCell{
+	height: 100% !important;
+	padding-left: 3rem;
+}
+
+.section_img{
+    width: 35%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+
+.section_bg_img{
+	height: 100%;
+}
+.section_text{
+	width: 40%;
+	margin-left: 6rem;
+}
+
 .scrolled{
 	background: rgba(255,255,255,0.97);
 	height: 60px;
@@ -67,11 +89,15 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .logo_img{
-	background: url(../img/logo.png) 0% 50% no-repeat;
 	display: block;
     height: 97px;
     width: 80px;
     background-size: 70%;
+}
+
+.seeword_logo_img{
+	background: url(../img/seeword_logo.png) 50% 50% no-repeat;
+	background-size: 70%;
 }
 
 .scrolled .logo_img{
@@ -849,7 +875,7 @@ keyframes shrink{
 	-ms-transform: scale(1.05);
 	-o-transform: scale(1.05);
 	transform: scale(1.05);
-	opacity: .87;
+	opacity: .17;
 }
 
 .portfolio_content_right .inner{
@@ -927,24 +953,6 @@ keyframes shrink{
 	color: #fff;
 }
 
-.part{
-	padding: 8rem 0;
-	position: relative;
-}
-
-.part_1{
-	margin-top: 0;
-	padding: 10rem 0;
-}
-
-.cb_sohufilm .part_2,.cb_sohufilm .part_4,.cb_sohufilm .part_6,.cb_sohufilm .part_8,.cb_sohufilm .part_10{
-	background: #f2f2f5;
-}
-
-
-.cb_hci .part_1,.cb_hci .part_3,.cb_hci .part_5,.cb_hci .part_7,.cb_hci .part_9{
-	background: #f2f2f5;
-}
 
 .part_0:before{
 	content: '';
@@ -1050,6 +1058,16 @@ keyframes shrink{
 }
 .cb_seeword .title_inside{
 	color: #12469a;
+	font-size: 3.7rem;
+	font-weight: 700;
+	text-align: left;
+	line-height: 1.2;
+}
+
+.title_inside span{
+	padding: 25vh 0;
+	text-align: center;
+	display: block;
 }
 
 /*player*/
@@ -1077,7 +1095,6 @@ keyframes shrink{
 	color: rgba(255,255,255,.97);
 	font-size: 3rem;
 	font-weight: 600;
-	line-height: 12rem;
 	position: relative;
 	z-index: 1;
 }
@@ -1097,7 +1114,7 @@ keyframes shrink{
 .design_ui{
 	font-size: 1.25rem;
 	color: #666;
-	width: 720px;
+	text-align: left;
 	margin: 2rem auto 0;
 }
 
@@ -1471,7 +1488,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 		width: 100%;
 	}
     .design_ui,.design_t_p,.design_p{width: 100%; padding: 0 0.9375rem;}
-    .part_2{margin-top: 8rem;}
     .nb{margin-top: 8rem;}
     .bot-link{
     	width: 100%;
@@ -1551,10 +1567,6 @@ src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Aven
 
 .portfolio_content_right .copy{
 	float: none;
-}
-
-.heading2{
-	padding: 2rem 0;
 }
 
 .meta{
