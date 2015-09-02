@@ -13,29 +13,40 @@
     <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
     <script type="text/javascript" src="js/myjs.js"></script>
     <script type="text/javascript" src="js/jquery.fullPage.min.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
     <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css">
+    <link rel="stylesheet" type="text/css" href="css/nav.css">
 </head>
 <body>
-	<div class="BD" id="fullpage">
+	<div class="BD">
 		<div class="Bg">
 		<div class="header">
 			<div class="header-box">
 			<div class="top-img">
 				<a href="index.html"><span class="logo_img hci_logo_img"></span></a>
 			</div>
-				<ul class="menu">
-					<li class="selected"><a href="portfolio.html">PORTFOLIO</a></li>
-					<li><a href="resume.html">RESUME</a></li>
-					<li><a href="myself.html" >ABOUT ME</a></li>
-				</ul>
+				
+			<div id="navbar" class="menu">
+		      <a href="#" class="menubtn">menu</a>
+		      <!-- use captain icon for toggle menu -->
+		      <div id="hamburgermenu" style="overflow: hidden; width: 0px;">
+		        <ul>
+		          <li><a href="portfolio.html">PORTFOLIO</a></li>
+		          <li><a href="resume.html">RESUME</a></li>
+		          <li><a href="myself.html">ABOUT ME</a></li>
+		        </ul>
+		      </div>
+		    </div>
+
 		</div>
 		</div>
 
-	    <div class="main_design_container">
+	    <div class="main_design_container" id="fullpage">
 	      <div class="container_box cb_hci">
 
 	    	<div class="section part part_0">
-	    		<div class="slide title_inside"><span>Health Care Information TV App</span></div>
+	    		<div class="slide title_inside"><span style="top:0;">Health Care Information TV App</span></div>
+	    		<div></div>
 	        </div>
 
 	        <div class="section part part_1">
@@ -62,26 +73,34 @@
                 </div>
 
 	    		<div class="section_text">
-			        <div class="title_inside">Define the problems</div>
+			        <div class="title_inside">Challenge</div>
 			        <div class="design_ui">
-			        	<span>Prove a better expeirences on health care education & service for Patients</span>
+			        	<span></span>
 			        </div>
 			    </div>
 		    </div>    
-		    <div class="section part part_4">    
-		        <div class="number_box nb">2</div>
-		        <div class="design_title">CHALLENGE</div>
-		        <div class="design_img"><img src="img/hci_5.png"></div>
+		    <div class="section part part_4">
+		        <div class="section_img">
+                		<div class="section_bg_img" style="background:url(img/hci_12.png) 50% 50% no-repeat;background-size:90%;"></div>
+                </div>
+
+	    		<div class="section_text">
+			        <div class="title_inside">Define the Problems</div>
+			        <div class="design_ui">
+			        	<span></span>
+			        </div>
+			    </div>
 		    </div>
 
 		    <div class="section part part_5">
-		    	<div class="number_box">3</div>
-		        <div class="design_title"><span>PROBLEMS</span></div>
-		        <div class="design_subt"><span>Visual Problems</span></div>
+		        <div class="title_inside" style="text-align:center;">Visual Problems</div>
 		        <div class="design_p"><span>- The alert box shows in a unfriendly way.</span></div>
 		        <div class="design_p"><span>- The information shows not clear is a source of confusion.</span></div>
 		        <div class="design_p"><span>- A lot of <em>Unreasonable Layout</em> of the information caused difficulty reading experience.</span></div>
-		        <div class="design_img"><img src="img/hci_6.png"></div>
+		    </div>
+		    
+		    <div class="section part part_6">    
+		        <div class="design_img"><img src="img/hci_12.png"></div>
 		        <div class="design_subt"><span>Manipulation Problems</span></div>
 		        <div class="design_p"><span>- Some buttons not reasonable operated.</span></div>
 		        <div class="design_p"><span>- Reduce click steps tp improve a better interactive experience.</span></div>
@@ -92,7 +111,7 @@
 		    <div class="section part part_6">   
 		        <div class="number_box">4</div> 
 		        <div class="design_title"><span>WIREFRAME</span></div>
-		        <div class="design_img"><img src="img/hci_9.png"></div>
+		        <div class="design_img"><img src="img/hci_13.png"></div>
 		    </div>
 		    
 		    <div class="section part part_7">

@@ -13,25 +13,35 @@
     <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
     <script type="text/javascript" src="js/myjs.js"></script>
     <script type="text/javascript" src="js/jquery.fullPage.min.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
     <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css">
+    <link rel="stylesheet" type="text/css" href="css/nav.css">
 </head>
 <body>
-	<div class="BD" id="fullpage">
+	<div class="BD">
 		<div class="Bg">
 		<div class="header">
 			<div class="header-box">
 			<div class="top-img">
 				<a href="index.html"><span class="logo_img seeword_logo_img"></span></a>
 			</div>
-				<ul class="menu">
-					<li class="selected"><a href="portfolio.html">PORTFOLIO</a></li>
-					<li><a href="resume.html">RESUME</a></li>
-					<li><a href="myself.html" >ABOUT ME</a></li>
-				</ul>
+
+			<div id="navbar" class="menu">
+		      <a href="#" class="menubtn">menu</a>
+		      <!-- use captain icon for toggle menu -->
+		      <div id="hamburgermenu" style="overflow: hidden; width: 0px;">
+		        <ul>
+		          <li><a href="portfolio.html">PORTFOLIO</a></li>
+		          <li><a href="resume.html">RESUME</a></li>
+		          <li><a href="myself.html">ABOUT ME</a></li>
+		        </ul>
+		      </div>
+		    </div>
+
 		</div>
 		</div>
 
-	    <div class="main_design_container">
+	    <div class="main_design_container" id="fullpage">
 	      <div class="container_box cb_seeword">
 
 	      	<div class="section part part_0">
@@ -39,13 +49,13 @@
 	        </div>
 
 	    	<div class="section part part_1">
-                <div class="section_img">
+                <div class="section_img" style="background:#fff;">
                 		<div class="section_bg_img" style="background:url(img/seeword4.png) no-repeat; background-size:cover;"></div>
                 </div>
 
 	    		<div class="section_text">
-			        <div class="title_inside"> Accuracy & Efficiency</div>
-			        <div class="design_ui">
+			        <div class="title_inside" style="color:#fff;"> Accuracy & Efficiency</div>
+			        <div class="design_ui" style="color:#eee;">
 			        	<span>Collaborated with the See Word Reading Student App to help teachers find the valuable data information EASILY and QUICKLY.</span>
 			        </div>
 			    </div>

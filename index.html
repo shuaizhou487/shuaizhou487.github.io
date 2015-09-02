@@ -13,6 +13,9 @@
     <link rel="stylesheet" type="text/css" href="css/css3.css">
     <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
     <script type="text/javascript" src="js/myjs.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css">
+    <link rel="stylesheet" type="text/css" href="css/nav.css">
     <script type="text/javascript">
        function getProcessingSketchId () { return 'sketch150421cib'; }
     </script>
@@ -26,11 +29,19 @@
 			<div class="top-img">
 				<a href="index.html"><span class="logo_img"></span></a>
 			</div>
-				<ul class="menu">
-					<li class="selected"><a href="#project_intro">PORTFOLIO</a></li>
-					<li><a href="resume.html">RESUME</a></li>
-					<li><a href="myself.html">ABOUT ME</a></li>
-				</ul>
+				
+            <div id="navbar" class="menu">
+              <a href="#" class="menubtn">menu</a>
+              <!-- use captain icon for toggle menu -->
+              <div id="hamburgermenu" style="overflow: hidden; width: 0px;">
+                <ul>
+                  <li><a href="portfolio.html">PORTFOLIO</a></li>
+                  <li><a href="resume.html">RESUME</a></li>
+                  <li><a href="myself.html">ABOUT ME</a></li>
+                </ul>
+              </div>
+            </div>
+
 		    </div>
 		</div>
 

@@ -100,8 +100,8 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .seeword_logo_img{
-	background: url(../img/see_logo.png) 50% 50% no-repeat;
-	background-size: 100%;
+	background: url(../img/seeword_logo.png) 50% 50% no-repeat;
+	background-size: 70%;
 }
 
 .hci_logo_img{
@@ -164,18 +164,8 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .menu li {
-	list-style-type: none;
-	display: inline-block;
-	text-align: center;
-	padding: 41px 0 36px 40px;
+	padding: 10px 0 10px 40px;
 	color: #666;
-	line-height: 20px;
-    font-size: .75rem;
-    font-weight: 500;
-}
-
-.menu li a {
-	color: rgba(255,255,255,0.5);
 }
 
 .menu_resume li a, .menu_myself li a ,.menu_portfolio li a{
@@ -972,7 +962,7 @@ keyframes shrink{
     left: 0;
     bottom: 0;
     right: 0;
-    background: rgba(0,0,0,0,0);
+    background: rgba(255,255,255,0.7);
 }
 
 /*HCI*/
@@ -982,6 +972,9 @@ keyframes shrink{
     background-position: center;
 	height: 64vh;
     /*background-color:rgba(2,173,231,0.5);*/
+}
+.cb_seeword .part_1{
+	background: #71c0c9;
 }
 
 .cb_hci .number_box, .cb_hci .title_line{
@@ -1071,6 +1064,7 @@ keyframes shrink{
 	font-weight: 700;
 	text-align: left;
 	line-height: 1.2;
+	letter-spacing:-.01818182em;
 }
 
 .cb_seeword .title_inside{
