@@ -35,6 +35,10 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
     height: 100%;
 }
 
+.cb_hci .section_img{
+	width: 65%;
+}
+
 .section_bg_img{
 	height: 100%;
 }
@@ -96,7 +100,12 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .seeword_logo_img{
-	background: url(../img/seeword_logo.png) 50% 50% no-repeat;
+	background: url(../img/see_logo.png) 50% 50% no-repeat;
+	background-size: 100%;
+}
+
+.hci_logo_img{
+	background: url(../img/HCI_logo.png) 50% 50% no-repeat;
 	background-size: 70%;
 }
 
@@ -963,7 +972,7 @@ keyframes shrink{
     left: 0;
     bottom: 0;
     right: 0;
-    background: rgba(0,0,0,0.45);
+    background: rgba(0,0,0,0,0);
 }
 
 /*HCI*/
@@ -991,7 +1000,7 @@ keyframes shrink{
 }	
 
 .cb_seeword .part_0{
-	background: url(../img/seeword22.png) no-repeat;
+	background: url(../img/seeword2.2.png) no-repeat;
 	background-size: cover;
 	background-position: center;
 	height: 64vh;
@@ -1056,18 +1065,27 @@ keyframes shrink{
 .cb_seeword .number_box,.cb_seeword .title_line{
 	background: #12469a;
 }
-.cb_seeword .title_inside{
-	color: #12469a;
+
+.title_inside{
 	font-size: 3.7rem;
 	font-weight: 700;
 	text-align: left;
 	line-height: 1.2;
 }
 
+.cb_seeword .title_inside{
+	color: #333;
+}
+.cb_hci .title_inside{
+	color:#11A0DE;
+}
+
 .title_inside span{
-	padding: 25vh 0;
 	text-align: center;
 	display: block;
+	position: relative;
+	top: -5rem;
+	color: #000;
 }
 
 /*player*/
@@ -1112,8 +1130,8 @@ keyframes shrink{
 }
 
 .design_ui{
-	font-size: 1.25rem;
-	color: #666;
+	font-size: 1.5rem;
+	color: #777;
 	text-align: left;
 	margin: 2rem auto 0;
 }
@@ -1173,6 +1191,10 @@ keyframes shrink{
 .design_img img{
 	width: 75%;
 }
+.cb_hci .design_img img{
+	width: 65%;
+}
+
 .design_img_high img{
     width: 70%;
 }

@@ -39,7 +39,7 @@ $(document).ready(function() {
 			$('#fullpage').fullpage({
 				continuousVertical: true,
 				sectionsColor: ['#fff', '#fff', '#fbfbfb', 'fff', '#000', '#258de8'],
-				anchors: ['page1', 'page2', 'page3', 'page4', 'page5', 'page6', 'page7', 'page8', 'page9'],
+				anchors: ['page1', 'page2', 'page3', 'page4', 'page5', 'page6', 'page7', 'page8', 'page9', 'page10'],
 				menu: '#menu',
 				'navigation':true,
 				scrollingSpeed: 500,
