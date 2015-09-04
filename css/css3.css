@@ -24,7 +24,94 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 
 .fp-tableCell{
 	height: 100% !important;
-	padding-left: 3rem;
+}
+
+.cb_seeword .part_2 .fp-tableCell{
+	display: block;
+}
+
+.splitter_text{
+	position: absolute;
+    top: 120px;
+    left: 0;
+    right: 0;
+}
+
+.splitter_title{
+	font-size: 3rem;
+}
+
+.splitter {
+    width: 100%;
+    height: 100%;
+    font-size: 0;
+    background: #3FAB49;
+}
+.resizable1, .resizable2 {
+    width: 50%;
+    height: 100%;
+    padding: 0.5em;
+    background-color: coral;
+    display: inline-block;
+}
+.resizable2 {
+    background-color: lightblue;
+}
+
+.splitter_img{
+	width: 40%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.left_back{
+	width: 100px;
+	height: 100%;
+	top: 0;
+	left: 0;
+	display: block;
+	position: absolute;
+	background: #fff;
+	z-index: 1;
+	border-right: 1px solid rgba(50,50,50,.08);
+	box-shadow: 2px 0px 3px rgba(50,50,50,0.05);
+}
+.left_back a{
+	display: block;
+	height: 100%;
+}
+
+.left_back a:hover{
+	background: #ed1952;
+	-webkit-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	-moz-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	-o-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+}
+
+.left_back a:hover span{
+	background: url(../img/back_hover.png) no-repeat;
+}
+
+.btn_down{
+	width: 50px;
+    height: 50px;
+    display: block;
+    border-radius: 50%;
+    bottom: 90px;
+    background:url(../img/down.png) no-repeat 50% 50% #39ad43;
+    background-size: contain;
+    z-index: 9;
+    position: relative;
+    margin: 0 auto;
+    box-shadow:0 17px 50px 0 rgba(0,0,0,0.12),0 12px 15px 0 rgba(0,0,0,0.14);
+}
+.btn_down:hover{
+	box-shadow:0 17px 50px 0 rgba(0,0,0,0.12),0 12px 25px 0 rgba(0,0,0,0.24);
+	-webkit-transition:all 0.7s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	-moz-transition:all 0.7s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	-o-transition:all 0.7s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	transition:all 0.7s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 }
 
 .section_img{
@@ -36,7 +123,7 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .cb_hci .section_img{
-	width: 65%;
+	width: 55%;
 }
 
 .section_bg_img{
@@ -44,7 +131,7 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 .section_text{
 	width: 40%;
-	margin-left: 6rem;
+	margin-left: 150px;
 }
 
 .scrolled{
