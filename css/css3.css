@@ -32,13 +32,14 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 
 .splitter_text{
 	position: absolute;
-    top: 120px;
+    top: 150px;
     left: 0;
     right: 0;
 }
 
 .splitter_title{
 	font-size: 3rem;
+	font-weight: 300;
 }
 
 .splitter {
@@ -75,14 +76,16 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	z-index: 1;
 	border-right: 1px solid rgba(50,50,50,.08);
 	box-shadow: 2px 0px 3px rgba(50,50,50,0.05);
+	opacity: 0;
 }
 .left_back a{
 	display: block;
 	height: 100%;
 }
 
-.left_back a:hover{
-	background: #ed1952;
+.left_back:hover{
+	opacity: .6;
+	background: #fff;
 	-webkit-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 	-moz-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 	-o-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
@@ -92,6 +95,42 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 .left_back a:hover span{
 	background: url(../img/back_hover.png) no-repeat;
 }
+/*first page btn*/
+.btn_down_el{
+	  position: absolute;
+	  bottom: 18px;
+	  left: 0;
+	  right: 0;
+	  height: 15px;
+	  -webkit-animation-duration: 1.5s;
+	  -webkit-animation-iteration-count: infinite;
+	  -webkit-animation-delay: 0s;
+	  -webkit-animation-timing-function: ease-out;
+	  -webkit-animation-fill-mode: forwards;
+	  animation-direction: alternate;
+}
+
+.btn_down_el:before,.btn_down_el:after{
+	  content: "";
+	  display: block;
+	  background: rgb(255,255,255);
+	  width: 2px;
+	  height: 15px;
+	  position: absolute;
+	  left: 50%;
+	  bottom: 0;
+	  -webkit-transform: rotate(-45deg);
+	  -webkit-transform-origin: 100% 100%;
+}
+
+.cb_seeword .btn_down_el:before, .cb_seeword .btn_down_el:after{
+	background: rgb(113,192,201);
+}
+
+.btn_down_el:after{
+  -webkit-transform: rotate(45deg);
+  -webkit-transform-origin: 0 100%;
+}
 
 .btn_down{
 	width: 50px;
@@ -99,7 +138,7 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
     display: block;
     border-radius: 50%;
     bottom: 90px;
-    background:url(../img/down.png) no-repeat 50% 50% #39ad43;
+    background: #fff;
     background-size: contain;
     z-index: 9;
     position: relative;
@@ -1052,6 +1091,14 @@ keyframes shrink{
     background: rgba(255,255,255,0.7);
 }
 
+.cb_seeword .part_0:before{
+	background: rgba(113,192,201,.95);
+}
+
+.cb_hci .part_0:before{
+	background: rgba(37,141,232,.95);
+}
+
 /*HCI*/
 .cb_hci .part_0{
     background: url(../img/hci_b.jpg) no-repeat;
@@ -1061,7 +1108,7 @@ keyframes shrink{
     /*background-color:rgba(2,173,231,0.5);*/
 }
 .cb_seeword .part_1{
-	background: #71c0c9;
+	background: #fff;
 }
 
 .cb_hci .number_box, .cb_hci .title_line{
@@ -1142,13 +1189,14 @@ keyframes shrink{
 }
 
 /*seewrod*/
+
 .cb_seeword .number_box,.cb_seeword .title_line{
 	background: #12469a;
 }
 
 .title_inside{
-	font-size: 3.7rem;
-	font-weight: 700;
+	font-size: 3rem;
+	font-weight: 300;
 	text-align: left;
 	line-height: 1.2;
 	letter-spacing:-.01818182em;
@@ -1165,8 +1213,9 @@ keyframes shrink{
 	text-align: center;
 	display: block;
 	position: relative;
-	top: -5rem;
-	color: #000;
+	color: #fff;
+	font-weight: 300;
+	top: -2rem;
 }
 
 /*player*/
@@ -1211,7 +1260,7 @@ keyframes shrink{
 }
 
 .design_ui{
-	font-size: 1.5rem;
+	font-size: 1.2rem;
 	color: #777;
 	text-align: left;
 	margin: 2rem auto 0;
