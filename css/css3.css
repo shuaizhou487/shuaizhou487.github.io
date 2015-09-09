@@ -41,6 +41,7 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	font-size: 3rem;
 	font-weight: 300;
 	padding-bottom: 20px;
+	color: #fff;
 }
 
 .splitter {
@@ -1326,6 +1327,10 @@ keyframes shrink{
 	color: #777;
 	text-align: left;
 	margin: 2rem auto 0;
+}
+
+.design_ui b{
+	font-weight: 300;
 }
 
 .cb_sohufilm em{
