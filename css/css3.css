@@ -1348,6 +1348,27 @@ keyframes shrink{
 	color: #333;
 }
 
+.design_title_left{
+	width: 30%;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.design_title_left span{
+	padding: 25vh 50px;
+	display: block;
+}
+.design_title_left p{
+	padding: 150px 30px;
+    display: block;
+    background-color: rgb(113, 192, 201);
+    border-radius: 5px;
+    font-size: 3rem;
+    color: #fff;
+}
+
 .cb_hci .design_title{
 	color: #119fde;
 }
