@@ -2,7 +2,7 @@
 	width:100%;
 	position:relative;
 	padding:50px 0 0 0;
-	background-color:#e5e9ea;
+    background-color: rgb(238, 238, 238);
 }
 
 .wireframes .row img{
@@ -55,11 +55,14 @@
     position: absolute;
     background-color: #fff;
     border-radius: 50%;
-    line-height: 3.5;
+    line-height: 1.7;
     right: 175px;
     z-index: 3;
     top: -25px;
-    box-shadow: 0px 3px 7px rgba(0,0,0,.1);
+    font-size: 30px;
+    font-weight: 300;
+    color:rgb(113, 192, 201);
+    box-shadow: 0px 3px 10px rgba(0,0,0,.2);
 }
 
 .on-left{
@@ -67,8 +70,18 @@
     padding: 30px 0;
     color: #fff;
     text-align: left;
-    width: 55%;
+    width: 50%;
     left: 15px;
+    font-size: 12px;
+}
+
+.on-right-text{
+	position: absolute;
+    padding: 30px 0;
+    color: #fff;
+    text-align: left;
+    width: 50%;
+    right: 5px;
     font-size: 12px;
 }
 
