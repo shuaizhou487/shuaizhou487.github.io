@@ -7,7 +7,7 @@ a,input,textarea,button{
 /*header.css
 box-shadow:0 0 30px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24)}
 */
-body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-family:sans-serif; letter-spacing: .5px;}
+body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-family: 'Open Sans', sans-serif; letter-spacing: .5px;}
 .header{
 	height: 97px;
 	position: fixed;
@@ -1349,7 +1349,7 @@ keyframes shrink{
 }
 
 .design_title_left{
-	width: 30%;
+	width: 40%;
     height: 100%;
     display: inline-block;
     position: absolute;
@@ -1357,16 +1357,16 @@ keyframes shrink{
     top: 0;
 }
 .design_title_left span{
-	padding: 25vh 50px;
+	padding: 25vh 70px;
 	display: block;
 }
 .design_title_left p{
-	padding: 150px 30px;
+	padding: 200px 0px;
     display: block;
     background-color: rgb(113, 192, 201);
-    border-radius: 5px;
     font-size: 3rem;
     color: #fff;
+    font-weight: 300;
 }
 
 .cb_hci .design_title{

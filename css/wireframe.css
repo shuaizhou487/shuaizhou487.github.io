@@ -9,21 +9,6 @@
 	z-index: 1;
 }
 
-.breath-top:before
-{
-	content: '';
-    display: block;
-    width: 100%;
-    height: 75px;
-    background: #e5e9ea;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: auto;
-    right: auto;
-    z-index: -1;
-}
-
 .wireframe-step{
     min-height: 150px;
     height: 220px;
@@ -55,9 +40,7 @@
     background-color: #fff;
     border-radius: 50%;
     line-height: 1.7;
-    right: 175px;
     z-index: 3;
-    top: -25px;
     font-size: 30px;
     font-weight: 300;
     color:rgb(113, 192, 201);
