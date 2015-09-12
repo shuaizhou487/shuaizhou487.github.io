@@ -1348,6 +1348,12 @@ keyframes shrink{
 	color: #333;
 }
 
+.row_text h2{
+	font-size: 3rem;
+	color: #333;
+	font-weight: 300;
+}
+
 .design_title_left{
 	width: 40%;
     height: 100%;
