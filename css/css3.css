@@ -1342,9 +1342,9 @@ keyframes shrink{
 }
 
 .design_title{
-	font-size: 1.5rem;
-	margin:  1.5rem 0;
-	font-weight: 900;
+	font-size: 3rem;
+	margin: 110px 0 30px 0;
+	font-weight: 300;
 	color: #333;
 }
 
@@ -1357,16 +1357,17 @@ keyframes shrink{
     top: 0;
 }
 .design_title_left span{
-	padding: 25vh 70px;
+	padding: 25vh 60px;
 	display: block;
 }
 .design_title_left p{
-	padding: 200px 0px;
+	padding: 50px 20px;
     display: block;
     background-color: rgb(113, 192, 201);
     font-size: 3rem;
     color: #fff;
     font-weight: 300;
+    text-align: left;
 }
 
 .cb_hci .design_title{
@@ -1403,12 +1404,24 @@ keyframes shrink{
 	padding: 2rem 0;
 }
 
-.design_img, .design_img_high{
-    margin:1.5rem 0 0.5rem;
+.design_img{
 }
+
 .design_img img{
-	width: 75%;
+	width: 25%;
 }
+
+.design_img_b{
+	width: 90%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+}
+
+.design_img_box{
+	width: 90%;
+}
+
 .cb_hci .design_img img{
 	width: 65%;
 }
