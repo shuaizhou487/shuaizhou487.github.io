@@ -29,19 +29,3 @@ $(document).ready(function() {
 
 			});
 });
-/*
-$(function(){
-    $(window).scroll(function(){
-             var tops = $(".header"); 
-             var scroH = $(document).scrollTop(); 
-             tops.each(function(){ 
-                var top = $(this).offset().top; 
-                    if (scroH > 0 ) { 
-                    $(".header").addClass('scrolled') ;
-                 } else { 
-                     $(".header").removeClass('scrolled') ;
-             } 
-        })  
-    })
-}) 
-*/

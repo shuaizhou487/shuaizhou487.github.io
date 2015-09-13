@@ -135,6 +135,10 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	background: rgb(113,192,201);
 }
 
+.cb_hci .btn_down_el:before, .cb_hci .btn_down_el:after{
+	background: #258de8;
+}
+
 .btn_down_el:after{
   -webkit-transform: rotate(45deg);
   -webkit-transform-origin: 0 100%;
@@ -225,7 +229,7 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .cb_hci .section_img{
-	width: 55%;
+	width: 45%;
 }
 
 .section_bg_img{
@@ -1155,11 +1159,11 @@ keyframes shrink{
 }
 
 .cb_seeword .part_0:before{
-	background: rgba(113,192,201,.95);
+	background: rgba(113,192,201,.94);
 }
 
 .cb_hci .part_0:before{
-	background: rgba(37,141,232,.95);
+	background: rgba(37,141,232,.97);
 }
 
 /*HCI*/
