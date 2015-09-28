@@ -8,10 +8,16 @@
     <meta name="description" content=""/>
     <meta name="keywords" content=""/>
     <title>Shuai | SoHu Film</title>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>-->
     <link rel="stylesheet" type="text/css" href="css/css3.css">
     <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
     <script type="text/javascript" src="js/myjs.js"></script>
+    <script type="text/javascript" src="js/jquery.fullPage.min.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css">
+    <link rel="stylesheet" type="text/css" href="css/wireframe.css">
+    <link rel="stylesheet" type="text/css" href="css/nav.css">
 </head>
 <body>
 	<div class="BD">
@@ -21,36 +27,43 @@
 			<div class="top-img">
 				<a href="index.html"><span class="logo_img"></span></a>
 			</div>
-				<ul class="menu">
-					<li class="selected"><a href="portfolio.html">PORTFOLIO</a></li>
-					<li><a href="resume.html">RESUME</a></li>
-					<li><a href="myself.html" >ABOUT ME</a></li>
-				</ul>
+				
+			<div id="navbar" class="menu">
+		      <a href="#" class="menubtn">menu</a>
+		      <!-- use captain icon for toggle menu -->
+		      <div id="hamburgermenu" style="overflow: hidden; width: 0px;">
+		        <ul>
+		          <li><a href="portfolio.html">PORTFOLIO</a></li>
+		          <li><a href="resume.html">RESUME</a></li>
+		          <li><a href="myself.html">ABOUT ME</a></li>
+		        </ul>
+		      </div>
+		    </div>
 		</div>
 		</div>
 
-	    <div class="main_design_container">
+	    <div class="main_design_container" id="fullpage">
 	      <div class="container_box cb_sohufilm">
 
-	      	<div class="part part_0">
-	    	<div class="title_inside">SoHu Film Website</div>
+	        <div class="section part part_0">
+	    		<div class="slide title_inside"><span style="top:0;">SoHu Film Website</span></div>
+	    		<a class="btn_down" href="#page2"><span class="btn_down_el"></span></a>
 	        </div>
 
-	       <div class="part part_1">
+	       <div class="section part part_1">
 	       	<div class="web_link"><a style="text-decoration:underline;" href="http://film.sohu.com" target="_Blank">www.film.sohu.com</a></div>
 	        <div class="design_ui"><span>Provide a better online <em>Movie-Going EXPERIENCE</em></span></div>
 		        <div class="design_t_p"><span>SoHu Film Website is a website which provided premium movies. Early in the project, I responsible for user research and imporve the user experience. Later, I responsible for interaction design and front-end program.</span></div>
 	        </div>
 
-	       <div class="part part_2">
+	       <div class="section part part_2">
 	        <div class="design_title">DESIGN PROCESS</div>
 	        <div class="title_line"></div>
 	        <div class="design_img"><img src="img/film.png"></div>
 	       </div>
 	       
-	       <div class="part part_3"> 
+	       <div class="section part part_3"> 
 	        <section class="film_box film_box_1">
-	        <div class="number_box">1</div>
 	        <div class="design_title">INTERVIEW & BENCHMARK</div>
 	        <div class="design_p"><span>Invited the users used few of similar products made by other company. Getiing some feedbacks and the suggests from them. </span></div>
 	        <div class="design_img"><img src="img/film3.4.png"></div>
@@ -59,9 +72,8 @@
 	        </section>
 	       </div>
 
-	       <div class="part part_4">
+	       <div class="section part part_4">
 	        <section class="film_box film_box_2">
-	        <div class="number_box">2</div>
 	        <div class="design_title">IDEATION</div>
 	        <div class="design_ui"><span>Information Structure</span></div>
 	        <div class="design_img_high"><img src="img/film2.png"></div>
@@ -70,25 +82,22 @@
 	        </section>
 	       </div>
 
-	       <div class="part part_5"> 
+	       <div class="section part part_5"> 
 	        <section class="film_box film_box_3">
-	        <div class="number_box">3</div>
 	        <div class="design_title">USABILITY TESTING</div>
 	        <div class="design_p"><span>There were 30 users to help us to do the user testing, we record the process to observe how the user find the movie which they want. <br> We find there has two groups, one of the group known which movie they want see， other group just want find a good movie to kill the time. </span></div>
 	        <div class="design_img"><img src="img/film3.3.png"></div>
 	        </section>
 	       </div>
 	       
-	       <div class="part part_6"> 
+	       <div class="section part part_6"> 
 	        <section class="film_box film_box_3">
-	        <div class="number_box">4</div>
 	        <div class="design_title">REFINE</div>
 	        </section>
 	       </div>
 
-	       <div class="part part_6">
+	       <div class="section part part_6">
 	        <section class="film_box film_box_4">
-            <div class="number_box">5</div>
 	        <div class="design_title">VISUAL PROTOTYPE</div>
             <div class="design_img"><img src="img/film7.png"></div>
             </section>

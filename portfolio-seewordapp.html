@@ -8,13 +8,12 @@
     <meta name="description" content=""/>
     <meta name="keywords" content=""/>
     <title>Shuai | See Word Reading</title>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>-->
     <link rel="stylesheet" type="text/css" href="css/css3.css">
     <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
     <script type="text/javascript" src="js/myjs.js"></script>
     <script type="text/javascript" src="js/jquery.fullPage.min.js"></script>
     <script type="text/javascript" src="js/menu.js"></script>
-    <script type="text/javascript" src="js/splitter.js"></script>
     <script type="text/javascript" src="js/jquery-ui.min.js"></script>
     <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css">
     <link rel="stylesheet" type="text/css" href="css/wireframe.css">
@@ -69,17 +68,21 @@
 
 	        <div class="section part part_2">
 	        	<div class="splitter_text">
-			        <div class="splitter_title">FROM OKAY TO DELIGHTFUL</div>
-			        <div class="splitter_p" style="color:#666;">
-			        	<span style="color:#000;"><em style="font-style:normal;color:#ccc;">&nbsp;&nbsp;&nbsp;ORIGINAL</em> &nbsp;| <em style="font-style:normal;color:#fff;">&nbsp;OUR VISION</em></span>
+			        <div class="splitter_title">FROM OK TO PLEASURABLE</div>
+			        <div class="splitter_p" style="color:#666;position: relative;top: 35px;">
+			        	<span><em style="font-style:normal;color:#ccc;">&nbsp;&nbsp;&nbsp;ORIGINAL</em> &nbsp; &nbsp; &nbsp;<em style="font-style:normal;color:#fff;">&nbsp;OUR VISION</em></span>
 			        </div>
 			    </div>
-                <div class="splitter_img">
+                <div class="splitter_img" sytle="width: 400px;">
                 	<div class="splitter">
-					    <div class="resizable1" style="background:url(img/before.png) no-repeat 50% 50%; background-size:contain;"></div>
-					    
-                		<div class="resizable2" style="background:url(img/after.png) no-repeat 50% 50%; background-size:contain;"></div>
-                	</div>	
+					    <img src="img/before.png" id="before" style="width: 100%; position:absolute;left:0;top:0px; clip: rect(0px 225px 337px 0px); z-index: 20;">
+					    <img src="img/after.png" id="after" style="width:100%;position:absolute;left:0;top:0px;clip: rect(0px 450px 337px 0px);z-index: 10;">
+					    <div id="line-demo" style="position: absolute; width: 1px; height: 450px; background-color:rgba(100,100,100,.2); z-index: 30; left:224px; top:-65px;"></div>
+					    <div id="demo-simple-slider" class="dragdealer">
+  							<a id="draggable" class="handle red-bar" style="width: 50px; height: 50px;position: absolute; z-index: 1000; cursor:move;"></a>
+						</div>
+                	</div>
+                	<div id="display"></div>	
                 </div>
 	        </div>
 
@@ -99,8 +102,8 @@
 	        </div>
 
 		    
-		    <div class="section part part_5" style="background-color: #71C0C9;">  
-		    	<div class="title_inside" style="font-size: 3rem;color: #fff;padding-bottom: 55px;position: relative; text-align:center;"> Mapping out the flow</div>
+		    <div class="section part part_4" style="background-color: #fff;">  
+		    	<div class="title_inside" style="font-size: 3rem;color: #333;padding-bottom: 55px;position: relative; text-align:center;"> Mapping out the flow</div>
 
 		        <div class="section_list">
 		        	<span class="section_list_line"></span>
@@ -124,10 +127,10 @@
 		        </div>
 		    </div>
 
-		    <div class="section part part_6" style="background-color: #f2f2f5;">
+		    <div class="section part part_6" style="background-color: #71C0C9;">
 		    	<div class="wireframes">
-		    		<div class="container" style="background-color:#f2f2f5; overflow:visible;">
-		    			<div class="row" style="padding-bottom: 75px;padding-top: 20px;">
+		    		<div class="container" style="background-color:#fff; overflow:visible;">
+		    			<div class="row" style="padding-bottom: 60px;padding-top: 97px;">
 		    				<div class="row_text">
 		    					<h2>WIREFRAMES</h2>
 		    					<h3 style="color:#777;font-size:1rem; font-weight:300;">A couple out of a handful of iterations I went through.</h3>
@@ -206,7 +209,7 @@
 		    <div class="section part part_9">
 		        <div class="row_text" style="margin-top: 97px;">
 		    					<h2>VISUAL REDESIGN</h2>
-		    					<h3 style="color:#777;font-size:1rem; font-weight:300;">I ended up re-designed the entire User Interface, here’s the final delivery:</h3>
+		    					<h3 style="color:#777;font-size:1rem; font-weight:300;">I ended up re-designed the entire User Interface, here’s the few final delivery:</h3>
 		        </div>
 		        <div class="design_img_b">
 					<img class="design_img_box" src="img/main_app.png">
@@ -240,5 +243,24 @@
  </div>
 </div>
 </div>
+<script type="text/javascript">
+		$(function() {
+		$("#draggable").draggable({ axis: "x", containment: "parent", drag: function(){
+
+
+
+			$("display").html("x: " + x + "x, diff: " + diff);
+			var x = $("#draggable").position().left;
+			var leftOriginal = 200;
+			var diff = x - 200;
+			var final = diff + 225;
+			$("#line-demo").css("left", x+25);
+			$("#before").css("clip", "rect(0px " + final + "px 337px 0px");
+
+			
+
+		} });
+	});
+	</script>
 </body>
 </html>
