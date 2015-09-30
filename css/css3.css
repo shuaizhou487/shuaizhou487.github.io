@@ -1262,8 +1262,8 @@ keyframes shrink{
 }
 
 .title_inside{
-	font-size: 3rem;
-	font-weight: 300;
+	font-size: 2.5rem;
+	font-weight: 400;
 	text-align: left;
 	line-height: 1.2;
 	letter-spacing:-.01818182em;
@@ -1327,8 +1327,9 @@ keyframes shrink{
 }
 
 .design_ui{
-	font-size: 1rem;
-	color: #777;
+	font-size: 1.4rem;
+	color: #1a2b44;
+	font-weight: 300;
 	text-align: left;
 	margin: 2rem auto 0;
 }
