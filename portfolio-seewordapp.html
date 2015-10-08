@@ -8,7 +8,6 @@
     <meta name="description" content=""/>
     <meta name="keywords" content=""/>
     <title>Shuai | See Word Reading</title>
-    <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>-->
     <link rel="stylesheet" type="text/css" href="css/css3.css">
     <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
     <script type="text/javascript" src="js/myjs.js"></script>
@@ -18,6 +17,7 @@
     <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css">
     <link rel="stylesheet" type="text/css" href="css/wireframe.css">
     <link rel="stylesheet" type="text/css" href="css/nav.css">
+     <link rel="stylesheet" type="text/css" href="css/font.css">
 </head>
 <body>
 	<div class="BD">
@@ -56,7 +56,7 @@
 	    	<div class="section part part_1">
 	    	  <div class="screen-main">
                 <span class="section_img">
-                		<img class="section_bg_img" src="img/seeword4.png">
+                		<img class="section_bg_img section_bg_img_1" src="img/seeword4.png">
                 </span>
 
 	    		<div class="section_text" style="width: 100%;padding: 70px 150px;margin: 0;">
@@ -72,10 +72,11 @@
 	        	<div class="splitter_text">
 			        <div class="splitter_title">Comparison</div>
 			    </div>
+			    <div class="splitter_p" style="color:#666;position: relative;top: -80px;width:450px;margin:0 auto;">
+			        	<span><em style="font-style:normal;color:#ccc;width: 225px;display: inline-block;left: 0;position: absolute;text-align: right;padding-right: 20px;">BEFORE</em><em style="font-style:normal;color:#fff;width: 225px;display: inline-block;right: 0;position: absolute;text-align: left;padding-left: 20px;">AFTER</em></span>
+			    </div>
+
                 <div class="splitter_img" sytle="width: 400px;">
-                	<div class="splitter_p" style="color:#666;position: relative;top: -30px;">
-			        	<span><em style="font-style:normal;color:#ccc;">BEFORE&nbsp;&nbsp;</em><em style="font-style:normal;color:#fff;">&nbsp;&nbsp;AFTER</em></span>
-			        </div>
                 	<div class="splitter">
 					    <img src="img/before.png" id="before" style="width: 100%; position:absolute;left:0;top:0px; clip: rect(0px 225px 337px 0px); z-index: 20;">
 					    <img src="img/after.png" id="after" style="width:100%;position:absolute;left:0;top:0px;clip: rect(0px 450px 337px 0px);z-index: 10;">
@@ -90,13 +91,13 @@
 
             <div class="section part part_3">
             	<div class="section_img" style="background:#71C0C9; width:50%;">
-                		<div class="section_bg_img" style="background:url(img/seeword2.png) no-repeat; background-size:90%; background-position:35% 50%;"></div>
+                		<div class="section_bg_img section_bg_img_2"></div>
                 </div>
 
 	    		<div class="section_text">
 			        <div class="title_inside"> Research & <br> Key Problems</div>
 			        <div class="design_ui">
-			        	<span><em style="color:#71C0C9; font-weight:300; font-style:normal; font-size:1.5rem;">+ </em><b> Jumbled Information</b></span><br>
+			        	<span><em style="color:#71C0C9; font-weight:300; font-style:normal; font-size:1.5rem; font-style: normal;color: #ccc;">+ </em><b> Jumbled Information</b></span><br>
 			        	<span><em style="color:#71C0C9; font-weight:300; font-style:normal; font-size:1.5rem;">+ </em><b> Complicated Operation</b></span><br>
 			        	<span><em style="color:#71C0C9; font-weight:300; font-style:normal; font-size:1.5rem;">+ </em><b> Unfriendly User Experience</b></span>
 			        </div>
@@ -110,17 +111,17 @@
 		        <div class="section_list">
 		        	<span class="section_list_line"></span>
 		        	<div class="section_list_row">
-		        		<div class="step step1" style="visibility: visible; animation-name: fadeIn;">
+		        		<div class="step step1">
 		        			<p><strong>1 </strong>&nbsp; REQUIRED</p>
 		        			<span></span>
 		        			<img src="img/seeword_14.1.png">
 		        		</div>
-		        		<div class="step step2" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+		        		<div class="step step2">
 		        			<p><strong>2 </strong>&nbsp; LOGIC</p>
 		        			<span></span>
 		        			<img src="img/seeword_14.2.png">
 		        		</div>
-		        		<div class="step step3" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">
+		        		<div class="step step3">
 		        			<p><strong>3 </strong>&nbsp; INFORMATION STRUCTURE</p>
 		        			<span></span>
 		        			<img src="img/seeword_14.3.png">
@@ -140,7 +141,7 @@
 		    			</div>
 
 		    			<div class="row">
-		    				<div class="wireframe-step breath-top fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+		    				<div class="wireframe-step">
 		    					<div class="wireframe-step-box">
 		    					<span class="number" style="">1</span>
 		    					<p class="on-left">
@@ -152,7 +153,7 @@
 		    					</div>
 		    				</div>
 
-		    				<div class="wireframe-step breath-bottom fadeIn animated" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">
+		    				<div class="wireframe-step">
 		    					<div class="wireframe-step-box">
 		    					<span class="number" style="">2</span>
 		    					<p class="on-left">
@@ -163,7 +164,7 @@
 		    					</div>
 		    				</div>
 
-		    				<div class="wireframe-step breath-top fadeIn animated" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+		    				<div class="wireframe-step">
 		    					<div class="wireframe-step-box">
 		    					<span class="number" style="">3</span>
 		    					<p class="on-left">
@@ -176,7 +177,7 @@
 		    			</div>
 
 		    			<div class="row">
-		    				<div class="wireframe-step breath-bottom fadeIn animated" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+		    				<div class="wireframe-step">
 		    					<div class="wireframe-step-box">
 		    					<span class="number" style="">4</span>
 		    					<p class="on-left">
@@ -187,7 +188,7 @@
 		    				    </div>
 		    				</div>
 
-		    				<div class="wireframe-step breath-top fadeIn animated" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">
+		    				<div class="wireframe-step">
 		    					<div class="wireframe-step-box">
 		    					<span class="number">5</span>
 		    					<p class="on-left">
@@ -218,13 +219,13 @@
 				</div>
             </div>
 
-            <div class="section part part_10"> 
+            <!--<div class="section part part_10"> 
 		        <div class="row_text">
 		        	<h2>FURTHER</h2>
 		        	<iframe src="https://marvelapp.com/1f48a4g?emb=1" width="948" height="676" allowTransparency="true" frameborder="0"></iframe>
 			        <h3 style="color:#777;font-size:1rem; font-weight:300;"></h3>
 			    </div>
-            </div>
+            </div> -->
 	      </div>  
 	    </div>
     
