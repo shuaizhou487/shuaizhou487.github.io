@@ -159,10 +159,31 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 .btn_down:hover{
 	box-shadow:0 17px 50px 0 rgba(0,0,0,0.12),0 12px 25px 0 rgba(0,0,0,0.24);
-	-webkit-transition:all 0.7s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	-moz-transition:all 0.7s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	-o-transition:all 0.7s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	transition:all 0.7s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	-webkit-transition:all 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+	-moz-transition:all 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+	-o-transition:all 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+	transition:all 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+}
+
+.section_bg_img{
+	height: 100%;
+    -webkit-transition:all 1.2s cubic-bezier(0.05,1.1,0.75,1);
+	-moz-transition:all 1.2s cubic-bezier(0.05,1.1,0.75,1);
+	-o-transition:all 1.2s cubic-bezier(0.05,1.1,0.75,1);
+	transition:all 1.2s cubic-bezier(0.05,1.1,0.75,1);
+}
+
+
+
+.fp-viewing-page2 .section_img .section_bg_img{
+	right: 0;
+}
+
+.section_bg_img{
+	width: 100%;
+    height: 100%;
+    position: absolute;
+    right: -300px;
 }
 
 .section_img{
@@ -171,6 +192,7 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
     top: 0;
     right: 0;
     height: 100%;
+    display: -webkit-box;
 }
 
 .section_list{
@@ -232,9 +254,7 @@ body{font-size: 14px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	width: 45%;
 }
 
-.section_bg_img{
-	height: 100%;
-}
+
 .section_text{
 	width: 40%;
 	margin-left: 150px;
