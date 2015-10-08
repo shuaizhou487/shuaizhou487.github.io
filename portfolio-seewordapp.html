@@ -71,17 +71,20 @@
 	        <div class="section part part_2">
 	        	<div class="splitter_text">
 			        <div class="splitter_title">Comparison</div>
+			        <div class="design_ui" style="color:#fff;text-align:center;margin:0;">
+			        	<span>From okay to pleasure.</span>
+			        </div>
 			    </div>
-			    <div class="splitter_p" style="color:#666;position: relative;top: -80px;width:450px;margin:0 auto;">
-			        	<span><em style="font-style:normal;color:#ccc;width: 225px;display: inline-block;left: 0;position: absolute;text-align: right;padding-right: 20px;">BEFORE</em><em style="font-style:normal;color:#fff;width: 225px;display: inline-block;right: 0;position: absolute;text-align: left;padding-left: 20px;">AFTER</em></span>
+			    <div class="splitter_p" style="color:#666;position: relative;top: 10px;width:450px;margin:0 auto;">
+			        	<span><em style="font-style:normal;font-weight:700;color:#ccc;width: 225px;display: inline-block;left: 0;position: absolute;text-align: right;padding-right: 20px;">BEFORE</em><em style="font-style:normal;font-weight:700;color:#777;width: 225px;display: inline-block;right: 0;position: absolute;text-align: left;padding-left: 20px;">AFTER</em></span>
 			    </div>
 
                 <div class="splitter_img" sytle="width: 400px;">
                 	<div class="splitter">
 					    <img src="img/before.png" id="before" style="width: 100%; position:absolute;left:0;top:0px; clip: rect(0px 225px 337px 0px); z-index: 20;">
 					    <img src="img/after.png" id="after" style="width:100%;position:absolute;left:0;top:0px;clip: rect(0px 450px 337px 0px);z-index: 10;">
-					    <div id="line-demo" style="position: absolute; width: 1px; height: 480px; background-color:rgba(100,100,100,.2); z-index: 30; left:224px; top:-65px;"></div>
-					    <div id="demo-simple-slider" class="dragdealer">
+					    <div id="line-demo" style="position: absolute; width: 1px; height: 400px; background-color:rgba(100,100,100,.2); z-index: 30; left:224px; top:-35px;"></div>
+					    <div style="width:475px;">
   							<a id="draggable" class="handle red-bar" style="width: 50px; height: 50px;position: absolute; z-index: 1000; cursor:move;"><span style="background:url(img/left_right.png) no-repeat 50% 50%; display:block; height:100%; background-size:50%;"></span></a>
 						</div>
                 	</div>
@@ -97,7 +100,7 @@
 	    		<div class="section_text">
 			        <div class="title_inside"> Research & <br> Key Problems</div>
 			        <div class="design_ui">
-			        	<span><em style="color:#71C0C9; font-weight:300; font-style:normal; font-size:1.5rem; font-style: normal;color: #ccc;">+ </em><b> Jumbled Information</b></span><br>
+			        	<span><em style="color:#71C0C9; font-weight:300; font-style:normal; font-size:1.5rem; font-style: normal;">+ </em><b> Jumbled Information</b></span><br>
 			        	<span><em style="color:#71C0C9; font-weight:300; font-style:normal; font-size:1.5rem;">+ </em><b> Complicated Operation</b></span><br>
 			        	<span><em style="color:#71C0C9; font-weight:300; font-style:normal; font-size:1.5rem;">+ </em><b> Unfriendly User Experience</b></span>
 			        </div>
@@ -130,13 +133,13 @@
 		        </div>
 		    </div>
 
-		    <div class="section part part_6" style="background-color: #71C0C9;">
+		    <div class="section part part_6">
 		    	<div class="wireframes">
 		    		<div class="container" style="background-color:#fff; overflow:visible;">
-		    			<div class="row" style="padding-bottom: 60px;padding-top: 97px;">
+		    			<div class="row" style="height:300px;padding-top: 97px;">
 		    				<div class="row_text">
-		    					<h2>WIREFRAMES</h2>
-		    					<h3 style="color:#777;font-size:1rem; font-weight:300;">A couple out of a handful of iterations I went through.</h3>
+		    					<h2>Wireframe</h2>
+		    					<h3 style="color:#777;font-size:1.25rem; font-weight:200;">A couple out of a handful of iterations I went through.</h3>
 		    				</div>
 		    			</div>
 
@@ -169,7 +172,7 @@
 		    					<span class="number" style="">3</span>
 		    					<p class="on-left">
 		    						<span class="text">
-		    							<span class="title">Inforgraphic</span>The most obvious way to compare the information</span>
+		    							<span class="title">Inforgraphic</span>The most obvious way to compare information</span>
 		    					</p>
 		    					<img class="on-right" src="img/inforgraphic.png" style="">
 		    					</div>
@@ -251,8 +254,6 @@
 		$(function() {
 		$("#draggable").draggable({ axis: "x", containment: "parent", drag: function(){
 
-
-
 			$("display").html("x: " + x + "x, diff: " + diff);
 			var x = $("#draggable").position().left;
 			var leftOriginal = 200;
@@ -260,7 +261,6 @@
 			var final = diff + 225;
 			$("#line-demo").css("left", x+25);
 			$("#before").css("clip", "rect(0px " + final + "px 337px 0px");
-
 			
 
 		} });

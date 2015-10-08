@@ -6,6 +6,7 @@
 .wireframes .row img{
 	max-width: 200px;
 	z-index: 1;
+    box-shadow: 0px 3px 15px rgba(0,0,0,.2);
 }
 
 .wireframe-step{
@@ -15,52 +16,51 @@
     display: inline-block;
     position: relative;
     float: left;
-    padding: 15px;
+    padding: 0 15px 15px 15px;
 }
 .wireframe-step-box{
     height: 100%;
-    background-color: rgb(113, 192, 201);
     margin: 0 20px;
     position: relative;
 }
 
 .title{
 	text-align: left;
-    color: white;
+    color: #333;
     display: block;
     text-transform: uppercase;
-    font-size: 12px;
-    font-weight: 600;
+    font-size: .85rem;
+    font-weight: 700;
     line-height: 14px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     margin-bottom: 10px;
 }
 
 .number{
-	width: 50px;
-    height: 50px;
+	width: 30px;
+    height: 30px;
     display: block;
     position: absolute;
-    background-color: #fff;
+    background-color: rgb(113, 192, 201);
     border-radius: 50%;
-    line-height: 1.7;
+    line-height: 1.3;
     z-index: 3;
-    font-size: 30px;
-    font-weight: 300;
-    color:rgb(113, 192, 201);
-    box-shadow: 0px 3px 10px rgba(0,0,0,.2);
-    top: -40px;
-    left: 15px;
+    font-size: 1.45rem;
+    font-weight: 700;
+    color:#fff;
+    top: 20px;
+    left: 5px;
 }
 
 .on-left{
 	position: absolute;
-    color: #eee;
+    color: #777;
     text-align: left;
     width: 40%;
-    left: 15px;
-    font-size: 12px;
-    top: 25px;
+    font-size: .75rem;
+    font-weight: 200;
+    top: 60px;
+    left: 5px;
 }
 
 .on-right{
