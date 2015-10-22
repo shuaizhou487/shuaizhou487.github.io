@@ -423,15 +423,6 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	background-size: 70%;
 }
 
-.scrolled .logo_img{
-  background: url(../img/l-bg.png) 50% 50%;
-  display: block;
-  height: 50px;
-  width: 45px;
-  margin: 5px 0;
-  background-size: contain;
-}
-
 .top-img img{
 	width: auto;
 	height: 97px;
@@ -1484,6 +1475,7 @@ keyframes shrink{
 	color: #333;
 	font-weight: 700;
 	padding-bottom: 20px;
+	padding-top: 97px;
 }
 
 .row_text_ani{
@@ -1494,6 +1486,33 @@ keyframes shrink{
 	-o-transition:all 1.5s cubic-bezier(0.215, 0.610, 0.355, 1.000);
 	transition:all 1.5s cubic-bezier(0.215, 0.610, 0.355, 1.000);
 }
+
+
+.row_box{
+	-webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+    width: 50%;
+    float: left;
+    opacity: 0.1;
+}
+
+.row_box img{
+	width: 80%;
+}
+
+.fp-viewing-page6 .row_1{ 
+	opacity: 1;
+}
+
+.fp-viewing-page6 .row_2{ 
+	opacity: 1;
+	-webkit-transition-delay:.4s;
+	transition-delay:.4s;
+}
+
+
 
 .fp-viewing-page8 .row_text_ani{
 	left: 0;
