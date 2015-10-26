@@ -25,8 +25,8 @@
 		<div class="header">
 			<div class="header-box">
 			<div class="top-img">
-				<a href="index.html"><span class="logo_img"></span></a>
-			</div>
+		        <a href="index.html"><span class="logo_img seeword_logo_img"></span></a>
+		    </div>
 				
 			<div id="navbar" class="menu">
 		      <a href="#" class="menubtn">menu</a>
@@ -73,7 +73,7 @@
 	       
 	       <div class="section part part_3" style="background:rgb(43,178,123);">
 	            <div class="section_img" style="background:#fff; width:65%;">
-                		<div class="section_bg_img" style="background:url(img/film1.png) 50% 50% no-repeat;background-size:95%;"></div>
+                		<div class="section_bg_img section_bg_img_3" style="background:url(img/film1.png) 50% 50% no-repeat;background-size:95%;"></div>
                 </div>
 
 	    		<div class="section_text" style="width:35%; z-index:2; position:relative;margin-left:0px;padding-right:20px;">
@@ -86,8 +86,7 @@
 
 	       <div class="section part part_4">
 	       	<div class="section_img" style="left:0;background:#fff;width:70%;">
-                		<div class="section_bg_img" style="background:url(img/film2.png) 50% 50% no-repeat;background-size:80%;">
-                		</div>
+                		<div class="section_bg_img section_bg_img_4"></div>
                 </div>
                 <div class="section_text" style="width: 30%;margin:0;position:absolute;padding-top:45vh;right:0;background:rgb(43,178,123);height:100%;top:0;">
 			        <div class="title_inside" style="color:#fff; text-align: center; padding:0 20px;">Information Structure</div>
@@ -123,23 +122,52 @@
 	       </div>
 	       
 	       <div class="section part part_6">
-	       	<div class="section_text" style="width: 100%;margin: 0;height:50%;background:rgb(43,178,123);">
-			        <div class="row_text" style="padding:97px 0 0 0;">
-			        	<h2 style="color:#fff;">Refine Process</h2>
+	       	<div class="section_text" style="width: 100%;margin: 0;height:35%;background:rgb(43,178,123);">
+			        <div class="row_text">
+			        	<h2 style="color:#fff;padding-top: 157px;">Refine Process</h2>
 			        	<h3 style="color:#eee;font-size:1.25rem; font-weight:200;width:55%;margin:0 auto;"></h3>
 			        </div>
 			    </div>
-			    <div class="design_img_b" style="height:50%;">
+			    <div class="design_img_b design_img_b_1" style="height:65%;">
 					       <img class="design_img_box" src="img/film5.png" style="width:70%;padding-top:35px;">
 				</div>
 	       </div>
 
-	       <div class="section part part_6">
-	        <section class="film_box film_box_4">
-	        <div class="design_title">VISUAL PROTOTYPE</div>
-            <div class="design_img"><img src="img/film7.png"></div>
-            </section>
+	       <div class="section part part_7">
+	            <div class="section_text" style="width: 100%;margin: 0;background:rgb(43,178,123);height:30%;">
+			        <div class="row_text" style="padding:97px 0 0 0;">
+			        	<h2 style="color:#fff;">Visual Prototype</h2>
+			        	<h3 style="color:#eee;font-size:1.25rem; font-weight:200;width:55%;margin:0 auto;">Here is few prototype that we did.</h3>
+			        </div>
+			    </div>
+			    <div class="design_img_b" style="height:70%;">
+					       <div class="tv-box">
+					        <ul class="tv-slider">
+					            <li class="currented"><img src="img/film3.jpg" alt=""></li>
+					            <li class=""><img src="img/film1.jpg" alt=""></li>
+					            <li class=""><img src="img/film2.jpg" alt=""></li>
+					            <li class=""><img src="img/film4.jpg" alt=""></li>
+					            <li class=""><img src="img/film.jpg" alt=""></li>
+					        </ul>
+					       </div>
+					       <ul class="slider-indicator">
+						        <li class=""></li>
+						        <li class=""></li>
+						        <li class=""></li>
+						        <li class="currented"></li>
+						        <li class=""></li>
+						    </ul>
+				</div>
            </div>
+
+           <div class="section part part_8">
+            	<div class="section_text" style="width: 100%;padding-bottom:55px;margin: 0;">
+			        <div class="row_text">
+			        	<h2>Next Step</h2>
+			        	<div class="design_subt" style="color:#777; font-weight:200;max-width:960px; margin:0 auto;padding-top:0px;"><span>Improve a better experience for user based on data analyze.</span></div>
+			        </div>
+			    </div>
+            </div>
 
            </div>
 	      </div>  
@@ -161,6 +189,14 @@
 	        	</div>
         	</div>	
     </div>
-
+<script type="text/javascript">
+    $(function(){
+    	setInterval(function () {
+            var curIndex = $('.tv-slider li').index($('.tv-slider .currented')),
+                    nextIndex = curIndex == 4 ? 0 : curIndex + 1;
+            $('.tv-slider li').eq(nextIndex).add($('.slider-indicator li').eq(nextIndex)).addClass('currented').siblings().removeClass('currented');
+        }, 4000);
+    })
+</script>
 </body>
 </html>
