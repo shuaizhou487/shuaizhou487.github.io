@@ -129,7 +129,7 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .cb_sohufilm .btn_down_el:before, .cb_sohufilm .btn_down_el:after{
-	background: rgb(43,178,123);
+	background:rgb(246,203,33);
 }
 
 .cb_seeword .btn_down_el:before, .cb_seeword .btn_down_el:after{
@@ -291,7 +291,7 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 
 .seeword_logo_img{
 	background: url(../img/logo.png) 50% 50% no-repeat;
-	background-size: 50%;
+	background-size: 55%;
 }
 
 .hci_logo_img{
@@ -400,7 +400,8 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	position: relative;
 	text-align: center;
 	height: 100vh;
-	background: rgb(28,28,56);
+	/*background: rgb(28,28,56);*/
+	background: #fff;
 }
 
 .title_header_portfoilo{
@@ -408,13 +409,13 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .p1{
-	color: #fff;
+	color: #333;
 	font-size: 3.5rem;
 	font-weight: 500;
 }
 
 .p4{
-	color: #fff;
+	color: #999;
 	font-size: 1.05rem;
 	position: absolute;
 	margin:0 auto;
@@ -447,7 +448,7 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 .p2:before,.p2:after{
 	  content: "";
 	  display: block;
-	  background: rgb(255,255,255);
+	  background: rgb(100,100,100);
 	  width: 2px;
 	  height: 20px;
 	  position: absolute;
@@ -1080,7 +1081,7 @@ keyframes shrink{
 }
 
 .cb_sohufilm .part_0:before{
-	background: rgba(43,178,123,.94);
+	background: rgba(236,81,81,.94);
 }
 
 .cb_seeword .part_0:before{
@@ -1280,7 +1281,7 @@ keyframes shrink{
 	font-size: 18px;
 	font-weight: 700;
 	font-style: italic;
-	color: rgb(43,178,123);
+	color:rgb(236,81,81);
 }
 
 .design_title{

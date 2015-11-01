@@ -12,37 +12,43 @@ void setup(){ //The block of code under setup runs only once at the start of the
 }
  
 void draw(){ //The block of code under draw loops continuously while the program is running
-  background(28,28,56); //Sets the background color to black
+  //background(28,28,56); //Sets the background color to black
+  background(255,255,255);
   
-  fill(82,68,141,127); //Sets the fill color of any following objects to white
-  ellipse(x,y,r + s/2,r + s/2); //Creates a circle with radius "r" and a center at the point (x,y)
-  ellipse(z*3,y*3,r + s*2+x,r + s*2+x);
-  ellipse(y*2,x*2,r + s*2+x,r + s*2+x);
+  //g&b
+  fill(110,205,221); //Sets the fill color of any following objects to white
+  ellipse(z*3,y*3,r + s*2+x/3,r + s*2+x/3);
+  ellipse(x*2,z/3, r , r );
   
-  fill(70,143,194,127);
-  ellipse(y,x,r + s,r + s);
-  ellipse(y*3,x*3,r + s,r + s);
-  ellipse(y*3+x,x*3+x,r + s,r + s);
+  //green
+  fill(54,187,147);
+  ellipse(x,z,r/3 - s,r/3 - s);
+  ellipse(y*2,x,r + s,r + s);
+  ellipse(x/3,y/3,r - s,r - s);
+  ellipse(z+x,y+x/2, s, s);
  
-  fill(49,85,126,127);
-  ellipse(z,x,r*2,r*2);
-  ellipse(z*x,z*y,r*2,r*2);
-  ellipse(z+x,x+y,r*2,r*2);
-  ellipse(z*x,z*y,r*2,r*2);
+ //blue
+  fill(0,115,255);
+  ellipse(z,x,r/2,r/2);
+  ellipse(z+x,x+y,r/2,r/2);
  
-  fill(114,68,141,127);
+ //red
+  fill(260,2,100);
   ellipse(x,z,r/2 + s,r/2 + s);
-  ellipse(x*s,z*s,r/2 + s,r/2 + s);
-  
-  fill(23,48,76,127);
-  ellipse(x+2,y+z,r*3,r*3);
-  ellipse(y-z,y-x,r*3,r*3);
-  ellipse(z/x,y+x,r*3,r*3);
+  ellipse(y*2,x*2, s+x/2, s+x/2);
+  ellipse(z*2,x*2,r/2,r/2);
+  ellipse(z-x+5,x-y+5,r/2,r/2);
 
-  fill(114,68,141,127);
-  ellipse(x+2,y+z,r*3,r*3);
-  ellipse(y-z,y-x,r*3,r*3);
-  ellipse(z+x,y+x,r/3+y,r/3+y);
+  
+  //yellow
+  fill(255,173,0);
+  ellipse(x,y,s/2 + r,s/2 + r);
+  ellipse(x*2,y/3,s*2,s*2);
+
+//zi 
+  fill(125,67,174);
+  ellipse(x*2,y*3,r/2,r/2);
+  ellipse(y*3+x,x*3+x,r + s,r + s);
 
   x = x + xspeed;
   if(x+r>width/2 || x-r<0){ //If the sides of the ellipse reaches either side of the screen...
