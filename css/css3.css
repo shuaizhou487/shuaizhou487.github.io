@@ -129,7 +129,7 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .cb_sohufilm .btn_down_el:before, .cb_sohufilm .btn_down_el:after{
-	background:rgb(246,203,33);
+	background:rgb(230,6,100);
 }
 
 .cb_seeword .btn_down_el:before, .cb_seeword .btn_down_el:after{
@@ -982,6 +982,7 @@ keyframes shrink{
 	font-size: 1.875rem;
 	text-align: center;
 	padding: 25vh 0;
+	color: rgba(255,255,255,.8);
 }
 
 .works_category_tiles_item_cover{
@@ -1081,7 +1082,7 @@ keyframes shrink{
 }
 
 .cb_sohufilm .part_0:before{
-	background: rgba(236,81,81,.94);
+	background: rgba(230,6,100,.98);
 }
 
 .cb_seeword .part_0:before{
@@ -1134,7 +1135,7 @@ keyframes shrink{
 }
 
 .cb_sohufilm .web_link a{
-	color: #00b3ff;
+	color: rgb(230,6,100);
 }
 
 .film_box{
@@ -1196,7 +1197,7 @@ keyframes shrink{
 	color: #333;
 }
 .cb_hci .title_inside{
-	color:#11A0DE;
+	color:#333;
 }
 
 .title_inside span{
@@ -1281,7 +1282,7 @@ keyframes shrink{
 	font-size: 18px;
 	font-weight: 700;
 	font-style: italic;
-	color:rgb(236,81,81);
+	color:rgb(230,6,100);
 }
 
 .design_title{
