@@ -321,10 +321,10 @@
 
 .tv-box{ -webkit-box-sizing:border-box; box-sizing:border-box;width:50%; height:70%; margin:0 auto;}
 .tv-slider{position: relative;}
-.tv-slider li{ list-style: none; position:absolute; opacity:0; width:100%; left: 0; right: 0; top:20px; -webkit-transition:opacity 400ms; transition:opacity 400ms;transition:opacity 400ms; transition:opacity 400ms;}
+.tv-slider li{ list-style: none; position:absolute; opacity:0; width:100%; left: 0; right: 0;-webkit-transition:opacity 400ms; transition:opacity 400ms;transition:opacity 400ms; transition:opacity 400ms;}
 .tv-slider .currented{ opacity:1;}
 .tv-slider img{ width:100%; vertical-align:bottom; box-shadow: 0 2px 5px rgba(0,0,0,.3);}
-.slider-indicator{ height:20px; text-align:center; margin-top:10px;}
+.slider-indicator{ height:20px; text-align:center; margin-top:20px;}
 .slider-indicator li{ display:inline-block; height:.4125rem; width:.4125rem; border-radius:.4125rem; line-height:.825rem; background:#6a6a6a; margin:.275rem; vertical-align:top;}
-.slider-indicator .currented{ background:#1fb279;}
+.slider-indicator .currented{ background:rgb(230,6,100);}
 
