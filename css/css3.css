@@ -1098,7 +1098,6 @@ keyframes shrink{
     background: url(../img/hci_b.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-	height: 64vh;
     /*background-color:rgba(2,173,231,0.5);*/
 }
 .cb_seeword .part_1{
