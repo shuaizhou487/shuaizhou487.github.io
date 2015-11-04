@@ -327,3 +327,21 @@
 .slider-indicator li{ display:inline-block; height:.4125rem; width:.4125rem; border-radius:.4125rem; line-height:.825rem; background:#6a6a6a; margin:.275rem; vertical-align:top;}
 .slider-indicator .currented{ background:rgb(230,6,100);}
 
+.fp-viewing-page3 .cb_fans .row_text_1{
+    left: 0;
+    opacity: 1;
+    -webkit-transition: opacity 800ms linear 300ms,left 600ms ease;
+    -moz-transition: opacity 800ms linear 300ms,left 600ms ease;
+    -o-transition: opacity 800ms linear 300ms,left 600ms ease;
+    transition: opacity 800ms linear 300ms,left 600ms ease;
+}
+
+.fp-viewing-page3 .cb_fans .design_img_b_2{
+    right: 0;
+    opacity: 1;
+    -webkit-transition: opacity 800ms linear 300ms,right 600ms ease;
+    -moz-transition: opacity 800ms linear 300ms,right 600ms ease;
+    -o-transition: opacity 800ms linear 300ms,right 600ms ease;
+    transition: opacity 800ms linear 300ms,right 600ms ease;
+}
+
