@@ -25,30 +25,56 @@
 .personal_intro_infor_right{
     width: 65%;
     margin: 0 auto;
-    padding-top: 50px;
-}
-.personal_intro_infor_right p{
-    padding-top: 20px;
+    padding-top: 75px;
 }
 
-.maps_ohio, .maps_china{
+.personal_intro_infor_right p{
+    padding-top: 20px;
+    font-size: 1.25rem;
+}
+
+.maps_width{
+    width: 100%;
+    height: 50%;
+}
+
+.maps_top{
+    width: 100%;
+    height: 50px;
+    position: relative;
+    top: 240px;
+}
+
+.maps{
     position: relative;
     width: 50%;
     height: 100%;
-    display: inline-block;
+    float: left;
 }
 
-.maps_china{
-    float: right;
+.maps_text{
+    width: 100%;
+    height: 15%;
+    margin: 0 auto;
+    position: relative;
 }
 
 .img_plan{
-        width: 50px;
-    display: inline-block;
+    width: 100%;
     position: absolute;
-    top: 17rem;
-    left: 16rem;
     z-index: 9;
+    height: 50px;
+    background: url(../img/plan.png) 30% 50% no-repeat;
+    background-size: contain;
+    left: 0;
+}
+
+.fp-viewing-page3 .img_plan{
+    left: 50%;
+    -webkit-transition: all 2.5s .7s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    -moz-transition: all 2.5s .7s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    -o-transition: all 2.5s .7s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    transition: all 2.5s .7s cubic-bezier(0.215, 0.610, 0.355, 1.000);
 }
 
 .img_maps_china{
@@ -56,26 +82,27 @@
     position: absolute;
 }
 
-.maps_china img{
-    width: 70%;
+.maps_china{
+    background: url(../img/c_map.png) 50% 50% no-repeat;
+    background-size: 60%;
 }
 
+.maps_ohio{
+    background: url(../img/oh_map.png) 50% 50% no-repeat;
+    background-size: 60%;
+}
+
+/*
 .part_1{
     background: url(../img/se2.png) 50% 50% no-repeat;
     background-size: cover;
-}
-
-.img_maps_ohio, .img_daap{
-    width: 30%;
-    display: inline-block;
-    position: absolute;
-    bottom: 10rem;
-    height: 30%;
-    left: 15rem;
-}
+} */
 
 .img_daap{
-    bottom: 13rem;
+    width: 25%;
+    position: relative;
+    margin: 0 auto;
+    padding-bottom: 5%;
 }
 
 .img_maps_ohio img{
@@ -86,21 +113,19 @@
     width: 80%;
 }
 
-.ohio_text{
-    width: 65%;
+.mani_text{
+    width: 60%;
     margin: 0 auto;
-    position: absolute;
-    bottom: 6rem;
-    left: 15rem;
+    font-size: 1.25rem;
     text-align: left;
 }
 
-.china_text{
-    width: 65%;
-    margin: 0 auto;
-    position: absolute;
-    bottom: 20rem;
-    right: 5rem;
-    text-align: left;
+.mani_img{
+    width: 50%;
+    margin:0 auto;
+    padding-bottom: 5%;
 }
 
+.mani_img img{
+    width: 60%;
+}
