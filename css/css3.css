@@ -1572,39 +1572,190 @@ keyframes shrink{
 	color: #333;
 }
 
-/*store.css*/
-@font-face {
-font-family:"Avenir";
-src:url(../font/Avenir.otf);
-src:url(../font/Avenir.otf?#iefix) format('embedded-opentype'), url(../font/Avenir.otf) format('woff'), url(../font/Avenir.otf) format('truetype'), url(../font/Avenir.otf) format('svg');
+.context{
+	position: relative;
 }
 
-.st{
-	width: 100%;
+.context_left{
+	width: 25%;
+	position: fixed;
+	background: url(../img/HCI_logo.png) 50% 40% no-repeat #fff;
+    height: 100vh;
+    border: 1px solid #efefef;
+    background-size: 20%;
 }
 
-.st p,.st span{
-	font-family: "MicrosoftYaHei";
-	font-size: 12px;
+.context_left_title{
+	color: #333;
+	padding: 50vh 0;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 700;
 }
 
-.store_w{
-	background: #f5f5f5;
-	width: 100%;
-	height: 400px;
-}
-
-.store_g{
-	background: #f3f3f3;
-	width: 100%;
-	height: 400px;
-}
-
-.store_in{
-	width: 960px;
-	margin: 0 auto;
+.context_right{
+	width: 75%;
 	height: 100%;
+	position: relative;
+	top: 0;
+	left: 25%;
+	line-height: 2
 }
+
+.context_title{
+	min-height: 300px;
+    width: 100%;
+    position: relative;
+    display: block;
+    background: #292929;
+}
+
+.context_title_box{
+	width: 75%;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.context_title_box_1{
+	position: fixed;
+	height: 300px;
+}
+
+.context_title_box_1{
+	background: url(../img/hci_b.jpg) 50% 50% no-repeat;
+    background-size:cover;
+    position: relative;
+    width: 100%;
+}
+
+.context_title_box h1{
+	width: 100%;
+	color: #fff;
+	text-align: center;
+	top: 130px;
+    position: relative;
+}
+
+.context_p{
+	background:#fff;
+	width: 100%;
+	padding: 5% 0;
+}
+
+.context_p h3{
+	color: #333;
+}
+
+.context_p p{
+	color: #777;
+}
+
+.context_p_box{
+	width: 55%;
+    font-size: 0.875rem;
+    margin: 0 auto;
+}
+
+.context_p_box h1, .context_title_box h1{
+	font-size: 2rem;
+	font-weight: 700;
+}
+
+.context_img h1{
+	padding-top: 50px;
+	color: #fff;
+	text-align: center;
+}
+
+.context_img{
+	height: 100%;
+	display: block;
+}
+
+.context_img_1, .context_img_2, .context_img_3, .context_img_4, .context_img_5, .context_img_6, .context_img_7{
+    width: 100%;
+    position: relative;
+}
+
+.context_img_1{
+	background: url(../img/hci_p.png) 50% 50% no-repeat;
+	height: 400px;
+	background-size: 80%;
+}
+
+.context_img_2{
+	background: url(../img/hci_e.png) 50% 10% no-repeat;
+    height: 600px;
+    background-size: 65%;
+}
+
+.context_img_3{
+	background: url(../img/hci_c.png) 50% 50% no-repeat;
+	height: 350px;
+	background-size: contain;
+}
+
+.context_img_4{
+	background: url(../img/hci_pt.png) 50% 50% no-repeat;
+	height: 300px;
+	background-size: 95%;
+}
+
+.context_img_5{
+	background: url(../img/hci_d1.png) 50% 50% no-repeat;
+	height: 400px;
+	background-size: 95%;
+}
+
+.context_img_6{
+	background: url(../img/hci_pl.png) 50% 50% no-repeat;
+	height: 300px;
+	background-size: 100%;
+}
+
+.context_img_7{
+	background: url(../img/hci_pro.png) 50% 50% no-repeat;
+	height: 400px;
+	background-size: 100%;
+}
+
+.context_img_8{
+	background: url(../img/hci_in.png) 50% 50% no-repeat;
+	height: 300px;
+	background-size: 100%;
+}
+
+.context_img_9{
+	background: url(../img/hci_ba.png) 50% 50% no-repeat;
+	height: 200px;
+	background-size: 60%;
+}
+
+.context_img_10{
+	background: url(../img/hci_rf.png) 50% 50% no-repeat;
+	height: 300px;
+	background-size: 100%;
+}
+
+.context_img_11{
+	background: url(../img/hci_icon.png) 50% 50% no-repeat;
+	height: 300px;
+	background-size: 100%;
+}
+
+.context_img_12{
+	background: url(../img/hci_m.png) 50% 50% no-repeat;
+	height: 300px;
+	background-size: 100%;
+}
+
+.context_img_13{
+	background: url(../img/hci_fp.png) 50% 50% no-repeat;
+	height: 500px;
+	background-size: 100%;
+}
+
+
 
 @media screen and (min-width: 768px) and (max-width: 859px){
 	.header-box{
