@@ -1585,6 +1585,11 @@ keyframes shrink{
     background-size: 20%;
 }
 
+.sh_context_left{
+	background: url(../img/sohutv.jpg) 50% 40% no-repeat #fff;
+	background-size: 35%;
+}
+
 .context_left_title{
 	color: #333;
 	padding: 50vh 0;
@@ -1602,12 +1607,29 @@ keyframes shrink{
 	line-height: 2
 }
 
-.context_title{
+.sh_context_right_title{
+	text-align: center;
+	padding: 5rem 0 1rem 0;
+	background: #eebb4c;
+	color: #fff;
+}
+
+.context_title, .sh_context_title{
 	min-height: 300px;
     width: 100%;
     position: relative;
     display: block;
     background: #292929;
+}
+
+.sh_context_title_2{
+	background: none;
+}
+
+.sh_context_title_1{
+	background: url(../img/f1.png) 50% 50% no-repeat #eebb4c;
+	background-size:50%;
+	min-height: 400px;
 }
 
 .context_title_box{
@@ -1642,6 +1664,11 @@ keyframes shrink{
 	padding: 5% 0;
 }
 
+.context_p h1{
+	font-size: 1.75rem;
+	color: #333;
+}
+
 .context_p h3{
 	color: #333;
 }
@@ -1656,15 +1683,73 @@ keyframes shrink{
     margin: 0 auto;
 }
 
-.context_p_box h1, .context_title_box h1{
-	font-size: 2rem;
-	font-weight: 700;
+.sh_context_p_box{
+	width: 65%;
+}
+
+.sh_context_p_box p{
+	margin: 1rem 0 3rem 0;
+}
+
+.sh_img_1{
+	background: url(../img/f4.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 300px;
+}
+.sh_img_2{
+	background: url(../img/f5.png) 50% 50% no-repeat;
+	background-size: 80%;
+	min-height: 300px;
+}
+
+.sh_img_3{
+	background: url(../img/f7.png) 50% 50% no-repeat;
+	background-size: contain;
+	min-height: 300px;
+}
+
+.sh_img_3, .sh_img_4{
+	margin: .5rem 0 2rem 0;
+}
+
+.sh_img_4{
+	background: url(../img/f6.png) 50% 50% no-repeat;
+	background-size: 70%;
+	min-height: 500px;
+	height: 100%;
+}
+
+.sh_img_5{
+	background: url(../img/film2.png) 50% 50% no-repeat;
+	min-height: 400px;
+	background-size: 90%;
+}
+
+.sh_img_6{
+	background: url(../img/f2.png) 50% 50% no-repeat;
+	min-height: 600px;
+	background-size: 100%;
+}
+
+.sh_img_7{
+	background: url(../img/f8.png) 50% 50% no-repeat;
+	min-height: 800px;
+	background-size: 100%;
+}
+
+.sh_context_p_box b{
+	font-size: 1rem;
+	color: #666;
 }
 
 .context_img h1{
 	padding-top: 50px;
 	color: #fff;
 	text-align: center;
+}
+
+.sh_context_img h1{
+	color: #777;
 }
 
 .context_img{
@@ -1681,6 +1766,13 @@ keyframes shrink{
 	background: url(../img/hci_p.png) 50% 50% no-repeat;
 	height: 400px;
 	background-size: 80%;
+}
+
+.sh_context_img_2{
+	background: url(../img/f3.png) 50% 50% no-repeat;
+	background-size: contain;
+	height: 500px;
+
 }
 
 .context_img_2{
