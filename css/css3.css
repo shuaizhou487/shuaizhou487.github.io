@@ -1590,6 +1590,11 @@ keyframes shrink{
 	background-size: 35%;
 }
 
+.swr_context_left{
+	background: url(../img/seeword_logo.png) 50% 43% no-repeat;
+	background-size: 20%;
+}
+
 .context_left_title{
 	color: #333;
 	padding: 50vh 0;
@@ -1614,7 +1619,14 @@ keyframes shrink{
 	color: #fff;
 }
 
-.context_title, .sh_context_title{
+.swr_context_right_title{
+	text-align: center;
+	padding: 5rem 0 1rem 0;
+	background: rgba(113,192,201,1);
+	color: #fff;
+}
+
+.context_title, .sh_context_title, .swr_context_title{
 	min-height: 300px;
     width: 100%;
     position: relative;
@@ -1629,6 +1641,12 @@ keyframes shrink{
 .sh_context_title_1{
 	background: url(../img/f1.png) 50% 50% no-repeat #eebb4c;
 	background-size:50%;
+	min-height: 400px;
+}
+
+.swr_context_title_1{
+	background: url(../img/seeword9.png) 50% 50% no-repeat rgba(113,192,201,1);
+	background-size:40%;
 	min-height: 400px;
 }
 
@@ -1683,7 +1701,7 @@ keyframes shrink{
     margin: 0 auto;
 }
 
-.sh_context_p_box{
+.sh_context_p_box,.swr_context_p_box{
 	width: 65%;
 }
 
