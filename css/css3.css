@@ -1760,6 +1760,12 @@ keyframes shrink{
 	color: #666;
 }
 
+.swr_img_1{
+	background: url(../img/s1.png) 50% 50% no-repeat;
+	min-height: 400px;
+	background-size: 70%;
+}
+
 .context_img h1{
 	padding-top: 50px;
 	color: #fff;
