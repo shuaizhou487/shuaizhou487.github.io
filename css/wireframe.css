@@ -187,10 +187,6 @@
     transition:opacity 800ms linear,right 600ms ease 300ms;
 }
 
-.design_img_b_1{
-    left: .875rem;
-    opacity: 0;
-}
 
 .fp-viewing-page7 .design_img_b_1{
     top: 0;
@@ -287,6 +283,22 @@
     transition:all 1.5s cubic-bezier(0.05,1.1,0.75,1);
 }
 .fp-viewing-page3 .design_img_b_1{
+    left: 0;
+    opacity: 1;
+}
+
+.design_img_b_3{
+    position: relative;
+    left: -200px;
+    z-index: 3;
+    opacity: 0;
+    -webkit-transition:all 1.5s cubic-bezier(0.05,1.1,0.75,1);
+    -moz-transition:all 1.5s cubic-bezier(0.05,1.1,0.75,1);
+    -o-transition:all 1.5s cubic-bezier(0.05,1.1,0.75,1);
+    transition:all 1.5s cubic-bezier(0.05,1.1,0.75,1);
+}
+
+.fp-viewing-page4 .design_img_b_3{
     left: 0;
     opacity: 1;
 }

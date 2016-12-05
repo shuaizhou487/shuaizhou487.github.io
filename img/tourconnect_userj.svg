@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3205px" height="4664px" viewBox="0 0 3205 4664" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD">
+            <polygon id="Rectangle-1-Copy" fill="#999999" points="0 195 400 195 400 255 0 255"></polygon>
+            <polygon id="Rectangle-1-Copy-3" fill="#999999" points="435 195 1335 195 1335 255 435 255"></polygon>
+            <polygon id="Rectangle-1-Copy-4" fill="#999999" points="1370 195 2270 195 2270 255 1370 255"></polygon>
+            <polygon id="Rectangle-1-Copy-26" fill="#999999" points="2305 195 3205 195 3205 255 2305 255"></polygon>
+            <rect id="Rectangle-1-Copy-2" fill="#F1F1F1" x="0" y="268" width="400" height="267"></rect>
+            <rect id="Rectangle-1-Copy-6" fill="#F1F1F1" x="435" y="268" width="900" height="267"></rect>
+            <rect id="Rectangle-1-Copy-8" fill="#F1F1F1" x="1370" y="268" width="900" height="267"></rect>
+            <rect id="Rectangle-1-Copy-27" fill="#F1F1F1" x="2305" y="268" width="900" height="267"></rect>
+            <rect id="Rectangle-1-Copy-5" fill="#F3F3F3" x="0" y="560" width="400" height="503"></rect>
+            <rect id="Rectangle-1-Copy-11" fill="#E8E8E8" x="0" y="2433" width="400" height="1145"></rect>
+            <rect id="Rectangle-1-Copy-10" fill="#E8E8E8" x="0" y="1063" width="400" height="1345"></rect>
+            <rect id="Rectangle-1-Copy-21" fill="#D8D8D8" x="0" y="3603" width="400" height="518"></rect>
+            <rect id="Rectangle-1-Copy-24" fill="#CCCCCC" x="0" y="4146" width="400" height="518"></rect>
+            <rect id="Rectangle-1-Copy-22" fill="#D8D8D8" x="435" y="3603" width="2770" height="518"></rect>
+            <rect id="Rectangle-1-Copy-25" fill="#CCCCCC" x="435" y="4146" width="2770" height="518"></rect>
+            <rect id="Rectangle-1-Copy-14" fill="#E8E8E8" x="435" y="1063" width="900" height="100"></rect>
+            <rect id="Rectangle-1-Copy-17" fill="#E8E8E8" x="1370" y="1063" width="900" height="100"></rect>
+            <rect id="Rectangle-1-Copy-29" fill="#E8E8E8" x="2305" y="1063" width="900" height="100"></rect>
+            <rect id="Rectangle-1-Copy-18" fill="#E8E8E8" x="1370" y="1188" width="900" height="100"></rect>
+            <rect id="Rectangle-1-Copy-30" fill="#E8E8E8" x="2305" y="1188" width="900" height="100"></rect>
+            <rect id="Rectangle-1-Copy-15" fill="#E8E8E8" x="435" y="1188" width="900" height="100"></rect>
+            <rect id="Rectangle-1-Copy-19" fill="#E8E8E8" x="435" y="1313" width="900" height="360"></rect>
+            <rect id="Rectangle-1-Copy-20" fill="#E8E8E8" x="1370" y="1313" width="900" height="360"></rect>
+            <rect id="Rectangle-1-Copy-31" fill="#E8E8E8" x="2305" y="1313" width="900" height="360"></rect>
+            <rect id="Rectangle-1-Copy-16" fill="#E8E8E8" x="435" y="1698" width="1835" height="710"></rect>
+            <rect id="Rectangle-1-Copy-32" fill="#E8E8E8" x="2305" y="1698" width="900" height="710"></rect>
+            <rect id="Rectangle-1-Copy-7" fill="#F3F3F3" x="435" y="560" width="900" height="480"></rect>
+            <rect id="Rectangle-1-Copy-9" fill="#F3F3F3" x="1370" y="560" width="900" height="480"></rect>
+            <rect id="Rectangle-1-Copy-28" fill="#F3F3F3" x="2305" y="560" width="900" height="480"></rect>
+            <rect id="Rectangle-1-Copy-12" fill="#E8E8E8" x="435" y="2433" width="900" height="570"></rect>
+            <rect id="Rectangle-1-Copy-23" fill="#E8E8E8" x="435" y="3028" width="2770" height="550"></rect>
+            <rect id="Rectangle-1-Copy-13" fill="#E8E8E8" x="1370" y="2433" width="900" height="570"></rect>
+            <rect id="Rectangle-1-Copy-33" fill="#E8E8E8" x="2305" y="2433" width="900" height="570"></rect>
+            <text id="11K---7.5K-drop-off" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="704" y="2629">11K - 7.5K drop off</tspan>
+                <tspan x="704" y="2668"></tspan>
+                <tspan x="704" y="2707">1.4K - 600 drop off</tspan>
+                <tspan x="704" y="2746"></tspan>
+                <tspan x="704" y="2785">1.1K - 600 drop off</tspan>
+                <tspan x="704" y="2824"></tspan>
+                <tspan x="704" y="2863">646 - 193 drop off</tspan>
+                <tspan x="704" y="2902"></tspan>
+                <tspan x="704" y="2941">640 - 427 drop off</tspan>
+            </text>
+            <text id="1.6K---1.3K-drop-off" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1636" y="2629">1.6K - 1.3K drop off</tspan>
+                <tspan x="1636" y="2668"></tspan>
+                <tspan x="1636" y="2707">1.4K - 600 drop off</tspan>
+                <tspan x="1636" y="2746"></tspan>
+                <tspan x="1636" y="2785">1.1K - 600 drop off</tspan>
+                <tspan x="1636" y="2824"></tspan>
+                <tspan x="1636" y="2863">646 - 193 drop off</tspan>
+                <tspan x="1636" y="2902"></tspan>
+                <tspan x="1636" y="2941">640 - 427 drop off</tspan>
+            </text>
+            <text id="1:-The-business-not" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="975" y="2551">1: The business not fit</tspan>
+                <tspan x="975" y="2588">2: The marketing website don't </tspan>
+                <tspan x="975" y="2613">address users concerns.</tspan>
+            </text>
+            <text id="We-may-consider-that" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="1907" y="2572">We may consider that the user will </tspan>
+                <tspan x="1907" y="2597">sign up through the invite email. But </tspan>
+                <tspan x="1907" y="2622">it not works well for now. ( Notes: </tspan>
+                <tspan x="1907" y="2647">Add Home Page Link for the invite </tspan>
+                <tspan x="1907" y="2672">email page. )</tspan>
+            </text>
+            <text id="SCENARIOS" font-family="AvenirNext-Bold, Avenir Next" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="130" y="233">SCENARIOS</tspan>
+            </text>
+            <text id="EXISTING-USER-JOURNE" font-family="AvenirNext-Bold, Avenir Next" font-size="36" font-weight="bold" fill="#000000">
+                <tspan x="30" y="109">EXISTING USER JOURNEY ANALYSIS</tspan>
+            </text>
+            <text id="Internet-Search" font-family="AvenirNext-Bold, Avenir Next" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="796.476" y="233">Internet Search</tspan>
+            </text>
+            <text id="Invite-Email" font-family="AvenirNext-Bold, Avenir Next" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1752.028" y="233">Invite Email</tspan>
+            </text>
+            <text id="Contracting-Email" font-family="AvenirNext-Bold, Avenir Next" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="2651.368" y="233">Contracting Email</tspan>
+            </text>
+            <text id="STEP-1:-USER-QUESTIO" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="164.16" y="389">STEP 1:</tspan>
+                <tspan x="112.9" y="428">USER QUESTIONS</tspan>
+            </text>
+            <text id="1.-Only-request-the" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="479" y="3109">1. Only request the Key Informations. ( Required information from users in right time)</tspan>
+                <tspan x="479" y="3148"></tspan>
+                <tspan x="479" y="3187">2. Prove our value. ( User can see the informations and images from internet to think about how tourconnect works, </tspan>
+                <tspan x="479" y="3214">but only used TourConnect they can get the key informations: what TourConnect do? Why I may need TourConnect)</tspan>
+                <tspan x="479" y="3253"></tspan>
+                <tspan x="479" y="3292">3. Explain to users how the function works, ranther than the users find the functions by themselves. </tspan>
+                <tspan x="479" y="3331"></tspan>
+                <tspan x="479" y="3370">4. Show the process. ( Users don’t like uncertainty, when user sign up, we should tell users where they are and </tspan>
+                <tspan x="479" y="3397">where they will go. Avoid discouragement)</tspan>
+            </text>
+            <text id="ANAYLSE" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="154.19" y="818">ANAYLSE</tspan>
+            </text>
+            <text id="ANAYLSE-&amp;-SUGGESTION" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="154.19" y="2973">ANAYLSE</tspan>
+                <tspan x="192.19" y="3012">&amp;</tspan>
+                <tspan x="128.17" y="3051">SUGGESTIONS</tspan>
+            </text>
+            <text id="STEP-2:-ASSUMED-USER" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="164.66" y="1627">STEP 2:</tspan>
+                <tspan x="84.45" y="1666">ASSUMED USER ACTIVE</tspan>
+            </text>
+            <text id="SUGGESTIONS" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="127.92" y="3869">SUGGESTIONS</tspan>
+            </text>
+            <text id="%-with-completed-onb" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="52.86" y="4392">% with completed onboarding</tspan>
+                <tspan x="77.71" y="4431">% with completed profile</tspan>
+            </text>
+            <text id="Just-look-around-How" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="479" y="330">Just look around</tspan>
+                <tspan x="479" y="369">How TourConnect works?</tspan>
+                <tspan x="479" y="408">Features?</tspan>
+                <tspan x="479" y="447">What TourConnect can do for us?</tspan>
+                <tspan x="479" y="486">How much about the service fee? </tspan>
+            </text>
+            <text id="Heard-and-invited-fr" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1414" y="330">Heard and invited from partner, How the features works?</tspan>
+                <tspan x="1414" y="369">How does it work for us?</tspan>
+                <tspan x="1414" y="408">How much wealth TourConnect can create for us?</tspan>
+                <tspan x="1414" y="447">How much about the service fee? </tspan>
+            </text>
+            <text id="Just-click-download" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2349" y="311">Just click download button to download?</tspan>
+                <tspan x="2349" y="350">Before I use this product, I want see what’s the TourConnect.</tspan>
+                <tspan x="2349" y="389">Can I download rates without account?</tspan>
+                <tspan x="2349" y="428">Free download?</tspan>
+                <tspan x="2349" y="467">Goway require the rates via TourConnect? What’s the TourConnect?</tspan>
+                <tspan x="2349" y="506">Can I just send the rates to the contractor via email?</tspan>
+            </text>
+            <g id="Group-Copy-2" transform="translate(479.000000, 1100.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Marketing-website">
+                    <tspan x="0" y="20">Marketing website</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(1414.000000, 1100.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Invite-Email">
+                    <tspan x="0" y="20">Invite Email</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(2349.000000, 1100.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Rates-send-or-reques">
+                    <tspan x="0" y="20">Rates send or request Email</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(1414.000000, 1226.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Sign-Up">
+                    <tspan x="0" y="20">Sign Up</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-10" transform="translate(2349.000000, 1226.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Sign-Up">
+                    <tspan x="0" y="20">Sign Up</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(479.000000, 1225.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Sign-up">
+                    <tspan x="0" y="20">Sign up</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(479.000000, 1480.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Onboarding">
+                    <tspan x="0" y="20">Onboarding</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(1414.000000, 1480.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Onboarding">
+                    <tspan x="0" y="20">Onboarding</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-11" transform="translate(2349.000000, 1480.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Onboarding">
+                    <tspan x="0" y="20">Onboarding</tspan>
+                </text>
+            </g>
+            <text id="The-users-were-searc" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="479" y="609">The users were search from internet, they may never heard TourConnect. (Home </tspan>
+                <tspan x="479" y="636">page first)</tspan>
+                <tspan x="479" y="675">1. They find TourConnect and curiosity on TourConnect, so they want look </tspan>
+                <tspan x="479" y="702">around.</tspan>
+                <tspan x="479" y="741"></tspan>
+                <tspan x="479" y="780">2. They find TourConnect may help them business, they want see how our </tspan>
+                <tspan x="479" y="807">product works and they sign up account.</tspan>
+                <tspan x="479" y="846"></tspan>
+                <tspan x="479" y="885">* How could we show the features for the first time users in the marketing </tspan>
+                <tspan x="479" y="912">website. </tspan>
+            </text>
+            <text id="Attract-user-to-sign" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="885" y="1120">Attract user to sign up</tspan>
+            </text>
+            <text id="Our-goal:-When-user" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="698" y="1368">Our goal: When user completed onboarding, they </tspan>
+                <tspan x="698" y="1395">profile can be visible in Find Partner</tspan>
+                <tspan x="698" y="1434"></tspan>
+                <tspan x="698" y="1473">1. For my personal experience, after I sign up, I can go </tspan>
+                <tspan x="698" y="1500">through the product page. </tspan>
+                <tspan x="698" y="1539">2. The user don’t know why they should complete </tspan>
+                <tspan x="698" y="1566">onboarding. We need to tell them.</tspan>
+                <tspan x="698" y="1605">3. Is that possibile remove the informations which not </tspan>
+                <tspan x="698" y="1632">effect them profile visible in Find Partner.</tspan>
+            </text>
+            <text id="If-user-was-complete" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1256" y="1795">If user was completed the onboarding, next page is profile, they still need to complete the </tspan>
+                <tspan x="1256" y="1822">profile page, then they can use some functions, but they don’t know that. Also, some of the </tspan>
+                <tspan x="1256" y="1849">users don’t have patience, before they completed the profile, they may close the website. ( I </tspan>
+                <tspan x="1256" y="1876">have no expeirence about TourConnect, I just want try this product, I spend 10 mins then I still </tspan>
+                <tspan x="1256" y="1903">don’t know how TourConnect works. )</tspan>
+                <tspan x="1256" y="1942"></tspan>
+                <tspan x="1256" y="1981">1. We should let them know the time that they spend is valuable. Not just show the users what </tspan>
+                <tspan x="1256" y="2008">they can do after them completed profile (contract, find partner). Because of they have no idea </tspan>
+                <tspan x="1256" y="2035">about what’s the contract and find partners. </tspan>
+                <tspan x="1256" y="2074">2. “Find Partner” &gt; “Build Contracts” for most users.</tspan>
+                <tspan x="1256" y="2113">3. The fastest way to complete the “sign up to complete profile” (we need consider the </tspan>
+                <tspan x="1256" y="2140">banlance). </tspan>
+            </text>
+            <text id="Our-goal:-When-user" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1622" y="1368">Our goal: When user completed onboarding, they </tspan>
+                <tspan x="1622" y="1395">profile can be visible in Find Partner</tspan>
+                <tspan x="1622" y="1434"></tspan>
+                <tspan x="1622" y="1473">1. The user don’t know why they should complete </tspan>
+                <tspan x="1622" y="1500">onboarding. We need to tell them.</tspan>
+                <tspan x="1622" y="1539">2. Is that possibile remove the informations which not </tspan>
+                <tspan x="1622" y="1566">effect them profile visible in Find Partner.</tspan>
+            </text>
+            <text id="Our-goal:-When-user" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2557" y="1368">Our goal: When user completed onboarding, they </tspan>
+                <tspan x="2557" y="1395">profile can be visible in Find Partner</tspan>
+                <tspan x="2557" y="1434"></tspan>
+                <tspan x="2557" y="1473">1. The “visible in Find Partner” useless for current task.</tspan>
+            </text>
+            <text id="Contractor:-Company" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2557" y="1779">Contractor</tspan>
+                <tspan x="2660.06" y="1779" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">:</tspan>
+                <tspan x="2665.56" y="1779"></tspan>
+                <tspan x="2557" y="1819">Company information + Contact information</tspan>
+            </text>
+            <text id="Supplier:-Company-in" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2557" y="1926">Supplier</tspan>
+                <tspan x="2639.1" y="1926" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">:</tspan>
+                <tspan x="2644.6" y="1926"></tspan>
+                <tspan x="2557" y="1966">Company information + Contact information</tspan>
+                <tspan x="2557" y="2005">Location information + Product information</tspan>
+                <tspan x="2557" y="2044"></tspan>
+                <tspan x="2557" y="2083">1. The biggest issue for the supplier they only have one </tspan>
+                <tspan x="2557" y="2110">location.</tspan>
+                <tspan x="2557" y="2149">2. A part of the users don’t know how to complete the </tspan>
+                <tspan x="2557" y="2176">profile. </tspan>
+                <tspan x="2557" y="2215">3. Clear complete process view can help user fill out the </tspan>
+                <tspan x="2557" y="2242">profile.</tspan>
+            </text>
+            <g id="Group-Copy-4" transform="translate(479.000000, 2040.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Profile">
+                    <tspan x="0" y="20">Profile</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-12" transform="translate(2349.000000, 2040.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" fill="#000000" font-weight="bold">
+                <text id="Profile">
+                    <tspan x="0" y="20">Profile</tspan>
+                </text>
+            </g>
+            <text id="Our-Goal:-1.-Profile" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="698" y="1795">Our Goal: </tspan>
+                <tspan x="698" y="1834">1. Profile for partner</tspan>
+                <tspan x="698" y="1873">2. Get products loaded for contracts</tspan>
+                <tspan x="698" y="1912">3. Get products loaded for messaging</tspan>
+            </text>
+            <text id="Invite-User-to-Sign" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1820" y="1120">Invite User to Sign up</tspan>
+            </text>
+            <text id="The-users-which-from" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1414" y="609">The users which from partner invite email. They may know a few about </tspan>
+                <tspan x="1414" y="636">TourConnect. (Sign up page first)</tspan>
+                <tspan x="1414" y="675">1. When the users into TourConnect.com/Sign-up page, they just heard </tspan>
+                <tspan x="1414" y="702">TourConnect but they don’t know TourConnect do. They go to the Price &gt; About </tspan>
+                <tspan x="1414" y="729">us &gt; Features.</tspan>
+                <tspan x="1414" y="768"></tspan>
+                <tspan x="1414" y="807">2. The partner use TourConnect, the partner ask them to use TourConnect. So, </tspan>
+                <tspan x="1414" y="834">they sign up an account.</tspan>
+            </text>
+            <text id="Contractor-The-contr" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2349" y="609">Contractor</tspan>
+                <tspan x="2349" y="648">The contractor want download the rates as soon as possible.</tspan>
+                <tspan x="2349" y="687">1. User through the email link to download rates, but if they want download the </tspan>
+                <tspan x="2349" y="714">rates, they have to complete the onboarding and profile.</tspan>
+                <tspan x="2349" y="753"></tspan>
+                <tspan x="2349" y="792">Supplier</tspan>
+                <tspan x="2349" y="831">The supplier want send the rates as soon as possible.</tspan>
+                <tspan x="2349" y="870">1. Supplier want send the rates to contractor, they need complete the </tspan>
+                <tspan x="2349" y="897">onboarding, profile and rates.</tspan>
+                <tspan x="2349" y="936"></tspan>
+                <tspan x="2349" y="975">* Is that possbile supplier send the rates files by them format through email, not </tspan>
+                <tspan x="2349" y="1002">TourConnect.</tspan>
+            </text>
+            <text id="1.-Consider-the-curr" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2349" y="3109">1. Consider the current task. (The users want complete the current task quickly.)</tspan>
+            </text>
+            <text id="What’s-the-key-infor" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1256" y="2295">What’s the key informations for contractors?</tspan>
+                <tspan x="1256" y="2334">- Company type &gt; Country &gt; City &gt; Image &gt; Website &gt; Contact informations</tspan>
+            </text>
+            <text id="1.-Starting-page-2." font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="479" y="2629">1. Starting page</tspan>
+                <tspan x="479" y="2668"></tspan>
+                <tspan x="479" y="2707">2. Price page</tspan>
+                <tspan x="479" y="2746"></tspan>
+                <tspan x="479" y="2785">3. About us</tspan>
+                <tspan x="479" y="2824"></tspan>
+                <tspan x="479" y="2863">4. Features</tspan>
+                <tspan x="479" y="2902"></tspan>
+                <tspan x="479" y="2941">5. Sign up</tspan>
+            </text>
+            <text id="1.-Sign-up-2.-Price" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1411" y="2629">1. Sign up</tspan>
+                <tspan x="1411" y="2668"></tspan>
+                <tspan x="1411" y="2707">2. Price page</tspan>
+                <tspan x="1411" y="2746"></tspan>
+                <tspan x="1411" y="2785">3. About us</tspan>
+                <tspan x="1411" y="2824"></tspan>
+                <tspan x="1411" y="2863">4. Features</tspan>
+                <tspan x="1411" y="2902"></tspan>
+                <tspan x="1411" y="2941">5. Sign up</tspan>
+            </text>
+            <text id="Contractor:-1.-Sign" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2346" y="2544">Contractor:</tspan>
+                <tspan x="2346" y="2583">1. Sign up</tspan>
+                <tspan x="2346" y="2622">2. Onboarding</tspan>
+                <tspan x="2346" y="2661">3. Profile</tspan>
+                <tspan x="2346" y="2700">4. Download Rates</tspan>
+                <tspan x="2346" y="2739"></tspan>
+                <tspan x="2346" y="2778">* The contractor don’t know how to </tspan>
+                <tspan x="2346" y="2805">download the contract PDF. We need </tspan>
+                <tspan x="2346" y="2832">leader user to download PDF directly.</tspan>
+            </text>
+            <text id="Supplier:-1.-Sign-up" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2791" y="2544">Supplier:</tspan>
+                <tspan x="2791" y="2583">1. Sign up</tspan>
+                <tspan x="2791" y="2622">2. Onboarding</tspan>
+                <tspan x="2791" y="2661">3. Profile</tspan>
+                <tspan x="2791" y="2700">4. Build Contract</tspan>
+                <tspan x="2791" y="2739">5. Send</tspan>
+            </text>
+            <text id="Current-user-behavio" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="479" y="2488">Current user behavior flow</tspan>
+            </text>
+            <text id="Current-user-behavio-Copy" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1411" y="2488">Current user behavior flow</tspan>
+            </text>
+            <text id="Current-user-behavio" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="2346" y="2488">Current user behavior flow</tspan>
+            </text>
+            <path d="M912,2616.88854 L947.777088,2599" id="Line" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1844,2616.88854 L1879.77709,2599" id="Line-Copy-9" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M649,2622 L689,2622" id="Line" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1581,2622 L1621,2622" id="Line-Copy-10" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M649,2702 L689,2702" id="Line-Copy" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1581,2702 L1621,2702" id="Line-Copy-11" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M649,2782 L689,2782" id="Line-Copy-3" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1581,2782 L1621,2782" id="Line-Copy-12" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M649,2862 L689,2862" id="Line-Copy-5" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1581,2862 L1621,2862" id="Line-Copy-13" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M649,2936 L689,2936" id="Line-Copy-7" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1581,2936 L1621,2936" id="Line-Copy-14" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M911,2702 L951,2702" id="Line-Copy-2" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1843,2702 L1883,2702" id="Line-Copy-15" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M911,2782 L951,2782" id="Line-Copy-4" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1843,2782 L1883,2782" id="Line-Copy-16" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M911,2862 L951,2862" id="Line-Copy-8" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1843,2862 L1883,2862" id="Line-Copy-17" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M911,2933 L951,2933" id="Line-Copy-6" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1843,2933 L1883,2933" id="Line-Copy-18" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <polygon id="Star" fill="#515151" points="1002.31479 2708 994.085798 2712.32624 995.657396 2703.16312 989 2696.67376 998.200294 2695.33688 1002.31479 2687 1006.42929 2695.33688 1015.62958 2696.67376 1008.97219 2703.16312 1010.54378 2712.32624"></polygon>
+            <polygon id="Star-Copy" fill="#515151" points="1934.31479 2708 1926.0858 2712.32624 1927.6574 2703.16312 1921 2696.67376 1930.20029 2695.33688 1934.31479 2687 1938.42929 2695.33688 1947.62958 2696.67376 1940.97219 2703.16312 1942.54378 2712.32624"></polygon>
+            <text id="1.-Should-we-provide" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="479" y="3659">1. Should we provide free try 14 days unlimted plan for users?</tspan>
+                <tspan x="479" y="3696">WHY?</tspan>
+                <tspan x="479" y="3733">- I am a new user, I find TourConnect in google or I was invited by my partner, I go to the </tspan>
+                <tspan x="479" y="3758">Find Partner, but there no valueble informations visible for me until I am paying. I want </tspan>
+                <tspan x="479" y="3783">try it see how it works.</tspan>
+                <tspan x="479" y="3820"></tspan>
+                <tspan x="479" y="3857">2. Should we provide a demo contract for users?</tspan>
+                <tspan x="479" y="3894">WHY?</tspan>
+                <tspan x="479" y="3931">- User afraid of mistakes, especially the contract. We can provide a whole experience </tspan>
+                <tspan x="479" y="3956">with no worried about the mistakes for user.</tspan>
+                <tspan x="479" y="3993"></tspan>
+                <tspan x="479" y="4030">3. Allow user see all the results on the Find Partner. Seeing just 3 results is rather </tspan>
+                <tspan x="479" y="4055">meaningless for user.</tspan>
+            </text>
+            <text id="1.-The-users-which-c" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="479" y="4202">1. The users which complete the onboard, some of them only need “Market segments, </tspan>
+                <tspan x="479" y="4227">contact information, company type” then it can marketing really. </tspan>
+                <tspan x="479" y="4264">- could we find them, and send them the email. For example,  “GOWAY just build 200 </tspan>
+                <tspan x="479" y="4289">contracts with Bonza Bike Tour in 2018. Please complete your profile show to our Agence </tspan>
+                <tspan x="479" y="4314">users“. Show some big company’s active news to increase visitors.</tspan>
+                <tspan x="479" y="4351">- If some of the user view the company’s profile, just email them.</tspan>
+                <tspan x="479" y="4388">- Send the email in right time.</tspan>
+                <tspan x="479" y="4425">- Let user know, take few mins to complete the profile may bring some business to them, </tspan>
+                <tspan x="479" y="4450">and it is free.</tspan>
+            </text>
+            <text id="New-Requirements-1." font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="698" y="1998">New Requirements</tspan>
+                <tspan x="698" y="2037">1. Download Company Logo</tspan>
+                <tspan x="698" y="2076">2. Location Image and Product Image can </tspan>
+                <tspan x="698" y="2103">zoom in.</tspan>
+                <tspan x="698" y="2142">3. Clear and accuracy complete process bar</tspan>
+                <tspan x="698" y="2181">4. Partner can report the incorrect contact </tspan>
+                <tspan x="698" y="2208">information and change it (need prove).</tspan>
+                <tspan x="698" y="2247">5. Member ID view (single &amp; Multiple)</tspan>
+                <tspan x="698" y="2286">6. Better way to add amenities.</tspan>
+            </text>
+            <g id="Group" transform="translate(1501.000000, 2163.000000)" font-size="20" font-family="AvenirNext-Bold, Avenir Next" line-spacing="18" font-weight="bold">
+                <text id="Sign-up-Onboarding-P" fill="#000000">
+                    <tspan x="0" y="20">Sign up</tspan>
+                    <tspan x="0" y="50">Onboarding</tspan>
+                    <tspan x="0" y="80">Profile</tspan>
+                </text>
+                <text id="7-16-27" fill="#7B7B7B">
+                    <tspan x="216" y="20">7</tspan>
+                    <tspan x="216" y="50">16</tspan>
+                    <tspan x="216" y="80">27</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

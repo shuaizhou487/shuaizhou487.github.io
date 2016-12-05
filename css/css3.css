@@ -140,6 +140,10 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	background: rgb(255,184,35);
 }
 
+.cb_tourconnect .btn_down_el:before, .cb_tourconnect .btn_down_el:after{
+	background: rgb(0,173,238);
+}
+
 .btn_down_el:after{
   -webkit-transform: rotate(45deg);
   -webkit-transform-origin: 0 100%;
@@ -950,7 +954,7 @@ keyframes shrink{
 .heading2{
 	font-size: 1.875rem;
 	text-align: center;
-	padding-top: 200px;
+	padding-top: 180px;
 	color: rgba(255,255,255,.8);
 }
 
@@ -1064,6 +1068,13 @@ keyframes shrink{
 
 .cb_fans .part_0:before{
 	background: rgba(255,184,35,.97);
+}
+/*Tourconnect*/
+.cb_tourconnect .part_0{
+    background: url(../img/tourconnect_bg.svg) no-repeat;
+    background-size: 75%;
+    background-position: center;
+    /*background-color:rgba(2,173,231,0.5);*/
 }
 
 /*HCI*/
