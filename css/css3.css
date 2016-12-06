@@ -1602,8 +1602,8 @@ keyframes shrink{
 }
 
 .swr_context_left{
-	background: url(../img/seeword_logo.png) 50% 43% no-repeat;
-	background-size: 20%;
+	background: url(../img/tourconnect_logo.svg) 50% 43% no-repeat;
+	background-size: 50%;
 }
 
 .context_left_title{
@@ -1633,7 +1633,7 @@ keyframes shrink{
 .swr_context_right_title{
 	text-align: center;
 	padding: 5rem 0 1rem 0;
-	background: rgba(113,192,201,1);
+	background: rgb(0, 188, 212);
 	color: #fff;
 }
 
@@ -1656,8 +1656,8 @@ keyframes shrink{
 }
 
 .swr_context_title_1{
-	background: url(../img/seeword9.png) 50% 50% no-repeat rgba(113,192,201,1);
-	background-size:40%;
+	background: url(../img/tourconnect_explain.svg) 50% 50% no-repeat rgb(0, 188, 212);
+	background-size:15%;
 	min-height: 400px;
 }
 
@@ -1741,13 +1741,6 @@ keyframes shrink{
 	margin: .5rem 0 2rem 0;
 }
 
-.sh_img_4{
-	background: url(../img/f6.png) 50% 50% no-repeat;
-	background-size: 70%;
-	min-height: 500px;
-	height: 100%;
-}
-
 .sh_img_5{
 	background: url(../img/film2.png) 50% 50% no-repeat;
 	min-height: 400px;
@@ -1772,7 +1765,7 @@ keyframes shrink{
 }
 
 .swr_img_1{
-	background: url(../img/s1.png) 50% 50% no-repeat;
+	background: url(../img/tourconnect_ui.png) 50% 50% no-repeat;
 	min-height: 400px;
 	background-size: 70%;
 }
@@ -1804,7 +1797,7 @@ keyframes shrink{
 }
 
 .sh_context_img_2{
-	background: url(../img/f3.png) 50% 50% no-repeat;
+	background: url(../img/tourconnect_puj.png) 50% 50% no-repeat;
 	background-size: contain;
 	height: 500px;
 
