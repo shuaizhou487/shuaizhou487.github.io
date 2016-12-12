@@ -5,9 +5,6 @@ a,input,textarea,button{
 	outline: none;
 }
 
-/*header.css
-box-shadow:0 0 30px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24)}
-*/
 body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-family: 'Open Sans', sans-serif; letter-spacing: .5px;}
 .header{
 	height: 97px;
@@ -22,32 +19,177 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	-o-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 	transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
 }
+.scrolled{
+	background: rgba(255,255,255,0.97);
+	height: 60px;
+	color: rgba(0,0,0,.7);
+	box-shadow: 0 0 0px 0 rgba(0,0,0,0.2),0 3px 8px 0 rgba(0,0,0,0.24);
+}
 
+.scrolled .header-box .menu li a{
+	color: rgba(0,0,0,0.3);
+}
 
-.menu_list{
-	position: absolute;
+.scrolled .top-img img{
+	height: 60px;
+}
+
+.scrolled .menu li{
+	padding: 22px 0 18px 40px;
+	-webkit-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	-moz-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	-o-transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	transition:all 0.5s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+}
+
+.header a{
+	text-decoration: none; 
+	list-style-type: none;
+}
+
+.header-box{
+	width: 100%;
+	max-width: 960px;
+	height: 97px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.top-img {
+	position: relative;
+	display: inline-block;
+}
+
+.top-img  a{
+	display: block;
+}
+
+.logo_img{
+	background: url(../img/logo.png) 0% 50% no-repeat;
+	display: block;
     height: 97px;
-    width: 63%;
-    display: inline-block;
-    right: 0;
+    width: 80px;
+    background-size: 70%;
 }
 
-.menu_list li{
-	list-style: none;
-    width: 20%;
-    display: inline-block;
-    float: right;
-    padding: 35px 0 35px 0;
+.scrolled .logo_img{
+  background: url(../img/l-bg.png) 50% 50%;
+  display: block;
+  height: 50px;
+  width: 45px;
+  margin: 5px 0;
+  background-size: contain;
 }
 
-.menu_list li a{
-	color: #333;
-	font-weight: 500;
+.top-img img{
+	width: auto;
+	height: 97px;
 }
 
-.menu_list li a:hover{
-	color: #FA217C;
+#content{
+	position: absolute;
+	width: 100%;
+	z-index: 1;
+	height: 100%;
 }
+
+.canvas_img{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.ani{
+	width: 100%;
+	height: auto;
+}
+
+.sub_th_1{
+	position: relative;
+	z-index: 2;
+	height: 100%;
+}
+
+.sub_th_sb{
+		padding: 40vh 0;
+		height: 100%;
+	}
+
+.menu {
+	position: relative;
+	text-decoration: none;
+	width: auto;
+	display: inline-block;
+	margin: 0;
+	top: 0;
+	right: 0;
+	float: right;
+}
+
+.menu li {
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+	padding: 41px 0 36px 40px;
+	color: #666;
+	line-height: 20px;
+    font-size: .75rem;
+    font-weight: 500;
+}
+
+.menu li a {
+	color: rgba(255,255,255,0.5);
+}
+
+.menu_resume li a, .menu_myself li a ,.menu_portfolio li a{
+	color: rgba(100,100,100,.4);
+}
+
+.menu li a:hover{
+	color: rgba(255,255,255,1);
+}
+
+.menu_resume li a:hover{
+	color: rgba(100,100,100,.9);
+}
+
+.menu_myself li a:hover{
+    color: rgba(100,100,100,.9);	
+}
+
+.menu_portfolio li a:hover{
+	color: rgba(100,100,100,.9);
+}
+
+
+.header a {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.selected a{
+	color: #fff!important;
+	font-weight: 800;
+}
+
+.scrolled .selected a{
+	color: rgb(20,28,39)!important;
+}
+
+.menu_resume .selected a{
+	color: rgb(20,28,39)!important;
+}
+
+.menu_myself .selected a{
+	color: rgb(20,28,39)!important;
+}
+
+.menu_portfolio .selected a{
+	color: rgb(20,28,39)!important;
+}
+
+/*header*/
+
 
 .fp-tableCell{
 	height: 100% !important;
@@ -343,43 +485,6 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 		height: 100%;
 	}
 
-.menubar {
-	position: relative;
-	text-decoration: none;
-	width: auto;
-	display: inline-block;
-	margin: 0;
-	top: 0;
-	right: 0;
-	float: right;
-}
-
-.menubar li {
-	padding: 10px 0 10px 40px;
-	color: #666;
-}
-
-.header a {
-	text-decoration: none;
-	list-style-type: none;
-}
-
-.selected a{
-	color: #fff!important;
-	font-weight: 800;
-}
-
-.title_header{
-	position: relative;
-	text-align: center;
-	height: 100vh;
-	/*background: rgb(28,28,56);*/
-	background: #fff;
-}
-
-.title_header_portfoilo{
-	background: #5C97C1;
-}
 
 .p1{
 	color: #333;
@@ -1587,39 +1692,11 @@ keyframes shrink{
 	position: relative;
 }
 
-.context_left{
-	width: 25%;
-	position: fixed;
-	background: url(../img/HCI_logo.png) 50% 40% no-repeat #fff;
-    height: 100vh;
-    border: 1px solid #efefef;
-    background-size: 20%;
-}
-
-.sh_context_left{
-	background: url(../img/sohutv.jpg) 50% 40% no-repeat #fff;
-	background-size: 35%;
-}
-
-.swr_context_left{
-	background: url(../img/tourconnect_logo.svg) 50% 43% no-repeat;
-	background-size: 50%;
-}
-
-.context_left_title{
-	color: #333;
-	padding: 50vh 0;
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 700;
-}
-
 .context_right{
-	width: 75%;
+	width: 100%;
 	height: 100%;
 	position: relative;
 	top: 0;
-	left: 25%;
 	line-height: 2
 }
 
@@ -1630,14 +1707,14 @@ keyframes shrink{
 	color: #fff;
 }
 
-.swr_context_right_title{
+.tc_context_right_title{
 	text-align: center;
 	padding: 5rem 0 1rem 0;
 	background: rgb(0, 188, 212);
 	color: #fff;
 }
 
-.context_title, .sh_context_title, .swr_context_title{
+.context_title, .sh_context_title, .tc_context_title{
 	min-height: 300px;
     width: 100%;
     position: relative;
@@ -1655,10 +1732,10 @@ keyframes shrink{
 	min-height: 400px;
 }
 
-.swr_context_title_1{
-	background: url(../img/tourconnect_explain.svg) 50% 50% no-repeat rgb(0, 188, 212);
-	background-size:15%;
-	min-height: 400px;
+.tc_context_title_1{
+	background: url(../img/tourconnect_banner.svg) 50% 50% no-repeat rgb(0, 188, 212);
+	background-size:25%;
+	min-height: 300px;
 }
 
 .context_title_box{
@@ -1690,12 +1767,12 @@ keyframes shrink{
 .context_p{
 	background:#fff;
 	width: 100%;
-	padding: 5% 0;
+	padding: 5% 0%;
 }
 
 .context_p h1{
-	font-size: 1.75rem;
-	color: #333;
+	font-size: 1rem;
+	color: rgb(0, 188, 212);
 }
 
 .context_p h3{
@@ -1712,12 +1789,18 @@ keyframes shrink{
     margin: 0 auto;
 }
 
-.sh_context_p_box,.swr_context_p_box{
+.sh_context_p_box,.tc_context_p_box{
 	width: 65%;
+	max-width: 940px;
+	padding: 2% 0 0 0;
 }
 
-.sh_context_p_box p{
-	margin: 1rem 0 3rem 0;
+.tc_context_p_box b{
+	display: block;
+	text-align: left;
+	margin: 2% 0 0 0;
+	font-weight:400;
+	color: #999;
 }
 
 .sh_img_1{
@@ -1733,13 +1816,20 @@ keyframes shrink{
 
 .sh_img_3{
 	background: url(../img/f7.png) 50% 50% no-repeat;
-	background-size: contain;
+	background-size: 80%;
 	min-height: 300px;
 }
 
 .sh_img_3, .sh_img_4{
 	margin: .5rem 0 2rem 0;
 }
+
+.sh_img_4{
+	background: url(../img/f6.png) 50% 50% no-repeat;
+	min-height: 400px;
+	background-size: 50%;
+}
+
 
 .sh_img_5{
 	background: url(../img/film2.png) 50% 50% no-repeat;
@@ -1759,15 +1849,74 @@ keyframes shrink{
 	background-size: 100%;
 }
 
+.sh_context_img_2{
+	background: url(../img/f3.png) 50% 50% no-repeat!important;
+	min-height: 550px;
+	background-size: 75%!important;
+}
+
 .sh_context_p_box b{
 	font-size: 1rem;
 	color: #666;
 }
 
-.swr_img_1{
+.tc_img{
+	min-height: 250px;
+	margin-bottom: 5%;
+}
+
+.tc_img_1{
 	background: url(../img/tourconnect_ui.png) 50% 50% no-repeat;
+		background-size: 100%;
+}
+
+.tc_img_2{
+	background: url(../img/tourconnect_ui2.png) 50% 50% no-repeat;
+		background-size: 100%;
+		min-height: 350px;
+}
+
+.tc_img_3{
+	background: url(../img/tourconnect_ui3.png) 50% 50% no-repeat;
+		background-size: 100%;
+		min-height: 450px;
+}
+
+.tc_img_4{
+	background: url(../img/tourconnect_ui4.png) 50% 50% no-repeat;
+	background-size: 100%;
 	min-height: 400px;
-	background-size: 70%;
+}
+
+.tc_img_5{
+	background: url(../img/tourconnect_rs1.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 300px;
+}
+
+.tc_img_6{
+	background: url(../img/tourconnect_rs.png) 50% 50% no-repeat;
+	background-size: 80%;
+	min-height: 250px;
+}
+
+
+.tc_img_7{
+	background: url(../img/tourconnect_prototype.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 400px;
+}
+
+.tc_img_8{
+	background: url(../img/tourconnect_userj.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 950px;
+}
+
+.tc_img_9{
+	background: url(../img/tourconnect_wf.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 700px;
 }
 
 .context_img h1{
@@ -1796,12 +1945,6 @@ keyframes shrink{
 	background-size: 80%;
 }
 
-.sh_context_img_2{
-	background: url(../img/tourconnect_puj.png) 50% 50% no-repeat;
-	background-size: contain;
-	height: 500px;
-
-}
 
 .context_img_2{
 	background: url(../img/hci_e.png) 50% 10% no-repeat;
