@@ -1915,8 +1915,14 @@ keyframes shrink{
 
 .tc_img_9{
 	background: url(../img/tourconnect_wf.png) 50% 50% no-repeat;
+	background-size: 90%;
+	min-height: 650px;
+}
+
+.tc_img_10{
+	background: url(../img/tourconnect_wireframe.svg) 50% 50% no-repeat;
 	background-size: 100%;
-	min-height: 700px;
+	min-height: 620px;
 }
 
 .context_img h1{

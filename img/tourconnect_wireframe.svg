@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4280px" height="2803px" viewBox="0 0 4280 2803" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="4280" height="2803" rx="1"></rect>
+        <linearGradient x1="-2.1468637%" y1="48.7350464%" x2="101.259044%" y2="48.7350464%" id="linearGradient-3">
+            <stop stop-color="#000000" stop-opacity="0.08" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.08" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="60" y="179" width="125" height="623.240917"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M517,153 C509.820208,153 504,147.179792 504,140 C504,132.820208 509.820208,127 517,127 C524.179792,127 530,132.820208 530,140 C530,147.179792 524.179792,153 517,153 Z" id="path-6"></path>
+        <rect id="path-8" x="1095" y="2071" width="125" height="623.240917"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-10" x="2921" y="474" width="188" height="26" rx="1"></rect>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="188" height="26" fill="white">
+            <use xlink:href="#path-10"></use>
+        </mask>
+        <path d="M1552,2045 C1544.82021,2045 1539,2039.17979 1539,2032 C1539,2024.82021 1544.82021,2019 1552,2019 C1559.17979,2019 1565,2024.82021 1565,2032 C1565,2039.17979 1559.17979,2045 1552,2045 Z" id="path-12"></path>
+        <rect id="path-14" x="60" y="179" width="125" height="623.240917"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-16" x="308" y="356" width="180" height="8" rx="1"></rect>
+        <mask id="mask-17" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-16"></use>
+        </mask>
+        <rect id="path-18" x="308" y="434" width="180" height="8" rx="1"></rect>
+        <mask id="mask-19" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-18"></use>
+        </mask>
+        <rect id="path-20" x="308" y="512" width="180" height="8" rx="1"></rect>
+        <mask id="mask-21" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-20"></use>
+        </mask>
+        <rect id="path-22" x="308" y="576" width="180" height="8" rx="1"></rect>
+        <mask id="mask-23" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-22"></use>
+        </mask>
+        <rect id="path-24" x="308" y="639" width="180" height="8" rx="1"></rect>
+        <mask id="mask-25" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-24"></use>
+        </mask>
+        <rect id="path-26" x="308" y="370" width="180" height="8" rx="1"></rect>
+        <mask id="mask-27" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-26"></use>
+        </mask>
+        <rect id="path-28" x="308" y="448" width="180" height="8" rx="1"></rect>
+        <mask id="mask-29" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-28"></use>
+        </mask>
+        <rect id="path-30" x="308" y="526" width="180" height="8" rx="1"></rect>
+        <mask id="mask-31" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-30"></use>
+        </mask>
+        <rect id="path-32" x="308" y="590" width="180" height="8" rx="1"></rect>
+        <mask id="mask-33" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-32"></use>
+        </mask>
+        <rect id="path-34" x="308" y="384" width="180" height="8" rx="1"></rect>
+        <mask id="mask-35" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-34"></use>
+        </mask>
+        <rect id="path-36" x="308" y="462" width="180" height="8" rx="1"></rect>
+        <mask id="mask-37" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-36"></use>
+        </mask>
+        <rect id="path-38" x="308" y="540" width="180" height="8" rx="1"></rect>
+        <mask id="mask-39" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-38"></use>
+        </mask>
+        <rect id="path-40" x="308" y="604" width="180" height="8" rx="1"></rect>
+        <mask id="mask-41" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-40"></use>
+        </mask>
+        <rect id="path-42" x="308" y="398" width="180" height="8" rx="1"></rect>
+        <mask id="mask-43" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-42"></use>
+        </mask>
+        <rect id="path-44" x="308" y="476" width="180" height="8" rx="1"></rect>
+        <mask id="mask-45" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-44"></use>
+        </mask>
+        <path d="M517,153 C509.820208,153 504,147.179792 504,140 C504,132.820208 509.820208,127 517,127 C524.179792,127 530,132.820208 530,140 C530,147.179792 524.179792,153 517,153 Z" id="path-46"></path>
+        <rect id="path-48" x="3575" y="265" width="125" height="623.240917"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-49">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-50" x="3823" y="417" width="180" height="8" rx="1"></rect>
+        <mask id="mask-51" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-50"></use>
+        </mask>
+        <rect id="path-52" x="3823" y="495" width="180" height="8" rx="1"></rect>
+        <mask id="mask-53" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-52"></use>
+        </mask>
+        <rect id="path-54" x="3823" y="573" width="180" height="8" rx="1"></rect>
+        <mask id="mask-55" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-54"></use>
+        </mask>
+        <rect id="path-56" x="3823" y="637" width="180" height="8" rx="1"></rect>
+        <mask id="mask-57" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-56"></use>
+        </mask>
+        <rect id="path-58" x="3823" y="700" width="180" height="8" rx="1"></rect>
+        <mask id="mask-59" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-58"></use>
+        </mask>
+        <rect id="path-60" x="3823" y="431" width="180" height="8" rx="1"></rect>
+        <mask id="mask-61" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-60"></use>
+        </mask>
+        <rect id="path-62" x="3823" y="509" width="180" height="8" rx="1"></rect>
+        <mask id="mask-63" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-62"></use>
+        </mask>
+        <rect id="path-64" x="3823" y="587" width="180" height="8" rx="1"></rect>
+        <mask id="mask-65" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-64"></use>
+        </mask>
+        <rect id="path-66" x="3823" y="651" width="180" height="8" rx="1"></rect>
+        <mask id="mask-67" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-66"></use>
+        </mask>
+        <rect id="path-68" x="3823" y="445" width="180" height="8" rx="1"></rect>
+        <mask id="mask-69" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-68"></use>
+        </mask>
+        <rect id="path-70" x="3823" y="523" width="180" height="8" rx="1"></rect>
+        <mask id="mask-71" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-70"></use>
+        </mask>
+        <rect id="path-72" x="3823" y="601" width="180" height="8" rx="1"></rect>
+        <mask id="mask-73" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-72"></use>
+        </mask>
+        <rect id="path-74" x="3823" y="665" width="180" height="8" rx="1"></rect>
+        <mask id="mask-75" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-74"></use>
+        </mask>
+        <rect id="path-76" x="3823" y="459" width="180" height="8" rx="1"></rect>
+        <mask id="mask-77" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-76"></use>
+        </mask>
+        <rect id="path-78" x="3823" y="537" width="180" height="8" rx="1"></rect>
+        <mask id="mask-79" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="8" fill="white">
+            <use xlink:href="#path-78"></use>
+        </mask>
+        <rect id="path-80" x="60" y="179" width="125" height="623.240917"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-81">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M517,153 C509.820208,153 504,147.179792 504,140 C504,132.820208 509.820208,127 517,127 C524.179792,127 530,132.820208 530,140 C530,147.179792 524.179792,153 517,153 Z" id="path-82"></path>
+        <rect id="path-84" x="2897" y="514" width="240" height="14" rx="1"></rect>
+        <mask id="mask-85" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="240" height="14" fill="white">
+            <use xlink:href="#path-84"></use>
+        </mask>
+        <rect id="path-86" x="1515" y="265" width="80" height="17" rx="1"></rect>
+        <mask id="mask-87" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="17" fill="white">
+            <use xlink:href="#path-86"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="You-can-work-here!" transform="translate(-1592.000000, -830.000000)">
+            <g id="Group-13" transform="translate(1592.000000, 830.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-124.000000, -63.000000)">
+                        <rect id="Rectangle-9" fill="url(#linearGradient-3)" x="0" y="0" width="5064" height="3230" rx="1"></rect>
+                        <g id="Group-12" stroke-width="1" fill="none" transform="translate(475.000000, 256.000000)">
+                            <text id="MENU-ICON-STATUS" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="317.276367" y="2003">MENU ICON STATUS</tspan>
+                            </text>
+                            <g id="Group-9" transform="translate(233.000000, 86.000000)">
+                                <text id="NAVIGATION-DETAIL" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="128.041992" y="37">NAVIGATION DETAIL</tspan>
+                                </text>
+                                <rect id="Rectangle-387" fill="#FAFAFA" x="0" y="67" width="600" height="759"></rect>
+                                <rect id="Rectangle-387" fill="#FFFFFF" x="45" y="94" width="510" height="732"></rect>
+                                <text id="Company-Name" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="128" y="238">Company Name</tspan>
+                                </text>
+                                <text id="Location-List" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="128" y="328.5">Location List</tspan>
+                                </text>
+                                <text id="Location-Name-1" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="169" y="410">Location Name 1</tspan>
+                                </text>
+                                <text id="Location-Name-2" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="169" y="656">Location Name 2</tspan>
+                                </text>
+                                <text id="Product-Name" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="223" y="474">Product Name</tspan>
+                                </text>
+                                <text id="Product-Name-Copy" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="223" y="530.800781">Product Name</tspan>
+                                </text>
+                                <circle id="Oval-3" stroke="#979797" fill="#D8D8D8" cx="101" cy="227" r="14"></circle>
+                                <path d="M101.577654,322.510679 C101.498223,322.574192 101.371899,322.576158 101.290011,322.510679 L93.2915231,316.115001 C93.2120928,316.051488 93.221588,316 93.322603,316 L109.545062,316 C109.641657,316 109.65803,316.049522 109.576142,316.115001 L101.577654,322.510679 Z" id="Triangle-5-Copy" fill-opacity="0.54" fill="#000000"></path>
+                                <path d="M149.577654,403.510679 C149.498223,403.574192 149.371899,403.576158 149.290011,403.510679 L141.291523,397.115001 C141.212093,397.051488 141.221588,397 141.322603,397 L157.545062,397 C157.641657,397 157.65803,397.049522 157.576142,397.115001 L149.577654,403.510679 Z" id="Triangle-5-Copy-2" fill-opacity="0.54" fill="#000000"></path>
+                                <path d="M149.577654,649.510679 C149.498223,649.574192 149.371899,649.576158 149.290011,649.510679 L141.291523,643.115001 C141.212093,643.051488 141.221588,643 141.322603,643 L157.545062,643 C157.641657,643 157.65803,643.049522 157.576142,643.115001 L149.577654,649.510679 Z" id="Triangle-5-Copy-3" fill-opacity="0.54" fill="#000000" transform="translate(149.438520, 646.011139) rotate(-90.000000) translate(-149.438520, -646.011139) "></path>
+                                <g id="Group" transform="translate(226.000000, 554.000000)">
+                                    <text id="Add-Product" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                        <tspan x="36" y="34">Add Product</tspan>
+                                    </text>
+                                    <polygon id="Shape" fill="#B2B2B2" points="9.05957568 13 9.05957568 22.0595757 -4.54747351e-13 22.0595757 -4.54747351e-13 25.0794342 9.05957568 25.0794342 9.05957568 34.1390099 12.0794342 34.1390099 12.0794342 25.0794342 21.1390099 25.0794342 21.1390099 22.0595757 12.0794342 22.0595757 12.0794342 13"></polygon>
+                                </g>
+                                <g id="Group-3" transform="translate(142.000000, 690.000000)">
+                                    <text id="Add-Location" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                        <tspan x="36" y="34">Add Location</tspan>
+                                    </text>
+                                    <polygon id="Shape-Copy" fill="#B2B2B2" points="9.05957568 13 9.05957568 22.0595757 -4.54747351e-13 22.0595757 -4.54747351e-13 25.0794342 9.05957568 25.0794342 9.05957568 34.1390099 12.0794342 34.1390099 12.0794342 25.0794342 21.1390099 25.0794342 21.1390099 22.0595757 12.0794342 22.0595757 12.0794342 13"></polygon>
+                                </g>
+                                <path d="M493.261439,456.04616 L489,456.04616 L489,458.13848 L503.915035,458.13848 L503.915035,456.04616 L499.653597,456.04616 L498.588237,455 L494.326798,455 L493.261439,456.04616 Z M502.849676,472.78472 L502.849676,459.18464 L490.06536,459.18464 L490.06536,472.78472 C490.06536,473.935496 491.024183,474.87704 492.196079,474.87704 L500.718956,474.87704 C501.890852,474.87704 502.849676,473.935496 502.849676,472.78472 Z" id="Combined-Shape" fill-opacity="0.3" fill="#000000"></path>
+                                <path d="M493.261439,512.846941 L489,512.846941 L489,514.939261 L503.915035,514.939261 L503.915035,512.846941 L499.653597,512.846941 L498.588237,511.800781 L494.326798,511.800781 L493.261439,512.846941 Z M502.849676,529.585501 L502.849676,515.985421 L490.06536,515.985421 L490.06536,529.585501 C490.06536,530.736277 491.024183,531.677821 492.196079,531.677821 L500.718956,531.677821 C501.890852,531.677821 502.849676,530.736277 502.849676,529.585501 Z" id="Combined-Shape-Copy-2" fill-opacity="0.3" fill="#000000"></path>
+                                <path d="M493.261439,387.04616 L489,387.04616 L489,389.13848 L503.915035,389.13848 L503.915035,387.04616 L499.653597,387.04616 L498.588237,386 L494.326798,386 L493.261439,387.04616 Z M502.849676,403.78472 L502.849676,390.18464 L490.06536,390.18464 L490.06536,403.78472 C490.06536,404.935496 491.024183,405.87704 492.196079,405.87704 L500.718956,405.87704 C501.890852,405.87704 502.849676,404.935496 502.849676,403.78472 Z" id="Combined-Shape-Copy" fill-opacity="0.3" fill="#000000"></path>
+                                <path d="M493.261439,633.04616 L489,633.04616 L489,635.13848 L503.915035,635.13848 L503.915035,633.04616 L499.653597,633.04616 L498.588237,632 L494.326798,632 L493.261439,633.04616 Z M502.849676,649.78472 L502.849676,636.18464 L490.06536,636.18464 L490.06536,649.78472 C490.06536,650.935496 491.024183,651.87704 492.196079,651.87704 L500.718956,651.87704 C501.890852,651.87704 502.849676,650.935496 502.849676,649.78472 Z" id="Combined-Shape-Copy-3" fill-opacity="0.3" fill="#000000"></path>
+                                <path d="M107.553571,406.901667 L107.553571,397.944444 L105.089286,397.944444 L105.089286,406.901667 L101.392857,406.901667 L106.321429,412 L111.25,406.901667 L107.553571,406.901667 L107.553571,406.901667 Z M98.9285714,389 L94,394.098333 L97.6964286,394.098333 L97.6964286,403.055556 L100.160714,403.055556 L100.160714,394.098333 L103.857143,394.098333 L98.9285714,389 Z" id="Shape" fill="#B2B2B2"></path>
+                                <path d="M107.553571,652.901667 L107.553571,643.944444 L105.089286,643.944444 L105.089286,652.901667 L101.392857,652.901667 L106.321429,658 L111.25,652.901667 L107.553571,652.901667 L107.553571,652.901667 Z M98.9285714,635 L94,640.098333 L97.6964286,640.098333 L97.6964286,649.055556 L100.160714,649.055556 L100.160714,640.098333 L103.857143,640.098333 L98.9285714,635 Z" id="Shape-Copy-2" fill="#B2B2B2"></path>
+                            </g>
+                            <path d="M0,313 L252.545616,313.016303 C280.160953,313.018086 302.522554,335.407743 302.491648,363.026301 L300.729498,1937.71589 C300.698592,1965.33386 278.288686,1987.98812 250.667734,1988.31568 L105.015625,1990.04297" id="Connection" stroke="#F2454F" stroke-width="3" stroke-linecap="square" transform="translate(151.245840, 1151.521484) scale(-1, 1) translate(-151.245840, -1151.521484) "></path>
+                            <path d="M129,405.930255 L285.327503,405.000902 C312.938455,404.836758 335.30093,427.088506 335.275487,454.70612 L334.813354,956.330171 C334.787913,983.945749 312.391391,1006.3326 284.773267,1006.3326 L265.40625,1006.3326" id="Connection-Copy" stroke="#F2454F" stroke-width="3" stroke-linecap="square" transform="translate(232.137754, 705.666299) scale(-1, 1) translate(-232.137754, -705.666299) "></path>
+                            <ellipse id="Dot" stroke="#F2454F" stroke-width="3" transform="translate(334.000000, 312.000000) scale(-1, 1) translate(-334.000000, -312.000000) " cx="334" cy="312" rx="30" ry="30"></ellipse>
+                            <ellipse id="Dot-Copy" stroke="#F2454F" stroke-width="3" transform="translate(366.000000, 404.000000) scale(-1, 1) translate(-366.000000, -404.000000) " cx="366" cy="404" rx="30" ry="30"></ellipse>
+                            <ellipse id="Dot-Copy-2" stroke="#F2454F" stroke-width="3" transform="translate(459.000000, 663.000000) scale(-1, 1) translate(-459.000000, -663.000000) " cx="459" cy="663" rx="30" ry="30"></ellipse>
+                            <ellipse id="Dot-Copy-3" stroke="#F2454F" stroke-width="3" transform="translate(332.000000, 728.000000) scale(-1, 1) translate(-332.000000, -728.000000) " cx="332" cy="728" rx="30" ry="30"></ellipse>
+                            <path d="M189.789345,2005.10533 C188.801117,2005.59944 188,2005.10566 188,2004.00179 L188,1976.99821 C188,1975.89463 188.797449,1975.39872 189.789345,1975.89467 L217.210655,1989.60533 C218.198883,1990.09944 218.202551,1990.89872 217.210655,1991.39467 L189.789345,2005.10533 Z" id="Triangle-1" fill="#F2454F" transform="translate(203.500000, 1990.500000) scale(-1, 1) rotate(-180.000000) translate(-203.500000, -1990.500000) "></path>
+                            <path d="M189.789345,1023.10533 C188.801117,1023.59944 188,1023.10566 188,1022.00179 L188,994.998214 C188,993.894631 188.797449,993.398724 189.789345,993.894672 L217.210655,1007.60533 C218.198883,1008.09944 218.202551,1008.89872 217.210655,1009.39467 L189.789345,1023.10533 Z" id="Triangle-1-Copy" fill="#F2454F" transform="translate(203.500000, 1008.500000) scale(-1, 1) rotate(-180.000000) translate(-203.500000, -1008.500000) "></path>
+                            <ellipse id="Dot" fill="#F2454F" transform="translate(263.000000, 1990.000000) scale(-1, 1) translate(-263.000000, -1990.000000) " cx="263" cy="1990" rx="30" ry="30"></ellipse>
+                            <text id="4" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill="#FFFFFF">
+                                <tspan x="252.010986" y="2004">4</tspan>
+                            </text>
+                            <text id="If-user-has-not-uplo" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                <tspan x="233" y="2068">If user has not upload the company logo, we </tspan>
+                                <tspan x="233" y="2101">will use a icon which means Accommodation/</tspan>
+                                <tspan x="233" y="2134">Nonaccommodation. If user has company icon, </tspan>
+                                <tspan x="233" y="2167">we will show their company icon here.</tspan>
+                            </text>
+                            <g id="Group-5" transform="translate(233.000000, 977.000000)">
+                                <text id="ACCOUNT-STATUS" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="84.2209473" y="43">ACCOUNT STATUS</tspan>
+                                </text>
+                                <ellipse id="Dot-Copy-4" fill="#F2454F" transform="translate(30.000000, 30.000000) scale(-1, 1) translate(-30.000000, -30.000000) " cx="30" cy="30" rx="30" ry="30"></ellipse>
+                                <text id="1-copy" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="19.0109863" y="44">1</tspan>
+                                </text>
+                                <text id="Single-location-Only" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="0" y="108">Single location</tspan>
+                                    <tspan x="0" y="141">Only have product name option.</tspan>
+                                    <tspan x="0" y="174"></tspan>
+                                    <tspan x="0" y="207">Mutiple location</tspan>
+                                    <tspan x="0" y="240">It has location name and product name both.</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-4" transform="translate(233.000000, 1289.000000)">
+                                <text id="ADD-LOCATION-AND-PRO" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="84.2900391" y="43">ADD LOCATION AND PRODUCT</tspan>
+                                </text>
+                                <ellipse id="Dot-Copy-5" fill="#F2454F" transform="translate(30.000000, 30.000000) scale(-1, 1) translate(-30.000000, -30.000000) " cx="30" cy="30" rx="30" ry="30"></ellipse>
+                                <text id="2" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="19.0109863" y="44">2</tspan>
+                                </text>
+                                <text id="We-default-show-8-lo" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="0" y="108">We default show 8 locations in one time based </tspan>
+                                    <tspan x="0" y="141">on the research results. Also we allow user add </tspan>
+                                    <tspan x="0" y="174">the location and product on the left menu. </tspan>
+                                </text>
+                            </g>
+                            <g id="Group-6" transform="translate(233.000000, 1534.000000)">
+                                <text id="CHANGE-ORDER-AND-DEL" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="84.4741211" y="43">CHANGE ORDER AND DELETE</tspan>
+                                </text>
+                                <ellipse id="Dot-Copy-6" fill="#F2454F" transform="translate(30.000000, 30.000000) scale(-1, 1) translate(-30.000000, -30.000000) " cx="30" cy="30" rx="30" ry="30"></ellipse>
+                                <text id="3" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="19.0109863" y="44">3</tspan>
+                                </text>
+                                <text id="When-user-have-more" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="0" y="108">When user have more than one locations or </tspan>
+                                    <tspan x="0" y="141">products, we will allow user to change the </tspan>
+                                    <tspan x="0" y="174">order. </tspan>
+                                    <tspan x="0" y="207">User can only delete the product, then delete </tspan>
+                                    <tspan x="0" y="240">this location.</tspan>
+                                </text>
+                            </g>
+                            <path d="M129,663.5 L428.602069,663.5" id="Path-2" stroke="#F2454F" stroke-width="3"></path>
+                            <path d="M129,728 L303.600006,728" id="Path-2-Copy" stroke="#F2454F" stroke-width="3"></path>
+                            <g id="Group-7" transform="translate(1057.000000, 86.000000)">
+                                <rect id="Border" fill="#D1D1D1" x="0" y="67" width="600" height="53" rx="15"></rect>
+                                <rect id="Page" fill="#FAFAFA" x="0" y="120" width="600" height="706" rx="13.5"></rect>
+                                <rect id="Rectangle" fill="#FFFFFF" x="0" y="120" width="600" height="40"></rect>
+                                <rect id="Rectangle-2" fill-opacity="0.54" fill="#000000" x="99" y="158" width="40" height="2"></rect>
+                                <circle id="Oval" fill="#EEEEEE" cx="73" cy="140" r="13"></circle>
+                                <g id="Close_tab" transform="translate(24.000000, 85.000000)" fill="#FFFFFF">
+                                    <circle id="Oval-1" cx="8.75" cy="8.75" r="8.75"></circle>
+                                    <circle id="Oval-1-Copy" cx="34.25" cy="8.75" r="8.75"></circle>
+                                    <circle id="Oval-1-Copy-2" cx="60.25" cy="8.75" r="8.75"></circle>
+                                </g>
+                                <text id="Profile" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="103" y="144">Profile</tspan>
+                                </text>
+                                <text id="Connection" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="150" y="144">Connection</tspan>
+                                </text>
+                                <text id="Rates&amp;Contracts" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="220" y="144">Rates&amp;Contracts</tspan>
+                                </text>
+                                <text id="Help" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="316" y="144">Help</tspan>
+                                </text>
+                                <text id="COMPANY-PROFILE-EDIT" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="96.0070801" y="37">COMPANY PROFILE EDIT</tspan>
+                                </text>
+                                <g id="Big-image" transform="translate(197.000000, 204.000000)">
+                                    <rect id="Rectangle-6" fill="#EAEAEA" x="0" y="0" width="342" height="100"></rect>
+                                    <g id="img_picto-copy" opacity="0.5" transform="translate(124.712756, 31.484962)" fill="#BCBEC0">
+                                        <path d="M91.4027933,33.7218045 L68.1528864,17.1052632 C67.386406,16.5789474 66.2366853,16.2030075 64.8314711,16.2030075 C63.5540037,16.2030075 62.2765363,16.5789474 61.5100559,17.1052632 L58.4441341,19.2857143 C58.3163873,19.3609023 58.1886406,19.5112782 58.0608939,19.5864662 C57.2944134,20.037594 56.2724395,20.3383459 55.1227188,20.3383459 C53.9729981,20.3383459 53.0787709,20.112782 52.3122905,19.6616541 C52.056797,19.5112782 51.8013035,19.3609023 51.6735568,19.2105263 L40.3040968,11.0902256 C39.2821229,10.3383459 37.749162,9.88721805 35.9607076,9.88721805 C34.1722533,9.88721805 32.6392924,10.3383459 31.6173184,11.0902256 L1.21359404,32.8195489 L0.702607076,33.1954887 C0.319366853,33.5714286 0.0638733706,33.9473684 0.0638733706,34.3984962 C0.0638733706,35.6015038 1.72458101,36.5789474 3.76852886,36.5789474 L3.76852886,36.5789474 L12.3275605,36.5789474 L15.1379888,36.5789474 L15.7767225,36.5789474 L40.4318436,36.5789474 L46.9469274,36.5789474 L49.118622,36.5789474 L49.6296089,36.5789474 L68.1528864,36.5789474 L80.4165736,36.5789474 L80.9275605,36.5789474 L84.8877095,36.5789474 L89.6143389,36.5789474 C91.1472998,36.5789474 92.4247672,35.8270677 92.4247672,34.924812 C92.4247672,34.5488722 92.2970205,34.2481203 91.9137803,33.9473684 L91.4027933,33.7218045 L91.4027933,33.7218045 Z" id="Shape"></path>
+                                        <path d="M84.7599628,0.037593985 C79.6500931,0.037593985 75.4344507,2.51879699 75.4344507,5.52631579 C75.4344507,8.53383459 79.6500931,11.0150376 84.7599628,11.0150376 C89.8698324,11.0150376 94.0854749,8.53383459 94.0854749,5.52631579 C94.0854749,2.51879699 89.8698324,0.037593985 84.7599628,0.037593985 L84.7599628,0.037593985 Z" id="Shape"></path>
+                                    </g>
+                                </g>
+                                <circle id="Oval-2" fill="#FFFFFF" cx="369" cy="204" r="25"></circle>
+                                <text id="Company-Logo" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="351.201172" y="202">Company</tspan>
+                                    <tspan x="360.220703" y="213">Logo</tspan>
+                                </text>
+                                <text id="Company-Name" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="299.430176" y="276">Company Name</tspan>
+                                </text>
+                                <text id="BANNER" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="213.160156" y="233">BANNER</tspan>
+                                </text>
+                                <text id="Profile-view" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="213.015625" y="297">Profile view</tspan>
+                                </text>
+                                <text id="Connections" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="479.082031" y="297">Connections</tspan>
+                                </text>
+                                <g id="Rectangle-6-Copy">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                </g>
+                                <rect id="Rectangle-6" fill="#FFFFFF" x="197" y="319" width="343" height="144"></rect>
+                                <rect id="Rectangle-6-Copy-2" fill="#FFFFFF" x="197" y="478" width="343" height="144"></rect>
+                                <text id="Company-Name" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="74" y="202">Company Name</tspan>
+                                </text>
+                                <rect id="Rectangle-3" fill="#EAEAEA" x="482" y="325" width="42" height="16" rx="1"></rect>
+                                <rect id="Rectangle-3-Copy" fill="#EAEAEA" x="482" y="484" width="42" height="16" rx="1"></rect>
+                                <text id="EDIT" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="494.347656" y="337">EDIT</tspan>
+                                </text>
+                                <text id="EDIT-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="494.347656" y="496">EDIT</tspan>
+                                </text>
+                                <rect id="Rectangle-30-Copy" fill="#EEEEEE" x="213" y="356" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-2" fill="#EEEEEE" x="213" y="515" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-5" fill="#EEEEEE" x="213" y="374.949886" width="70" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-38" fill="#EEEEEE" x="213" y="432.200456" width="70" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-17" fill="#EEEEEE" x="213" y="540" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-6" fill="#EEEEEE" x="213" y="393.899772" width="30" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-21" fill="#EEEEEE" x="213" y="566" width="59.2222222" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-10" fill="#EEEEEE" x="213" y="413.050114" width="40" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-22" fill="#EEEEEE" x="213" y="591" width="59.2222222" height="8.20045558"></rect>
+                                <text id="TourConnect-Logo" font-family="OpenSans-Semibold, Open Sans" font-size="3" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="63.1682129" y="140">TourConnect</tspan>
+                                    <tspan x="69.0202637" y="144">Logo</tspan>
+                                </text>
+                                <polygon id="Fill-10" fill="#A6A8AB" points="535 139 537.657895 141.653061 540.315789 139"></polygon>
+                                <text id="COMPANY-INFORMATIONS" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="213.492188" y="339">COMPANY INFORMATIONS</tspan>
+                                </text>
+                                <text id="CONTACT-INFORMATIONS" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="213.449219" y="498">CONTACT INFORMATIONS</tspan>
+                                </text>
+                                <g id="Group-2" transform="translate(197.000000, 637.000000)">
+                                    <rect id="Rectangle-6-Copy-3" fill="#FFFFFF" x="0" y="0" width="343" height="90"></rect>
+                                    <rect id="Rectangle-3-Copy-2" fill="#EAEAEA" x="285" y="6" width="42" height="16" rx="1"></rect>
+                                    <text id="EDIT-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                        <tspan x="297.347656" y="18">EDIT</tspan>
+                                    </text>
+                                    <text id="CONTACT-INFORMATIONS-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                        <tspan x="16.4492188" y="20">CONTACT INFORMATIONS</tspan>
+                                    </text>
+                                </g>
+                                <path d="M488.318095,141.762857 L488.318095,138.714286 C488.318095,137.011905 487.139524,135.587143 485.547143,135.21 L485.547143,134.832857 C485.547143,134.371905 485.175238,134 484.714286,134 C484.253333,134 483.881429,134.371905 483.881429,134.832857 L483.881429,135.21 C482.289048,135.587143 481.110476,137.011905 481.110476,138.714286 L481.110476,141.762857 L480,142.873333 L480,143.428571 L489.428571,143.428571 L489.428571,142.873333 L488.318095,141.762857 Z M483.671905,143.957619 C483.671905,144.53381 484.138095,145 484.714286,145 C485.290476,145 485.756667,144.53381 485.756667,143.957619 L483.671905,143.957619 Z" id="Fill-14" fill="#EEEEEE"></path>
+                                <mask id="mask-7" fill="white">
+                                    <use xlink:href="#path-6"></use>
+                                </mask>
+                                <use id="Mask" fill="#EEEEEE" xlink:href="#path-6"></use>
+                                <text id="SETTING" font-family="OpenSans-Semibold, Open Sans" font-size="5" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="506.364502" y="142">SETTING</tspan>
+                                </text>
+                                <text id="Location-List-Copy" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="74" y="226">Location List</tspan>
+                                </text>
+                                <text id="Add-Location-Name" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="82" y="245">Add Location Name</tspan>
+                                </text>
+                            </g>
+                            <rect id="Border" fill="#D1D1D1" x="1035" y="1959" width="600" height="53" rx="15"></rect>
+                            <rect id="Page" fill="#FAFAFA" x="1035" y="2012" width="600" height="706" rx="13.5"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="1035" y="2012" width="600" height="40"></rect>
+                            <rect id="Rectangle-2" fill-opacity="0.54" fill="#000000" x="1134" y="2050" width="40" height="2"></rect>
+                            <ellipse id="Oval" fill="#EEEEEE" cx="1108" cy="2032" rx="13" ry="13"></ellipse>
+                            <g id="Close_tab" transform="translate(1059.000000, 1977.000000)" fill="#FFFFFF">
+                                <circle id="Oval-1" cx="8.75" cy="8.75" r="8.75"></circle>
+                                <circle id="Oval-1-Copy" cx="34.25" cy="8.75" r="8.75"></circle>
+                                <circle id="Oval-1-Copy-2" cx="60.25" cy="8.75" r="8.75"></circle>
+                            </g>
+                            <text id="Profile" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1138" y="2036">Profile</tspan>
+                            </text>
+                            <text id="Connection" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="1185" y="2036">Connection</tspan>
+                            </text>
+                            <text id="Rates&amp;Contracts" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="1255" y="2036">Rates&amp;Contracts</tspan>
+                            </text>
+                            <text id="Help" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="1351" y="2036">Help</tspan>
+                            </text>
+                            <text id="COMPANY-PROFILE-VIEW" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1126.31592" y="1929">COMPANY PROFILE VIEW</tspan>
+                            </text>
+                            <g id="Big-image" transform="translate(1232.000000, 2096.000000)">
+                                <rect id="Rectangle-6" fill="#EAEAEA" x="0" y="0" width="342" height="100"></rect>
+                                <g id="img_picto-copy" opacity="0.5" transform="translate(124.712756, 31.484962)" fill="#BCBEC0">
+                                    <path d="M91.4027933,33.7218045 L68.1528864,17.1052632 C67.386406,16.5789474 66.2366853,16.2030075 64.8314711,16.2030075 C63.5540037,16.2030075 62.2765363,16.5789474 61.5100559,17.1052632 L58.4441341,19.2857143 C58.3163873,19.3609023 58.1886406,19.5112782 58.0608939,19.5864662 C57.2944134,20.037594 56.2724395,20.3383459 55.1227188,20.3383459 C53.9729981,20.3383459 53.0787709,20.112782 52.3122905,19.6616541 C52.056797,19.5112782 51.8013035,19.3609023 51.6735568,19.2105263 L40.3040968,11.0902256 C39.2821229,10.3383459 37.749162,9.88721805 35.9607076,9.88721805 C34.1722533,9.88721805 32.6392924,10.3383459 31.6173184,11.0902256 L1.21359404,32.8195489 L0.702607076,33.1954887 C0.319366853,33.5714286 0.0638733706,33.9473684 0.0638733706,34.3984962 C0.0638733706,35.6015038 1.72458101,36.5789474 3.76852886,36.5789474 L3.76852886,36.5789474 L12.3275605,36.5789474 L15.1379888,36.5789474 L15.7767225,36.5789474 L40.4318436,36.5789474 L46.9469274,36.5789474 L49.118622,36.5789474 L49.6296089,36.5789474 L68.1528864,36.5789474 L80.4165736,36.5789474 L80.9275605,36.5789474 L84.8877095,36.5789474 L89.6143389,36.5789474 C91.1472998,36.5789474 92.4247672,35.8270677 92.4247672,34.924812 C92.4247672,34.5488722 92.2970205,34.2481203 91.9137803,33.9473684 L91.4027933,33.7218045 L91.4027933,33.7218045 Z" id="Shape"></path>
+                                    <path d="M84.7599628,0.037593985 C79.6500931,0.037593985 75.4344507,2.51879699 75.4344507,5.52631579 C75.4344507,8.53383459 79.6500931,11.0150376 84.7599628,11.0150376 C89.8698324,11.0150376 94.0854749,8.53383459 94.0854749,5.52631579 C94.0854749,2.51879699 89.8698324,0.037593985 84.7599628,0.037593985 L84.7599628,0.037593985 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                            <circle id="Oval-2" fill="#FFFFFF" cx="1404" cy="2096" r="25"></circle>
+                            <text id="Company-Logo" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1386.20117" y="2094">Company</tspan>
+                                <tspan x="1395.2207" y="2105">Logo</tspan>
+                            </text>
+                            <text id="Company-Name" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill-opacity="0.87" fill="#000000">
+                                <tspan x="1334.43018" y="2168">Company Name</tspan>
+                            </text>
+                            <text id="BANNER" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1248.16016" y="2125">BANNER</tspan>
+                            </text>
+                            <text id="Profile-view" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                <tspan x="1248.01562" y="2189">Profile view</tspan>
+                            </text>
+                            <text id="Connections" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                <tspan x="1514.08203" y="2189">Connections</tspan>
+                            </text>
+                            <g id="Rectangle-6-Copy">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                            </g>
+                            <rect id="Rectangle-6" fill="#FFFFFF" x="1232" y="2211" width="343" height="154"></rect>
+                            <rect id="Rectangle-6-Copy-2" fill="#FFFFFF" x="1232" y="2383" width="343" height="144"></rect>
+                            <text id="Company-Name" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1109" y="2094">Company Name</tspan>
+                            </text>
+                            <rect id="Rectangle-30-Copy" fill="#EEEEEE" x="1248" y="2248" width="40" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-2" fill="#EEEEEE" x="1248" y="2420" width="60" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-7" fill="#EEEEEE" x="1343" y="2248" width="210" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-8" fill="#EEEEEE" x="1343" y="2260" width="210" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-9" fill="#EEEEEE" x="1343" y="2273" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-5" fill="#EEEEEE" x="1248" y="2292" width="60" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-58" fill="#EEEEEE" x="1248" y="2345" width="60" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-17" fill="#EEEEEE" x="1248" y="2445" width="60" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-11" fill="#EEEEEE" x="1343" y="2292" width="70" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-59" fill="#EEEEEE" x="1343" y="2345" width="70" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-12" fill="#EEEEEE" x="1343" y="2310" width="100" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-13" fill="#EEEEEE" x="1343" y="2328" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-20" fill="#EEEEEE" x="1343" y="2496" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-23" fill="#EEEEEE" x="1343" y="2420" width="170" height="8"></rect>
+                            <use id="Rectangle-7" stroke="#979797" mask="url(#mask-11)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-10"></use>
+                            <rect id="Rectangle-30-Copy-24" fill="#EEEEEE" x="1343" y="2445" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-25" fill="#EEEEEE" x="1343" y="2471" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-6" fill="#EEEEEE" x="1248" y="2310" width="30" height="8.20045558"></rect>
+                            <rect id="Rectangle-30-Copy-21" fill="#EEEEEE" x="1248" y="2471" width="59.2222222" height="8.20045558"></rect>
+                            <rect id="Rectangle-30-Copy-10" fill="#EEEEEE" x="1248" y="2328" width="40" height="8.20045558"></rect>
+                            <rect id="Rectangle-30-Copy-22" fill="#EEEEEE" x="1248" y="2496" width="59.2222222" height="8.20045558"></rect>
+                            <text id="TourConnect-Logo" font-family="OpenSans-Semibold, Open Sans" font-size="3" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1098.16821" y="2032">TourConnect</tspan>
+                                <tspan x="1104.02026" y="2036">Logo</tspan>
+                            </text>
+                            <polygon id="Fill-10" fill="#A6A8AB" points="1570 2031 1572.65789 2033.65306 1575.31579 2031"></polygon>
+                            <text id="COMPANY-INFORMATIONS" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1248.49219" y="2231">COMPANY INFORMATIONS</tspan>
+                            </text>
+                            <text id="CONTACT-INFORMATIONS" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1248.44922" y="2403">CONTACT INFORMATIONS</tspan>
+                            </text>
+                            <g id="Group-2" transform="translate(1232.000000, 2542.000000)">
+                                <rect id="Rectangle-6-Copy-3" fill="#FFFFFF" x="0" y="0" width="343" height="90"></rect>
+                                <text id="CONTACT-INFORMATIONS-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="16.4492188" y="20">CONTACT INFORMATIONS</tspan>
+                                </text>
+                            </g>
+                            <path d="M1523.3181,2033.76286 L1523.3181,2030.71429 C1523.3181,2029.0119 1522.13952,2027.58714 1520.54714,2027.21 L1520.54714,2026.83286 C1520.54714,2026.3719 1520.17524,2026 1519.71429,2026 C1519.25333,2026 1518.88143,2026.3719 1518.88143,2026.83286 L1518.88143,2027.21 C1517.28905,2027.58714 1516.11048,2029.0119 1516.11048,2030.71429 L1516.11048,2033.76286 L1515,2034.87333 L1515,2035.42857 L1524.42857,2035.42857 L1524.42857,2034.87333 L1523.3181,2033.76286 Z M1518.6719,2035.95762 C1518.6719,2036.53381 1519.1381,2037 1519.71429,2037 C1520.29048,2037 1520.75667,2036.53381 1520.75667,2035.95762 L1518.6719,2035.95762 Z" id="Fill-14" fill="#EEEEEE"></path>
+                            <mask id="mask-13" fill="white">
+                                <use xlink:href="#path-12"></use>
+                            </mask>
+                            <use id="Mask" fill="#EEEEEE" xlink:href="#path-12"></use>
+                            <text id="SETTING" font-family="OpenSans-Semibold, Open Sans" font-size="5" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1541.3645" y="2034">SETTING</tspan>
+                            </text>
+                            <g id="img_picto-copy" opacity="0.5" transform="translate(1248.000000, 2580.000000)">
+                                <rect id="Rectangle-6" fill="#EEEEEE" x="0" y="0" width="51.9548611" height="29.7527123"></rect>
+                                <path d="M34.5827544,19.9337166 L29.9799859,14.4228997 C29.8282463,14.248349 29.6006369,14.1236699 29.3224476,14.1236699 C29.0695482,14.1236699 28.8166489,14.248349 28.6649093,14.4228997 L28.0579508,15.1460386 C28.0326608,15.1709744 28.0073709,15.2208461 27.982081,15.2457819 C27.8303414,15.3953968 27.6280219,15.4951401 27.4004124,15.4951401 C27.172803,15.4951401 26.9957735,15.4203327 26.8440338,15.2707177 C26.793454,15.2208461 26.7428741,15.1709744 26.7175842,15.1211028 L24.4667798,12.4280339 C24.2644603,12.1786757 23.9609811,12.0290607 23.606922,12.0290607 C23.2528629,12.0290607 22.9493836,12.1786757 22.7470641,12.4280339 L16.7280593,19.6344868 L16.6268995,19.7591659 C16.5510297,19.883845 16.5004498,20.0085241 16.5004498,20.1581391 C16.5004498,20.5571122 16.829219,20.8812779 17.233858,20.8812779 L17.233858,20.8812779 L18.9282837,20.8812779 L19.4846623,20.8812779 L19.611112,20.8812779 L24.4920697,20.8812779 L25.7818565,20.8812779 L26.2117854,20.8812779 L26.3129452,20.8812779 L29.9799859,20.8812779 L32.4078198,20.8812779 L32.5089796,20.8812779 L33.2929676,20.8812779 L34.2286953,20.8812779 C34.5321745,20.8812779 34.7850739,20.6319197 34.7850739,20.3326898 C34.7850739,20.2080107 34.7597839,20.1082674 34.6839141,20.0085241 L34.5827544,19.9337166 L34.5827544,19.9337166 Z" id="Shape" fill="#BCBEC0"></path>
+                                <path d="M33.2676777,8.76246791 C32.2560802,8.76246791 31.4215123,9.58535007 31.4215123,10.582783 C31.4215123,11.5802159 32.2560802,12.4030981 33.2676777,12.4030981 C34.2792751,12.4030981 35.113843,11.5802159 35.113843,10.582783 C35.113843,9.58535007 34.2792751,8.76246791 33.2676777,8.76246791 L33.2676777,8.76246791 Z" id="Shape" fill="#BCBEC0"></path>
+                            </g>
+                            <g id="img_picto-copy-2" opacity="0.5" transform="translate(1310.000000, 2580.000000)">
+                                <rect id="Rectangle-6" fill="#EEEEEE" x="0" y="0" width="51.9548611" height="29.7527123"></rect>
+                                <path d="M34.5827544,19.9337166 L29.9799859,14.4228997 C29.8282463,14.248349 29.6006369,14.1236699 29.3224476,14.1236699 C29.0695482,14.1236699 28.8166489,14.248349 28.6649093,14.4228997 L28.0579508,15.1460386 C28.0326608,15.1709744 28.0073709,15.2208461 27.982081,15.2457819 C27.8303414,15.3953968 27.6280219,15.4951401 27.4004124,15.4951401 C27.172803,15.4951401 26.9957735,15.4203327 26.8440338,15.2707177 C26.793454,15.2208461 26.7428741,15.1709744 26.7175842,15.1211028 L24.4667798,12.4280339 C24.2644603,12.1786757 23.9609811,12.0290607 23.606922,12.0290607 C23.2528629,12.0290607 22.9493836,12.1786757 22.7470641,12.4280339 L16.7280593,19.6344868 L16.6268995,19.7591659 C16.5510297,19.883845 16.5004498,20.0085241 16.5004498,20.1581391 C16.5004498,20.5571122 16.829219,20.8812779 17.233858,20.8812779 L17.233858,20.8812779 L18.9282837,20.8812779 L19.4846623,20.8812779 L19.611112,20.8812779 L24.4920697,20.8812779 L25.7818565,20.8812779 L26.2117854,20.8812779 L26.3129452,20.8812779 L29.9799859,20.8812779 L32.4078198,20.8812779 L32.5089796,20.8812779 L33.2929676,20.8812779 L34.2286953,20.8812779 C34.5321745,20.8812779 34.7850739,20.6319197 34.7850739,20.3326898 C34.7850739,20.2080107 34.7597839,20.1082674 34.6839141,20.0085241 L34.5827544,19.9337166 L34.5827544,19.9337166 Z" id="Shape" fill="#BCBEC0"></path>
+                                <path d="M33.2676777,8.76246791 C32.2560802,8.76246791 31.4215123,9.58535007 31.4215123,10.582783 C31.4215123,11.5802159 32.2560802,12.4030981 33.2676777,12.4030981 C34.2792751,12.4030981 35.113843,11.5802159 35.113843,10.582783 C35.113843,9.58535007 34.2792751,8.76246791 33.2676777,8.76246791 L33.2676777,8.76246791 Z" id="Shape" fill="#BCBEC0"></path>
+                            </g>
+                            <g id="img_picto-copy-3" opacity="0.5" transform="translate(1372.000000, 2580.000000)">
+                                <rect id="Rectangle-6" fill="#EEEEEE" x="0" y="0" width="51.9548611" height="29.7527123"></rect>
+                                <path d="M34.5827544,19.9337166 L29.9799859,14.4228997 C29.8282463,14.248349 29.6006369,14.1236699 29.3224476,14.1236699 C29.0695482,14.1236699 28.8166489,14.248349 28.6649093,14.4228997 L28.0579508,15.1460386 C28.0326608,15.1709744 28.0073709,15.2208461 27.982081,15.2457819 C27.8303414,15.3953968 27.6280219,15.4951401 27.4004124,15.4951401 C27.172803,15.4951401 26.9957735,15.4203327 26.8440338,15.2707177 C26.793454,15.2208461 26.7428741,15.1709744 26.7175842,15.1211028 L24.4667798,12.4280339 C24.2644603,12.1786757 23.9609811,12.0290607 23.606922,12.0290607 C23.2528629,12.0290607 22.9493836,12.1786757 22.7470641,12.4280339 L16.7280593,19.6344868 L16.6268995,19.7591659 C16.5510297,19.883845 16.5004498,20.0085241 16.5004498,20.1581391 C16.5004498,20.5571122 16.829219,20.8812779 17.233858,20.8812779 L17.233858,20.8812779 L18.9282837,20.8812779 L19.4846623,20.8812779 L19.611112,20.8812779 L24.4920697,20.8812779 L25.7818565,20.8812779 L26.2117854,20.8812779 L26.3129452,20.8812779 L29.9799859,20.8812779 L32.4078198,20.8812779 L32.5089796,20.8812779 L33.2929676,20.8812779 L34.2286953,20.8812779 C34.5321745,20.8812779 34.7850739,20.6319197 34.7850739,20.3326898 C34.7850739,20.2080107 34.7597839,20.1082674 34.6839141,20.0085241 L34.5827544,19.9337166 L34.5827544,19.9337166 Z" id="Shape" fill="#BCBEC0"></path>
+                                <path d="M33.2676777,8.76246791 C32.2560802,8.76246791 31.4215123,9.58535007 31.4215123,10.582783 C31.4215123,11.5802159 32.2560802,12.4030981 33.2676777,12.4030981 C34.2792751,12.4030981 35.113843,11.5802159 35.113843,10.582783 C35.113843,9.58535007 34.2792751,8.76246791 33.2676777,8.76246791 L33.2676777,8.76246791 Z" id="Shape" fill="#BCBEC0"></path>
+                            </g>
+                            <text id="Location-List-Copy" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="1109" y="2118">Location List</tspan>
+                            </text>
+                            <text id="Add-Location-Name" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="1117" y="2137">Add Location Name</tspan>
+                            </text>
+                            <g id="Group-8" transform="translate(1880.000000, 86.000000)">
+                                <rect id="Border-Copy-2" fill="#D1D1D1" x="0" y="67" width="600" height="53" rx="15"></rect>
+                                <rect id="Page-Copy-2" fill="#FAFAFA" x="0" y="120" width="600" height="706" rx="13.5"></rect>
+                                <rect id="Rectangle-6-Copy-2" fill="#FFFFFF" x="196" y="705" width="343" height="121"></rect>
+                                <rect id="Rectangle-3-Copy" fill="#EAEAEA" x="481" y="711" width="42" height="16" rx="1"></rect>
+                                <text id="EDIT-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="493.347656" y="723">EDIT</tspan>
+                                </text>
+                                <rect id="Rectangle-30-Copy-2" fill="#EEEEEE" x="212" y="742" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-17" fill="#EEEEEE" x="212" y="767" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-20" fill="#EEEEEE" x="307" y="818" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-23" fill="#EEEEEE" x="307" y="742" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-24" fill="#EEEEEE" x="307" y="767" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-25" fill="#EEEEEE" x="307" y="793" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-21" fill="#EEEEEE" x="212" y="793" width="59.2222222" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-22" fill="#EEEEEE" x="212" y="818" width="59.2222222" height="8.20045558"></rect>
+                                <text id="CONTACT-INFORMATIONS" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="212.449219" y="725">CONTACT INFORMATIONS</tspan>
+                                </text>
+                                <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="0" y="120" width="600" height="40"></rect>
+                                <rect id="Rectangle-2-Copy-2" fill-opacity="0.54" fill="#000000" x="99" y="158" width="40" height="2"></rect>
+                                <ellipse id="Oval-Copy-2" fill="#EEEEEE" cx="73" cy="140" rx="13" ry="13"></ellipse>
+                                <g id="Close_tab-Copy-2" transform="translate(24.000000, 85.000000)" fill="#FFFFFF">
+                                    <circle id="Oval-1" cx="8.75" cy="8.75" r="8.75"></circle>
+                                    <circle id="Oval-1-Copy" cx="34.25" cy="8.75" r="8.75"></circle>
+                                    <circle id="Oval-1-Copy-2" cx="60.25" cy="8.75" r="8.75"></circle>
+                                </g>
+                                <text id="Profile-Copy-2" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="103" y="144">Profile</tspan>
+                                </text>
+                                <text id="Connection-Copy-3" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="150" y="144">Connection</tspan>
+                                </text>
+                                <text id="Rates&amp;Contracts-Copy-2" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="220" y="144">Rates&amp;Contracts</tspan>
+                                </text>
+                                <text id="Help-Copy-2" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="316" y="144">Help</tspan>
+                                </text>
+                                <text id="COMPANY-PROFILE-EDIT" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="96.0070801" y="37">COMPANY PROFILE EDIT</tspan>
+                                </text>
+                                <g id="Big-image-Copy-2" transform="translate(197.000000, 204.000000)">
+                                    <rect id="Rectangle-6" fill="#EAEAEA" x="0" y="0" width="342" height="100"></rect>
+                                    <g id="img_picto-copy" opacity="0.5" transform="translate(124.712756, 31.484962)" fill="#BCBEC0">
+                                        <path d="M91.4027933,33.7218045 L68.1528864,17.1052632 C67.386406,16.5789474 66.2366853,16.2030075 64.8314711,16.2030075 C63.5540037,16.2030075 62.2765363,16.5789474 61.5100559,17.1052632 L58.4441341,19.2857143 C58.3163873,19.3609023 58.1886406,19.5112782 58.0608939,19.5864662 C57.2944134,20.037594 56.2724395,20.3383459 55.1227188,20.3383459 C53.9729981,20.3383459 53.0787709,20.112782 52.3122905,19.6616541 C52.056797,19.5112782 51.8013035,19.3609023 51.6735568,19.2105263 L40.3040968,11.0902256 C39.2821229,10.3383459 37.749162,9.88721805 35.9607076,9.88721805 C34.1722533,9.88721805 32.6392924,10.3383459 31.6173184,11.0902256 L1.21359404,32.8195489 L0.702607076,33.1954887 C0.319366853,33.5714286 0.0638733706,33.9473684 0.0638733706,34.3984962 C0.0638733706,35.6015038 1.72458101,36.5789474 3.76852886,36.5789474 L3.76852886,36.5789474 L12.3275605,36.5789474 L15.1379888,36.5789474 L15.7767225,36.5789474 L40.4318436,36.5789474 L46.9469274,36.5789474 L49.118622,36.5789474 L49.6296089,36.5789474 L68.1528864,36.5789474 L80.4165736,36.5789474 L80.9275605,36.5789474 L84.8877095,36.5789474 L89.6143389,36.5789474 C91.1472998,36.5789474 92.4247672,35.8270677 92.4247672,34.924812 C92.4247672,34.5488722 92.2970205,34.2481203 91.9137803,33.9473684 L91.4027933,33.7218045 L91.4027933,33.7218045 Z" id="Shape"></path>
+                                        <path d="M84.7599628,0.037593985 C79.6500931,0.037593985 75.4344507,2.51879699 75.4344507,5.52631579 C75.4344507,8.53383459 79.6500931,11.0150376 84.7599628,11.0150376 C89.8698324,11.0150376 94.0854749,8.53383459 94.0854749,5.52631579 C94.0854749,2.51879699 89.8698324,0.037593985 84.7599628,0.037593985 L84.7599628,0.037593985 Z" id="Shape"></path>
+                                    </g>
+                                </g>
+                                <circle id="Oval-2-Copy" fill="#FFFFFF" cx="369" cy="204" r="25"></circle>
+                                <text id="Company-Logo-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="351.201172" y="202">Company</tspan>
+                                    <tspan x="360.220703" y="213">Logo</tspan>
+                                </text>
+                                <text id="Company-Name-Copy-3" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="299.430176" y="276">Company Name</tspan>
+                                </text>
+                                <text id="BANNER-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="213.160156" y="233">BANNER</tspan>
+                                </text>
+                                <text id="Profile-view-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="213.015625" y="297">Profile view</tspan>
+                                </text>
+                                <text id="Connections-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="479.082031" y="297">Connections</tspan>
+                                </text>
+                                <g id="Rectangle-6-Copy-7">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                                </g>
+                                <rect id="Rectangle-6-Copy-8" fill="#FFFFFF" x="197" y="319" width="343" height="363"></rect>
+                                <text id="Company-Name-Copy-4" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="74" y="202">Company Name</tspan>
+                                </text>
+                                <g id="Group-11" transform="translate(426.000000, 661.000000)">
+                                    <rect id="Rectangle-3-Copy-5" fill="#EAEAEA" x="56" y="0" width="42" height="16" rx="1"></rect>
+                                    <rect id="Rectangle-3-Copy-6" fill="#EAEAEA" x="0" y="0" width="42" height="16" rx="1"></rect>
+                                    <text id="SAVE" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                        <tspan x="67.4355469" y="12">SAVE</tspan>
+                                    </text>
+                                    <text id="CANCLE" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                        <tspan x="5.75195312" y="12">CANCLE</tspan>
+                                    </text>
+                                </g>
+                                <rect id="Rectangle-30-Copy-37" fill="#EEEEEE" x="213" y="356" width="40" height="8"></rect>
+                                <use id="Rectangle-30-Copy-39" stroke="#DDDDDD" mask="url(#mask-17)" fill="#FFFFFF" xlink:href="#path-16"></use>
+                                <use id="Rectangle-30-Copy-44" stroke="#DDDDDD" mask="url(#mask-19)" fill="#FFFFFF" xlink:href="#path-18"></use>
+                                <use id="Rectangle-30-Copy-48" stroke="#DDDDDD" mask="url(#mask-21)" fill="#FFFFFF" xlink:href="#path-20"></use>
+                                <use id="Rectangle-30-Copy-52" stroke="#DDDDDD" mask="url(#mask-23)" fill="#FFFFFF" xlink:href="#path-22"></use>
+                                <use id="Rectangle-30-Copy-56" stroke="#DDDDDD" mask="url(#mask-25)" fill="#FFFFFF" xlink:href="#path-24"></use>
+                                <use id="Rectangle-30-Copy-40" stroke="#DDDDDD" mask="url(#mask-27)" fill="#FFFFFF" xlink:href="#path-26"></use>
+                                <use id="Rectangle-30-Copy-45" stroke="#DDDDDD" mask="url(#mask-29)" fill="#FFFFFF" xlink:href="#path-28"></use>
+                                <use id="Rectangle-30-Copy-49" stroke="#DDDDDD" mask="url(#mask-31)" fill="#FFFFFF" xlink:href="#path-30"></use>
+                                <use id="Rectangle-30-Copy-54" stroke="#DDDDDD" mask="url(#mask-33)" fill="#FFFFFF" xlink:href="#path-32"></use>
+                                <use id="Rectangle-30-Copy-43" stroke="#DDDDDD" mask="url(#mask-35)" fill="#FFFFFF" xlink:href="#path-34"></use>
+                                <use id="Rectangle-30-Copy-46" stroke="#DDDDDD" mask="url(#mask-37)" fill="#FFFFFF" xlink:href="#path-36"></use>
+                                <use id="Rectangle-30-Copy-50" stroke="#DDDDDD" mask="url(#mask-39)" fill="#FFFFFF" xlink:href="#path-38"></use>
+                                <use id="Rectangle-30-Copy-55" stroke="#DDDDDD" mask="url(#mask-41)" fill="#FFFFFF" xlink:href="#path-40"></use>
+                                <use id="Rectangle-30-Copy-41" stroke="#DDDDDD" mask="url(#mask-43)" fill="#FFFFFF" xlink:href="#path-42"></use>
+                                <use id="Rectangle-30-Copy-47" stroke="#DDDDDD" mask="url(#mask-45)" fill="#FFFFFF" xlink:href="#path-44"></use>
+                                <rect id="Rectangle-30-Copy-42" fill="#EEEEEE" x="213" y="434" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-51" fill="#EEEEEE" x="213" y="512" width="40" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-53" fill="#EEEEEE" x="213" y="576" width="30" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-57" fill="#EEEEEE" x="213" y="639" width="60" height="8.20045558"></rect>
+                                <text id="TourConnect-Logo-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="3" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="63.1682129" y="140">TourConnect</tspan>
+                                    <tspan x="69.0202637" y="144">Logo</tspan>
+                                </text>
+                                <polygon id="Fill-10-Copy-2" fill="#A6A8AB" points="535 139 537.657895 141.653061 540.315789 139"></polygon>
+                                <text id="COMPANY-INFORMATIONS-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="213.492188" y="339">COMPANY INFORMATIONS</tspan>
+                                </text>
+                                <path d="M488.318095,141.762857 L488.318095,138.714286 C488.318095,137.011905 487.139524,135.587143 485.547143,135.21 L485.547143,134.832857 C485.547143,134.371905 485.175238,134 484.714286,134 C484.253333,134 483.881429,134.371905 483.881429,134.832857 L483.881429,135.21 C482.289048,135.587143 481.110476,137.011905 481.110476,138.714286 L481.110476,141.762857 L480,142.873333 L480,143.428571 L489.428571,143.428571 L489.428571,142.873333 L488.318095,141.762857 Z M483.671905,143.957619 C483.671905,144.53381 484.138095,145 484.714286,145 C485.290476,145 485.756667,144.53381 485.756667,143.957619 L483.671905,143.957619 Z" id="Fill-14-Copy-2" fill="#EEEEEE"></path>
+                                <mask id="mask-47" fill="white">
+                                    <use xlink:href="#path-46"></use>
+                                </mask>
+                                <use id="Mask-Copy-2" fill="#EEEEEE" xlink:href="#path-46"></use>
+                                <text id="SETTING-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="5" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="506.364502" y="142">SETTING</tspan>
+                                </text>
+                                <text id="Location-List-Copy-2" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="74" y="226">Location List</tspan>
+                                </text>
+                                <text id="Add-Location-Name-Copy" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="82" y="245">Add Location Name</tspan>
+                                </text>
+                            </g>
+                            <rect id="Border-Copy-2" fill="#D1D1D1" x="3515" y="153" width="600" height="53" rx="15"></rect>
+                            <rect id="Page-Copy-2" fill="#FAFAFA" x="3515" y="206" width="600" height="706" rx="13.5"></rect>
+                            <rect id="Rectangle-6-Copy-2" fill="#FFFFFF" x="3711" y="766" width="343" height="121"></rect>
+                            <rect id="Rectangle-30-Copy-2" fill="#EEEEEE" x="3727" y="803" width="60" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-17" fill="#EEEEEE" x="3727" y="828" width="60" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-20" fill="#EEEEEE" x="3822" y="879" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-23" fill="#EEEEEE" x="3822" y="803" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-24" fill="#EEEEEE" x="3822" y="828" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-25" fill="#EEEEEE" x="3822" y="854" width="170" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-21" fill="#EEEEEE" x="3727" y="854" width="59.2222222" height="8.20045558"></rect>
+                            <rect id="Rectangle-30-Copy-22" fill="#EEEEEE" x="3727" y="879" width="59.2222222" height="8.20045558"></rect>
+                            <text id="CONTACT-INFORMATIONS" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="3727.44922" y="786">CONTACT INFORMATIONS</tspan>
+                            </text>
+                            <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="3515" y="206" width="600" height="40"></rect>
+                            <rect id="Rectangle-2-Copy-2" fill-opacity="0.54" fill="#000000" x="3614" y="244" width="40" height="2"></rect>
+                            <ellipse id="Oval-Copy-2" fill="#EEEEEE" cx="3588" cy="226" rx="13" ry="13"></ellipse>
+                            <g id="Close_tab-Copy-2" transform="translate(3539.000000, 171.000000)" fill="#FFFFFF">
+                                <circle id="Oval-1" cx="8.75" cy="8.75" r="8.75"></circle>
+                                <circle id="Oval-1-Copy" cx="34.25" cy="8.75" r="8.75"></circle>
+                                <circle id="Oval-1-Copy-2" cx="60.25" cy="8.75" r="8.75"></circle>
+                            </g>
+                            <text id="Profile-Copy-2" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                <tspan x="3618" y="230">Profile</tspan>
+                            </text>
+                            <text id="Connection-Copy-3" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="3665" y="230">Connection</tspan>
+                            </text>
+                            <text id="Rates&amp;Contracts-Copy-2" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="3735" y="230">Rates&amp;Contracts</tspan>
+                            </text>
+                            <text id="Help-Copy-2" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="3831" y="230">Help</tspan>
+                            </text>
+                            <text id="LOCATION-INFORMATION" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="3598.04443" y="123">LOCATION INFORMATION</tspan>
+                            </text>
+                            <g id="Big-image-Copy-2" transform="translate(3712.000000, 265.000000)">
+                                <rect id="Rectangle-6" fill="#EAEAEA" x="0" y="0" width="342" height="100"></rect>
+                                <g id="img_picto-copy" opacity="0.5" transform="translate(124.712756, 31.484962)" fill="#BCBEC0">
+                                    <path d="M91.4027933,33.7218045 L68.1528864,17.1052632 C67.386406,16.5789474 66.2366853,16.2030075 64.8314711,16.2030075 C63.5540037,16.2030075 62.2765363,16.5789474 61.5100559,17.1052632 L58.4441341,19.2857143 C58.3163873,19.3609023 58.1886406,19.5112782 58.0608939,19.5864662 C57.2944134,20.037594 56.2724395,20.3383459 55.1227188,20.3383459 C53.9729981,20.3383459 53.0787709,20.112782 52.3122905,19.6616541 C52.056797,19.5112782 51.8013035,19.3609023 51.6735568,19.2105263 L40.3040968,11.0902256 C39.2821229,10.3383459 37.749162,9.88721805 35.9607076,9.88721805 C34.1722533,9.88721805 32.6392924,10.3383459 31.6173184,11.0902256 L1.21359404,32.8195489 L0.702607076,33.1954887 C0.319366853,33.5714286 0.0638733706,33.9473684 0.0638733706,34.3984962 C0.0638733706,35.6015038 1.72458101,36.5789474 3.76852886,36.5789474 L3.76852886,36.5789474 L12.3275605,36.5789474 L15.1379888,36.5789474 L15.7767225,36.5789474 L40.4318436,36.5789474 L46.9469274,36.5789474 L49.118622,36.5789474 L49.6296089,36.5789474 L68.1528864,36.5789474 L80.4165736,36.5789474 L80.9275605,36.5789474 L84.8877095,36.5789474 L89.6143389,36.5789474 C91.1472998,36.5789474 92.4247672,35.8270677 92.4247672,34.924812 C92.4247672,34.5488722 92.2970205,34.2481203 91.9137803,33.9473684 L91.4027933,33.7218045 L91.4027933,33.7218045 Z" id="Shape"></path>
+                                    <path d="M84.7599628,0.037593985 C79.6500931,0.037593985 75.4344507,2.51879699 75.4344507,5.52631579 C75.4344507,8.53383459 79.6500931,11.0150376 84.7599628,11.0150376 C89.8698324,11.0150376 94.0854749,8.53383459 94.0854749,5.52631579 C94.0854749,2.51879699 89.8698324,0.037593985 84.7599628,0.037593985 L84.7599628,0.037593985 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                            <text id="Company-Name-Copy-3" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill-opacity="0.87" fill="#000000">
+                                <tspan x="3814.43018" y="337">Company Name</tspan>
+                            </text>
+                            <text id="BANNER-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="3728.16016" y="294">BANNER</tspan>
+                            </text>
+                            <g id="Rectangle-6-Copy-7">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-49)" xlink:href="#path-48"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-48"></use>
+                            </g>
+                            <rect id="Rectangle-6-Copy-8" fill="#FFFFFF" x="3712" y="380" width="343" height="363"></rect>
+                            <text id="Company-Name-Copy-4" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                <tspan x="3589" y="288">Company Name</tspan>
+                            </text>
+                            <rect id="Rectangle-30-Copy-37" fill="#EEEEEE" x="3728" y="417" width="40" height="8"></rect>
+                            <use id="Rectangle-30-Copy-39" stroke="#DDDDDD" mask="url(#mask-51)" fill="#FFFFFF" xlink:href="#path-50"></use>
+                            <use id="Rectangle-30-Copy-44" stroke="#DDDDDD" mask="url(#mask-53)" fill="#FFFFFF" xlink:href="#path-52"></use>
+                            <use id="Rectangle-30-Copy-48" stroke="#DDDDDD" mask="url(#mask-55)" fill="#FFFFFF" xlink:href="#path-54"></use>
+                            <use id="Rectangle-30-Copy-52" stroke="#DDDDDD" mask="url(#mask-57)" fill="#FFFFFF" xlink:href="#path-56"></use>
+                            <use id="Rectangle-30-Copy-56" stroke="#DDDDDD" mask="url(#mask-59)" fill="#FFFFFF" xlink:href="#path-58"></use>
+                            <use id="Rectangle-30-Copy-40" stroke="#DDDDDD" mask="url(#mask-61)" fill="#FFFFFF" xlink:href="#path-60"></use>
+                            <use id="Rectangle-30-Copy-45" stroke="#DDDDDD" mask="url(#mask-63)" fill="#FFFFFF" xlink:href="#path-62"></use>
+                            <use id="Rectangle-30-Copy-49" stroke="#DDDDDD" mask="url(#mask-65)" fill="#FFFFFF" xlink:href="#path-64"></use>
+                            <use id="Rectangle-30-Copy-54" stroke="#DDDDDD" mask="url(#mask-67)" fill="#FFFFFF" xlink:href="#path-66"></use>
+                            <use id="Rectangle-30-Copy-43" stroke="#DDDDDD" mask="url(#mask-69)" fill="#FFFFFF" xlink:href="#path-68"></use>
+                            <use id="Rectangle-30-Copy-46" stroke="#DDDDDD" mask="url(#mask-71)" fill="#FFFFFF" xlink:href="#path-70"></use>
+                            <use id="Rectangle-30-Copy-50" stroke="#DDDDDD" mask="url(#mask-73)" fill="#FFFFFF" xlink:href="#path-72"></use>
+                            <use id="Rectangle-30-Copy-55" stroke="#DDDDDD" mask="url(#mask-75)" fill="#FFFFFF" xlink:href="#path-74"></use>
+                            <use id="Rectangle-30-Copy-41" stroke="#DDDDDD" mask="url(#mask-77)" fill="#FFFFFF" xlink:href="#path-76"></use>
+                            <use id="Rectangle-30-Copy-47" stroke="#DDDDDD" mask="url(#mask-79)" fill="#FFFFFF" xlink:href="#path-78"></use>
+                            <rect id="Rectangle-30-Copy-42" fill="#EEEEEE" x="3728" y="495" width="60" height="8"></rect>
+                            <rect id="Rectangle-30-Copy-51" fill="#EEEEEE" x="3728" y="573" width="40" height="8.20045558"></rect>
+                            <rect id="Rectangle-30-Copy-53" fill="#EEEEEE" x="3728" y="637" width="30" height="8.20045558"></rect>
+                            <rect id="Rectangle-30-Copy-57" fill="#EEEEEE" x="3728" y="700" width="60" height="8.20045558"></rect>
+                            <text id="TourConnect-Logo-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="3" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="3578.16821" y="226">TourConnect</tspan>
+                                <tspan x="3584.02026" y="230">Logo</tspan>
+                            </text>
+                            <text id="COMPANY-INFORMATIONS-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="3728.49219" y="400">COMPANY INFORMATIONS</tspan>
+                            </text>
+                            <text id="Location-List-Copy-2" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="3589" y="312">Location List</tspan>
+                            </text>
+                            <text id="Location-Name" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="3597" y="331">Location Name</tspan>
+                            </text>
+                            <text id="Add-Location" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="3597" y="369">Add Location</tspan>
+                            </text>
+                            <text id="Add-Product-Name" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                <tspan x="3619" y="345">Add Product Name</tspan>
+                            </text>
+                            <path d="M1935.625,307.88162 L1852,307.803495 L1852,30.280997 C1852,13.7162504 1865.43549,0.283835282 1881.99041,0.278863727 L2810.58149,1.38115997e-06 C2827.14474,-0.00497267601 2840.66764,13.4257251 2840.78562,29.983054 L2840.97266,56.2292763" id="Connection" stroke="#C7C7C7" stroke-width="2.25" stroke-linecap="square"></path>
+                            <ellipse id="Dot" stroke="#C7C7C7" stroke-width="2.25" fill="#F9F9F9" cx="1941.19567" cy="307.195513" rx="4.19567456" ry="4.19551282"></ellipse>
+                            <g id="Group-10" transform="translate(2712.000000, 86.000000)">
+                                <rect id="Border-Copy" fill="#D1D1D1" x="0" y="67" width="600" height="53" rx="15"></rect>
+                                <rect id="Page-Copy" fill="#FAFAFA" x="0" y="120" width="600" height="706" rx="13.5"></rect>
+                                <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="120" width="600" height="40"></rect>
+                                <rect id="Rectangle-2-Copy" fill-opacity="0.54" fill="#000000" x="99" y="158" width="40" height="2"></rect>
+                                <ellipse id="Oval-Copy" fill="#EEEEEE" cx="73" cy="140" rx="13" ry="13"></ellipse>
+                                <g id="Close_tab-Copy" transform="translate(24.000000, 85.000000)" fill="#FFFFFF">
+                                    <circle id="Oval-1" cx="8.75" cy="8.75" r="8.75"></circle>
+                                    <circle id="Oval-1-Copy" cx="34.25" cy="8.75" r="8.75"></circle>
+                                    <circle id="Oval-1-Copy-2" cx="60.25" cy="8.75" r="8.75"></circle>
+                                </g>
+                                <text id="Profile-Copy" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="103" y="144">Profile</tspan>
+                                </text>
+                                <text id="Connection-Copy-2" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="150" y="144">Connection</tspan>
+                                </text>
+                                <text id="Rates&amp;Contracts-Copy" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="220" y="144">Rates&amp;Contracts</tspan>
+                                </text>
+                                <text id="Help-Copy" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="316" y="144">Help</tspan>
+                                </text>
+                                <text id="LOCATION-INFORMATION" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="83.0444336" y="37">LOCATION INFORMATION</tspan>
+                                </text>
+                                <g id="Big-image-Copy" transform="translate(197.000000, 204.000000)">
+                                    <rect id="Rectangle-6" fill="#EAEAEA" x="0" y="0" width="342" height="100"></rect>
+                                    <g id="img_picto-copy" opacity="0.5" transform="translate(124.712756, 31.484962)" fill="#BCBEC0">
+                                        <path d="M91.4027933,33.7218045 L68.1528864,17.1052632 C67.386406,16.5789474 66.2366853,16.2030075 64.8314711,16.2030075 C63.5540037,16.2030075 62.2765363,16.5789474 61.5100559,17.1052632 L58.4441341,19.2857143 C58.3163873,19.3609023 58.1886406,19.5112782 58.0608939,19.5864662 C57.2944134,20.037594 56.2724395,20.3383459 55.1227188,20.3383459 C53.9729981,20.3383459 53.0787709,20.112782 52.3122905,19.6616541 C52.056797,19.5112782 51.8013035,19.3609023 51.6735568,19.2105263 L40.3040968,11.0902256 C39.2821229,10.3383459 37.749162,9.88721805 35.9607076,9.88721805 C34.1722533,9.88721805 32.6392924,10.3383459 31.6173184,11.0902256 L1.21359404,32.8195489 L0.702607076,33.1954887 C0.319366853,33.5714286 0.0638733706,33.9473684 0.0638733706,34.3984962 C0.0638733706,35.6015038 1.72458101,36.5789474 3.76852886,36.5789474 L3.76852886,36.5789474 L12.3275605,36.5789474 L15.1379888,36.5789474 L15.7767225,36.5789474 L40.4318436,36.5789474 L46.9469274,36.5789474 L49.118622,36.5789474 L49.6296089,36.5789474 L68.1528864,36.5789474 L80.4165736,36.5789474 L80.9275605,36.5789474 L84.8877095,36.5789474 L89.6143389,36.5789474 C91.1472998,36.5789474 92.4247672,35.8270677 92.4247672,34.924812 C92.4247672,34.5488722 92.2970205,34.2481203 91.9137803,33.9473684 L91.4027933,33.7218045 L91.4027933,33.7218045 Z" id="Shape"></path>
+                                        <path d="M84.7599628,0.037593985 C79.6500931,0.037593985 75.4344507,2.51879699 75.4344507,5.52631579 C75.4344507,8.53383459 79.6500931,11.0150376 84.7599628,11.0150376 C89.8698324,11.0150376 94.0854749,8.53383459 94.0854749,5.52631579 C94.0854749,2.51879699 89.8698324,0.037593985 84.7599628,0.037593985 L84.7599628,0.037593985 Z" id="Shape"></path>
+                                    </g>
+                                </g>
+                                <text id="Company-Name-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" fill-opacity="0.87" fill="#000000">
+                                    <tspan x="299.430176" y="276">Company Name</tspan>
+                                </text>
+                                <text id="BANNER-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="213.160156" y="233">BANNER</tspan>
+                                </text>
+                                <text id="Profile-view-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="213.015625" y="297">Profile view</tspan>
+                                </text>
+                                <text id="Connections-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="479.082031" y="297">Connections</tspan>
+                                </text>
+                                <g id="Rectangle-6-Copy-4">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-81)" xlink:href="#path-80"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-80"></use>
+                                </g>
+                                <rect id="Rectangle-6-Copy-5" fill="#FFFFFF" x="197" y="319" width="343" height="144"></rect>
+                                <rect id="Rectangle-6-Copy-6" fill="#FFFFFF" x="197" y="478" width="343" height="144"></rect>
+                                <text id="Company-Name-Copy-2" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="74" y="202">Company Name</tspan>
+                                </text>
+                                <text id="Location-List-Copy" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="74" y="226">Location List</tspan>
+                                </text>
+                                <text id="Location-Name" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="82" y="245">Location Name</tspan>
+                                </text>
+                                <rect id="Rectangle-3-Copy-3" fill="#EAEAEA" x="482" y="325" width="42" height="16" rx="1"></rect>
+                                <rect id="Rectangle-3-Copy-4" fill="#EAEAEA" x="482" y="484" width="42" height="16" rx="1"></rect>
+                                <text id="EDIT-Copy-3" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="494.347656" y="337">EDIT</tspan>
+                                </text>
+                                <text id="EDIT-Copy-4" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="494.347656" y="496">EDIT</tspan>
+                                </text>
+                                <rect id="Rectangle-30-Copy-3" fill="#EEEEEE" x="213" y="356" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-4" fill="#EEEEEE" x="213" y="515" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-14" fill="#EEEEEE" x="308" y="356" width="210" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-15" fill="#EEEEEE" x="308" y="368" width="210" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-16" fill="#EEEEEE" x="308" y="381" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-18" fill="#EEEEEE" x="213" y="406" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-19" fill="#EEEEEE" x="213" y="540" width="60" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-26" fill="#EEEEEE" x="308" y="406" width="70" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-27" fill="#EEEEEE" x="308" y="419" width="100" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-28" fill="#EEEEEE" x="308" y="432" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-29" fill="#EEEEEE" x="308" y="591" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-30" fill="#EEEEEE" x="308" y="515" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-31" fill="#EEEEEE" x="308" y="540" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-32" fill="#EEEEEE" x="308" y="566" width="170" height="8"></rect>
+                                <rect id="Rectangle-30-Copy-33" fill="#EEEEEE" x="213" y="419" width="59.2222222" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-34" fill="#EEEEEE" x="213" y="566" width="59.2222222" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-35" fill="#EEEEEE" x="213" y="432" width="59.2222222" height="8.20045558"></rect>
+                                <rect id="Rectangle-30-Copy-36" fill="#EEEEEE" x="213" y="591" width="59.2222222" height="8.20045558"></rect>
+                                <text id="TourConnect-Logo-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="3" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="63.1682129" y="140">TourConnect</tspan>
+                                    <tspan x="69.0202637" y="144">Logo</tspan>
+                                </text>
+                                <polygon id="Fill-10-Copy" fill="#A6A8AB" points="535 139 537.657895 141.653061 540.315789 139"></polygon>
+                                <text id="COMPANY-INFORMATIONS-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="213.492188" y="339">COMPANY INFORMATIONS</tspan>
+                                </text>
+                                <text id="CONTACT-INFORMATIONS-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="213.449219" y="498">CONTACT INFORMATIONS</tspan>
+                                </text>
+                                <g id="Group-2-Copy" transform="translate(197.000000, 637.000000)">
+                                    <rect id="Rectangle-6-Copy-3" fill="#FFFFFF" x="0" y="0" width="343" height="90"></rect>
+                                    <rect id="Rectangle-3-Copy-2" fill="#EAEAEA" x="285" y="6" width="42" height="16" rx="1"></rect>
+                                    <text id="EDIT-Copy-2" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                        <tspan x="297.347656" y="18">EDIT</tspan>
+                                    </text>
+                                    <text id="CONTACT-INFORMATIONS-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                        <tspan x="16.4492188" y="20">CONTACT INFORMATIONS</tspan>
+                                    </text>
+                                </g>
+                                <path d="M488.318095,141.762857 L488.318095,138.714286 C488.318095,137.011905 487.139524,135.587143 485.547143,135.21 L485.547143,134.832857 C485.547143,134.371905 485.175238,134 484.714286,134 C484.253333,134 483.881429,134.371905 483.881429,134.832857 L483.881429,135.21 C482.289048,135.587143 481.110476,137.011905 481.110476,138.714286 L481.110476,141.762857 L480,142.873333 L480,143.428571 L489.428571,143.428571 L489.428571,142.873333 L488.318095,141.762857 Z M483.671905,143.957619 C483.671905,144.53381 484.138095,145 484.714286,145 C485.290476,145 485.756667,144.53381 485.756667,143.957619 L483.671905,143.957619 Z" id="Fill-14-Copy" fill="#EEEEEE"></path>
+                                <mask id="mask-83" fill="white">
+                                    <use xlink:href="#path-82"></use>
+                                </mask>
+                                <use id="Mask-Copy" fill="#EEEEEE" xlink:href="#path-82"></use>
+                                <text id="SETTING-Copy" font-family="OpenSans-Semibold, Open Sans" font-size="5" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="506.364502" y="142">SETTING</tspan>
+                                </text>
+                                <g id="img_picto-copy-4" opacity="0.5" transform="translate(213.000000, 675.000000)">
+                                    <rect id="Rectangle-6" fill="#EEEEEE" x="0" y="0" width="51.9548611" height="29.7527123"></rect>
+                                    <path d="M34.5827544,19.9337166 L29.9799859,14.4228997 C29.8282463,14.248349 29.6006369,14.1236699 29.3224476,14.1236699 C29.0695482,14.1236699 28.8166489,14.248349 28.6649093,14.4228997 L28.0579508,15.1460386 C28.0326608,15.1709744 28.0073709,15.2208461 27.982081,15.2457819 C27.8303414,15.3953968 27.6280219,15.4951401 27.4004124,15.4951401 C27.172803,15.4951401 26.9957735,15.4203327 26.8440338,15.2707177 C26.793454,15.2208461 26.7428741,15.1709744 26.7175842,15.1211028 L24.4667798,12.4280339 C24.2644603,12.1786757 23.9609811,12.0290607 23.606922,12.0290607 C23.2528629,12.0290607 22.9493836,12.1786757 22.7470641,12.4280339 L16.7280593,19.6344868 L16.6268995,19.7591659 C16.5510297,19.883845 16.5004498,20.0085241 16.5004498,20.1581391 C16.5004498,20.5571122 16.829219,20.8812779 17.233858,20.8812779 L17.233858,20.8812779 L18.9282837,20.8812779 L19.4846623,20.8812779 L19.611112,20.8812779 L24.4920697,20.8812779 L25.7818565,20.8812779 L26.2117854,20.8812779 L26.3129452,20.8812779 L29.9799859,20.8812779 L32.4078198,20.8812779 L32.5089796,20.8812779 L33.2929676,20.8812779 L34.2286953,20.8812779 C34.5321745,20.8812779 34.7850739,20.6319197 34.7850739,20.3326898 C34.7850739,20.2080107 34.7597839,20.1082674 34.6839141,20.0085241 L34.5827544,19.9337166 L34.5827544,19.9337166 Z" id="Shape" fill="#BCBEC0"></path>
+                                    <path d="M33.2676777,8.76246791 C32.2560802,8.76246791 31.4215123,9.58535007 31.4215123,10.582783 C31.4215123,11.5802159 32.2560802,12.4030981 33.2676777,12.4030981 C34.2792751,12.4030981 35.113843,11.5802159 35.113843,10.582783 C35.113843,9.58535007 34.2792751,8.76246791 33.2676777,8.76246791 L33.2676777,8.76246791 Z" id="Shape" fill="#BCBEC0"></path>
+                                </g>
+                                <g id="img_picto-copy-5" opacity="0.5" transform="translate(275.000000, 675.000000)">
+                                    <rect id="Rectangle-6" fill="#EEEEEE" x="0" y="0" width="51.9548611" height="29.7527123"></rect>
+                                    <path d="M34.5827544,19.9337166 L29.9799859,14.4228997 C29.8282463,14.248349 29.6006369,14.1236699 29.3224476,14.1236699 C29.0695482,14.1236699 28.8166489,14.248349 28.6649093,14.4228997 L28.0579508,15.1460386 C28.0326608,15.1709744 28.0073709,15.2208461 27.982081,15.2457819 C27.8303414,15.3953968 27.6280219,15.4951401 27.4004124,15.4951401 C27.172803,15.4951401 26.9957735,15.4203327 26.8440338,15.2707177 C26.793454,15.2208461 26.7428741,15.1709744 26.7175842,15.1211028 L24.4667798,12.4280339 C24.2644603,12.1786757 23.9609811,12.0290607 23.606922,12.0290607 C23.2528629,12.0290607 22.9493836,12.1786757 22.7470641,12.4280339 L16.7280593,19.6344868 L16.6268995,19.7591659 C16.5510297,19.883845 16.5004498,20.0085241 16.5004498,20.1581391 C16.5004498,20.5571122 16.829219,20.8812779 17.233858,20.8812779 L17.233858,20.8812779 L18.9282837,20.8812779 L19.4846623,20.8812779 L19.611112,20.8812779 L24.4920697,20.8812779 L25.7818565,20.8812779 L26.2117854,20.8812779 L26.3129452,20.8812779 L29.9799859,20.8812779 L32.4078198,20.8812779 L32.5089796,20.8812779 L33.2929676,20.8812779 L34.2286953,20.8812779 C34.5321745,20.8812779 34.7850739,20.6319197 34.7850739,20.3326898 C34.7850739,20.2080107 34.7597839,20.1082674 34.6839141,20.0085241 L34.5827544,19.9337166 L34.5827544,19.9337166 Z" id="Shape" fill="#BCBEC0"></path>
+                                    <path d="M33.2676777,8.76246791 C32.2560802,8.76246791 31.4215123,9.58535007 31.4215123,10.582783 C31.4215123,11.5802159 32.2560802,12.4030981 33.2676777,12.4030981 C34.2792751,12.4030981 35.113843,11.5802159 35.113843,10.582783 C35.113843,9.58535007 34.2792751,8.76246791 33.2676777,8.76246791 L33.2676777,8.76246791 Z" id="Shape" fill="#BCBEC0"></path>
+                                </g>
+                                <g id="img_picto-copy-6" opacity="0.5" transform="translate(337.000000, 675.000000)">
+                                    <rect id="Rectangle-6" fill="#EEEEEE" x="0" y="0" width="51.9548611" height="29.7527123"></rect>
+                                    <path d="M34.5827544,19.9337166 L29.9799859,14.4228997 C29.8282463,14.248349 29.6006369,14.1236699 29.3224476,14.1236699 C29.0695482,14.1236699 28.8166489,14.248349 28.6649093,14.4228997 L28.0579508,15.1460386 C28.0326608,15.1709744 28.0073709,15.2208461 27.982081,15.2457819 C27.8303414,15.3953968 27.6280219,15.4951401 27.4004124,15.4951401 C27.172803,15.4951401 26.9957735,15.4203327 26.8440338,15.2707177 C26.793454,15.2208461 26.7428741,15.1709744 26.7175842,15.1211028 L24.4667798,12.4280339 C24.2644603,12.1786757 23.9609811,12.0290607 23.606922,12.0290607 C23.2528629,12.0290607 22.9493836,12.1786757 22.7470641,12.4280339 L16.7280593,19.6344868 L16.6268995,19.7591659 C16.5510297,19.883845 16.5004498,20.0085241 16.5004498,20.1581391 C16.5004498,20.5571122 16.829219,20.8812779 17.233858,20.8812779 L17.233858,20.8812779 L18.9282837,20.8812779 L19.4846623,20.8812779 L19.611112,20.8812779 L24.4920697,20.8812779 L25.7818565,20.8812779 L26.2117854,20.8812779 L26.3129452,20.8812779 L29.9799859,20.8812779 L32.4078198,20.8812779 L32.5089796,20.8812779 L33.2929676,20.8812779 L34.2286953,20.8812779 C34.5321745,20.8812779 34.7850739,20.6319197 34.7850739,20.3326898 C34.7850739,20.2080107 34.7597839,20.1082674 34.6839141,20.0085241 L34.5827544,19.9337166 L34.5827544,19.9337166 Z" id="Shape" fill="#BCBEC0"></path>
+                                    <path d="M33.2676777,8.76246791 C32.2560802,8.76246791 31.4215123,9.58535007 31.4215123,10.582783 C31.4215123,11.5802159 32.2560802,12.4030981 33.2676777,12.4030981 C34.2792751,12.4030981 35.113843,11.5802159 35.113843,10.582783 C35.113843,9.58535007 34.2792751,8.76246791 33.2676777,8.76246791 L33.2676777,8.76246791 Z" id="Shape" fill="#BCBEC0"></path>
+                                </g>
+                            </g>
+                            <path d="M2407,422.930255 L2563.3275,422.000902 C2590.93845,421.836758 2613.30093,444.088506 2613.27549,471.70612 L2612.81335,973.330171 C2612.78791,1000.94575 2590.39139,1023.3326 2562.77327,1023.3326 L2543.40625,1023.3326" id="Connection-Copy" stroke="#F2454F" stroke-width="3" stroke-linecap="square"></path>
+                            <rect id="Page-Copy" fill-opacity="0.12" fill="#000000" x="2712" y="206" width="600" height="706" rx="13.5"></rect>
+                            <rect id="Rectangle-5" fill="#FFFFFF" x="2791" y="394" width="460" height="268" rx="1"></rect>
+                            <rect id="Rectangle-8" fill="#D8D8D8" x="2897" y="455" width="240" height="8" rx="1"></rect>
+                            <use id="Rectangle-8-Copy-2" stroke="#EEEEEE" mask="url(#mask-85)" stroke-width="2" xlink:href="#path-84"></use>
+                            <rect id="Rectangle-8-Copy" fill="#D8D8D8" x="2897" y="468" width="160" height="8" rx="1"></rect>
+                            <g id="Dot-to-arrow-Copy" transform="translate(3342.000000, 603.000000) rotate(-360.000000) translate(-3342.000000, -603.000000) translate(3221.000000, 598.000000)">
+                                <path d="M8.35562108,5 L233.50927,5" id="Connection" stroke="#C7C7C7" stroke-width="2.25" stroke-linecap="square"></path>
+                                <ellipse id="Dot" stroke="#C7C7C7" stroke-width="2.25" fill="#F9F9F9" cx="4.20869565" cy="5" rx="4.20869565" ry="4.375"></ellipse>
+                                <path d="M233.05818,9.56945067 C232.766714,9.72094201 232.530435,9.58463278 232.530435,9.23775349 L232.530435,0.762246512 C232.530435,0.42756388 232.7608,0.27598381 233.05818,0.430549327 L241.321944,4.72570067 C241.61341,4.87719201 241.619325,5.11973381 241.321944,5.27429933 L233.05818,9.56945067 Z" id="Triangle-1" fill="#C7C7C7"></path>
+                            </g>
+                            <rect id="Rectangle-8-Copy-3" fill="#D8D8D8" x="3045" y="595" width="40" height="8" rx="1"></rect>
+                            <rect id="Rectangle-8-Copy-4" fill="#D8D8D8" x="3097" y="595" width="40" height="8" rx="1"></rect>
+                            <text id="CREATE-LOCATION-NAME" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#000000">
+                                <tspan x="2939" y="439">CREATE LOCATION NAME</tspan>
+                            </text>
+                            <path d="M2511.78934,1038.10533 C2510.80112,1038.59944 2510,1038.10566 2510,1037.00179 L2510,1009.99821 C2510,1008.89463 2510.79745,1008.39872 2511.78934,1008.89467 L2539.21066,1022.60533 C2540.19888,1023.09944 2540.20255,1023.89872 2539.21066,1024.39467 L2511.78934,1038.10533 Z" id="Triangle-1-Copy" fill="#F2454F" transform="translate(2525.500000, 1023.500000) scale(-1, 1) translate(-2525.500000, -1023.500000) "></path>
+                            <circle id="Dot-Copy" stroke="#F2454F" stroke-width="3" fill="#F9F9F9" transform="translate(2404.500000, 422.500000) scale(-1, 1) translate(-2404.500000, -422.500000) " cx="2404.5" cy="422.5" r="12.5"></circle>
+                            <g id="Dot-to-arrow" transform="translate(1002.000000, 329.000000) rotate(-180.000000) translate(-1002.000000, -329.000000) translate(881.000000, 324.000000)">
+                                <path d="M8.35562108,5 L233.50927,5" id="Connection" stroke="#C7C7C7" stroke-width="2.25" stroke-linecap="square"></path>
+                                <ellipse id="Dot" stroke="#C7C7C7" stroke-width="2.25" fill="#F9F9F9" cx="4.20869565" cy="5" rx="4.20869565" ry="4.375"></ellipse>
+                                <path d="M233.05818,9.56945067 C232.766714,9.72094201 232.530435,9.58463278 232.530435,9.23775349 L232.530435,0.762246512 C232.530435,0.42756388 232.7608,0.27598381 233.05818,0.430549327 L241.321944,4.72570067 C241.61341,4.87719201 241.619325,5.11973381 241.321944,5.27429933 L233.05818,9.56945067 Z" id="Triangle-1" fill="#C7C7C7"></path>
+                            </g>
+                            <g id="Group-5" transform="translate(1953.000000, 993.000000)">
+                                <text id="EDIT-INFORMATION" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                    <tspan x="84" y="43">EDIT INFORMATION</tspan>
+                                </text>
+                                <ellipse id="Dot-Copy-4" fill="#F2454F" transform="translate(30.000000, 30.000000) scale(-1, 1) translate(-30.000000, -30.000000) " cx="30" cy="30" rx="30" ry="30"></ellipse>
+                                <text id="5" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="19.0109863" y="44">5</tspan>
+                                </text>
+                                <text id="Used-new-edit-form-t" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill-opacity="0.3" fill="#000000">
+                                    <tspan x="0" y="108">Used new edit form to enter the information </tspan>
+                                    <tspan x="0" y="141">can reduce the fill out time. If user don’t fill out </tspan>
+                                    <tspan x="0" y="174">the require information, they can not save.</tspan>
+                                </text>
+                            </g>
+                            <text id="*NOTIFICATION" font-family="OpenSans-Semibold, Open Sans" font-size="35" font-weight="500" fill="#F2454F">
+                                <tspan x="1057" y="1036">*NOTIFICATION</tspan>
+                            </text>
+                            <text id="We-will-use-the-bubb" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill="#F2454F">
+                                <tspan x="1057" y="1101">We will use the bubble box to guide user to </tspan>
+                                <tspan x="1057" y="1134">complete information that we need.</tspan>
+                                <tspan x="1057" y="1167"></tspan>
+                                <tspan x="1057" y="1200">If user not complete profile after create </tspan>
+                                <tspan x="1057" y="1233">account more than one week, we will send a </tspan>
+                                <tspan x="1057" y="1266">remind email to them. </tspan>
+                            </text>
+                            <text id="We-allow-user-previe" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill="#F2454F">
+                                <tspan x="1057" y="1405">We allow user preview them profile, so they can </tspan>
+                                <tspan x="1057" y="1438">view profile how is look like as partner </tspan>
+                                <tspan x="1057" y="1471">prespetive.</tspan>
+                            </text>
+                            <text id="Background-image-&amp;-C" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill="#F2454F">
+                                <tspan x="1057" y="1562">Background image &amp; Company logo</tspan>
+                            </text>
+                            <text id="Show-How-many-produc" font-family="OpenSans-Semibold, Open Sans" font-size="24" font-weight="500" fill="#F2454F">
+                                <tspan x="1057" y="1653">Show How many products they have &amp; How </tspan>
+                                <tspan x="1057" y="1686">many user view they have</tspan>
+                            </text>
+                            <g id="Dot-to-arrow-Copy" transform="translate(1710.000000, 421.000000) rotate(-360.000000) translate(-1710.000000, -421.000000) translate(1589.000000, 416.000000)">
+                                <path d="M8.35562108,5 L233.50927,5" id="Connection" stroke="#C7C7C7" stroke-width="2.25" stroke-linecap="square"></path>
+                                <ellipse id="Dot" stroke="#C7C7C7" stroke-width="2.25" fill="#F9F9F9" cx="4.20869565" cy="5" rx="4.20869565" ry="4.375"></ellipse>
+                                <path d="M233.05818,9.56945067 C232.766714,9.72094201 232.530435,9.58463278 232.530435,9.23775349 L232.530435,0.762246512 C232.530435,0.42756388 232.7608,0.27598381 233.05818,0.430549327 L241.321944,4.72570067 C241.61341,4.87719201 241.619325,5.11973381 241.321944,5.27429933 L233.05818,9.56945067 Z" id="Triangle-1" fill="#C7C7C7"></path>
+                            </g>
+                            <circle id="Oval-4" stroke="#454AF2" stroke-width="2" fill="#FFFFFF" cx="1528" cy="380" r="4"></circle>
+                            <circle id="Oval-4-Copy-2" stroke="#F2454F" stroke-width="2" fill="#FFFFFF" cx="1504" cy="272" r="4"></circle>
+                            <circle id="Oval-4-Copy-3" stroke="#1C9F2B" stroke-width="2" fill="#FFFFFF" cx="1397" cy="286" r="4"></circle>
+                            <circle id="Oval-4-Copy-4" stroke="#1B9F2B" stroke-width="2" fill="#FFFFFF" cx="1270" cy="303" r="4"></circle>
+                            <circle id="Oval-4-Copy" stroke="#454AF2" stroke-width="2" fill="#FFFFFF" cx="1262" cy="380" r="4"></circle>
+                            <use id="Rectangle-4" stroke="#979797" mask="url(#mask-87)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-86"></use>
+                            <text id="PREVIEW-PROFILE" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" fill-opacity="0.54" fill="#000000">
+                                <tspan x="1521.07031" y="277">PREVIEW PROFILE</tspan>
+                            </text>
+                            <circle id="Oval-4-Copy-2" stroke="#F2454F" stroke-width="2" fill="#FFFFFF" cx="1061" cy="1355" r="4"></circle>
+                            <circle id="Oval-4-Copy-4" stroke="#1B9F2B" stroke-width="2" fill="#FFFFFF" cx="1061" cy="1512" r="4"></circle>
+                            <circle id="Oval-4-Copy" stroke="#454AF2" stroke-width="2" fill="#FFFFFF" cx="1061" cy="1603" r="4"></circle>
+                            <path d="M2836.65201,65.075307 C2836.36055,65.2267983 2836.12427,65.0904891 2836.12427,64.7436098 L2836.12427,56.2681028 C2836.12427,55.9334202 2836.35463,55.7818401 2836.65201,55.9364056 L2844.91578,60.231557 C2845.20724,60.3830483 2845.21316,60.6255901 2844.91578,60.7801556 L2836.65201,65.075307 Z" id="Triangle-1" fill="#C7C7C7" transform="translate(2840.630435, 60.506166) rotate(-270.000000) translate(-2840.630435, -60.506166) "></path>
+                            <text id="SAVE" font-family="OpenSans-Semibold, Open Sans" font-size="6" font-weight="500" fill="#000000">
+                                <tspan x="3110" y="601">SAVE</tspan>
+                            </text>
+                            <text id="CANCLE" font-family="OpenSans-Semibold, Open Sans" font-size="6" font-weight="500" fill="#000000">
+                                <tspan x="3054" y="601">CANCLE</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
