@@ -286,6 +286,11 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	background: rgb(0,173,238);
 }
 
+
+.cb_att .btn_down_el:before, .cb_att .btn_down_el:after{
+	background: rgba(240,123,13,.97);
+}
+
 .btn_down_el:after{
   -webkit-transform: rotate(45deg);
   -webkit-transform-origin: 0 100%;
@@ -1171,6 +1176,10 @@ keyframes shrink{
 	background: rgba(37,141,232,.97);
 }
 
+.cb_att .part_0:before{
+	background: rgba(240,123,13,.9);
+}
+
 .cb_fans .part_0:before{
 	background: rgba(255,184,35,.97);
 }
@@ -1179,7 +1188,6 @@ keyframes shrink{
     background: url(../img/tourconnect_bg.svg) no-repeat;
     background-size: 75%;
     background-position: center;
-    /*background-color:rgba(2,173,231,0.5);*/
 }
 
 /*HCI*/
@@ -1187,8 +1195,14 @@ keyframes shrink{
     background: url(../img/hci_b.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    /*background-color:rgba(2,173,231,0.5);*/
 }
+.cb_att .part_0{
+	background: url(../img/bc2.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
 .cb_seeword .part_1{
 	background: #fff;
 }
