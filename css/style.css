@@ -30,7 +30,3 @@ canvas{
   height: 100%;
 }
 
-#firstbackgroundimage{
-  width: 45%;
-  background: url(../img/1.png) 50% 50%  no-repeat;
-}
