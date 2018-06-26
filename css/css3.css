@@ -65,7 +65,7 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 }
 
 .logo_img{
-	background: url(../img/logo.png) 0% 50% no-repeat;
+	background: url(../img/l-bg.png) 0% 50% no-repeat;
 	display: block;
     height: 97px;
     width: 80px;
@@ -446,7 +446,7 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
     background-size: 70%;
 }
 
-.seeword_logo_img{
+.hd_logo_img{
 	background: url(../img/l-bg.png) 50% 50% no-repeat;
 	background-size: 55%;
 }
