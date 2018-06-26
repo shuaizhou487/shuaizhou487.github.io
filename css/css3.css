@@ -481,10 +481,10 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 
 .sub_th_1{
 	position: absolute;
-	z-index: 0;
 	height: 100%;
 	width: 100%;
 	top: 0;
+	z-index: 1;
 }
 
 .sub_th_sb{
