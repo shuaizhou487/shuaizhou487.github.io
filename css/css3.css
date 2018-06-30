@@ -130,7 +130,7 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 	list-style-type: none;
 	display: inline-block;
 	text-align: center;
-	padding: 41px 0 36px 40px;
+	padding: 20px 0 20px 20px;
 	color: #666;
 	line-height: 20px;
     font-size: .75rem;
@@ -424,7 +424,7 @@ body{font-size: 16px; overflow-y: scroll;background: #fff;height: 100%; font-fam
 
 .header-box{
 	width: 100%;
-	max-width: 960px;
+	max-width: 1120px;
 	height: 97px;
 	position: relative;
 	margin: 0 auto;
@@ -1041,10 +1041,13 @@ keyframes shrink{
 .hidden{display: none;}
 .BD{margin: 0;width: 100%;}
 .container{
-  background: #fafafa;
+  width: 100%;
+  max-width: 1120px;
+  margin: auto;
   position: relative;
   z-index: 99;
   overflow: hidden;
+  padding-top: 6%;
 }
 
 .container_piece{
@@ -1052,6 +1055,7 @@ keyframes shrink{
 	position: relative;
 	display: inline-block;
 	float: left;
+	padding: 10px;
 }
 
 .works_category_tiles{
@@ -1064,16 +1068,23 @@ keyframes shrink{
 }
 
 .heading2{
-	font-size: 1.875rem;
+	font-size: 1.25rem;
 	text-align: center;
-	padding-top: 180px;
-	color: rgba(255,255,255,.8);
+	font-weight: 400;
+	color: #666;
+}
+
+.heading7{
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 25px;
 }
 
 .works_category_tiles_item_cover{
 	height: 100%;
     display: block;
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     right: 0;
@@ -1082,23 +1093,24 @@ keyframes shrink{
 }
 
 .works_category_tiles_item_cover_img{
+	background-color: #eee !important;
 	display: block;
 	height: 100%;
-	opacity: 0;
+	opacity: 1;
 	background-size: cover;
 	background-position: center;
-	 -webkit-transition:all 1s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	-moz-transition:all 1s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	-o-transition:all 1s cubic-bezier(0.190, 1.000, 0.220, 1.000);
-	transition:all 1s cubic-bezier(0.190, 1.000, 0.220, 1.000);
+	 -webkit-transition:all 1s cubic-bezier(0.190, 0.75, 0.220, 0.75);
+	-moz-transition:all 1s cubic-bezier(0.190, 0.75, 0.220, 0.75);
+	-o-transition:all 1s cubic-bezier(0.190, 0.75, 0.220, 0.75);
+	transition:all 1s cubic-bezier(0.190, 0.75, 0.220, 0.75);
 }
 
 .works_category_tiles_item_cover_img:hover{
+	background-color: #999 !important;
 	-webkit-transform: scale(1.05);
 	-ms-transform: scale(1.05);
 	-o-transform: scale(1.05);
 	transform: scale(1.05);
-	opacity: .17;
 }
 
 .portfolio_content_right .inner{
@@ -1180,7 +1192,7 @@ keyframes shrink{
 
 .cb_att .part_0:before{
 	background: rgba(240,123,13,.9);
-}
+} 
 
 .cb_fans .part_0:before{
 	background: rgba(255,184,35,.97);
@@ -2061,7 +2073,7 @@ keyframes shrink{
 }
 
 
-@media screen and (min-width: 480px) and (max-width: 767px){
+@media screen and (min-width: 760px) and (max-width: 860px){
 	.BD{
 		width:100%;
 	}
@@ -2118,6 +2130,7 @@ keyframes shrink{
     .intro_infor{width: 100%;}
     .header-box{
     	width: 100%;
+    	max-width: 400px;
     }
     .menu{
     	right: 0px;
@@ -2127,6 +2140,10 @@ keyframes shrink{
     #ani{
     	height: 100%;
     	width: auto;
+    }
+
+    .container_piece{
+    	width: 100%;
     }
 
 	.p1{
@@ -2150,14 +2167,12 @@ keyframes shrink{
     .menu{
         display: none;
 		right: 0;
-		margin-top: 97px;
 		width: 100%;
 		text-align: center;
 	}
 	.menu li{
 		display: block;
 		width: 100%;
-		background: #ccc;
 		height: 70px;
 		line-height: 70px;
 		padding: 0;
@@ -2165,9 +2180,7 @@ keyframes shrink{
 	.menu li a{
 		display: block;
 	}
-	.top-img{
-		left: 0.9375rem;
-	}
+
 	.intro_infor_left{
 		float: left;
 		width: 100%;
