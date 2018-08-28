@@ -1068,10 +1068,10 @@ keyframes shrink{
 }
 
 .heading2{
-	font-size: 1.25rem;
+	font-size: 1.15rem;
 	text-align: center;
-	font-weight: 400;
-	color: #666;
+	font-weight: 600;
+	color: #333;
 }
 
 .heading7{
@@ -1093,7 +1093,7 @@ keyframes shrink{
 }
 
 .works_category_tiles_item_cover_img{
-	background-color: #eee !important;
+	background-color: #fdfdfd !important;
 	display: block;
 	height: 100%;
 	opacity: 1;
@@ -1106,7 +1106,7 @@ keyframes shrink{
 }
 
 .works_category_tiles_item_cover_img:hover{
-	background-color: #999 !important;
+	background-color: #f3f3f3 !important;
 	-webkit-transform: scale(1.05);
 	-ms-transform: scale(1.05);
 	-o-transform: scale(1.05);
@@ -1728,17 +1728,31 @@ keyframes shrink{
 	line-height: 2
 }
 
-.sh_context_right_title{
+.tc_context_right_title{
 	text-align: center;
-	padding: 5rem 0 1rem 0;
-	background: #eebb4c;
+	padding: 7rem 0 1rem 0;
+	background: rgb(0, 188, 212);
 	color: #fff;
 }
 
-.tc_context_right_title{
+.swr_context_right_title{
 	text-align: center;
-	padding: 5rem 0 1rem 0;
-	background: rgb(0, 188, 212);
+	padding: 7rem 0 1rem 0;
+	background: rgb(123, 196, 204);
+	color: #fff;
+}
+
+.att_context_right_title{
+	text-align: center;
+	padding: 7rem 0 1rem 0;
+	background: #0568ae;
+	color: #fff;
+}
+
+.hci_context_right_title{
+	text-align: center;
+	padding: 7rem 0 1rem 0;
+	background: #258DE8;
 	color: #fff;
 }
 
@@ -1754,16 +1768,29 @@ keyframes shrink{
 	background: none;
 }
 
-.sh_context_title_1{
-	background: url(../img/f1.png) 50% 50% no-repeat #eebb4c;
-	background-size:50%;
-	min-height: 400px;
-}
 
 .tc_context_title_1{
-	background: url(../img/tourconnect_banner.svg) 50% 50% no-repeat rgb(0, 188, 212);
-	background-size:25%;
-	min-height: 300px;
+	background: url(../img/tourconnect_logo.svg) 50% 50% no-repeat;
+	background-size:4%;
+	min-height: 100px;
+}
+
+.swr_context_title_1{
+	background: url(../img/seeword_logo.png) 50% 50% no-repeat;
+	background-size:5%;
+	min-height: 100px;
+}
+
+.att_context_title_1{
+	background: url(../img/att_logo.png) 50% 50% no-repeat;
+	background-size:10%;
+	min-height: 100px;
+}
+
+.hci_context_title_1{
+	background: url(../img/HCI_logo.png) 50% 100% no-repeat;
+	background-size:6%;
+	min-height: 100px;
 }
 
 .context_title_box{
@@ -1799,8 +1826,16 @@ keyframes shrink{
 }
 
 .context_p h1{
-	font-size: 1rem;
+	font-size: 1.25rem;
 	color: rgb(0, 188, 212);
+}
+
+.att_context_p_box h1{
+	color: #0568ae;
+}
+
+.hci_context_p_box h1{
+	color:#258DE8;
 }
 
 .context_p h3{
@@ -1817,7 +1852,7 @@ keyframes shrink{
     margin: 0 auto;
 }
 
-.sh_context_p_box,.tc_context_p_box{
+.sh_context_p_box,.tc_context_p_box,.att_context_p_box,.hci_context_p_box{
 	width: 65%;
 	max-width: 940px;
 	padding: 2% 0 0 0;
@@ -1827,8 +1862,8 @@ keyframes shrink{
 	display: block;
 	text-align: left;
 	margin: 2% 0 0 0;
-	font-weight:400;
-	color: #999;
+	font-weight:600;
+	color: #333;
 }
 
 .sh_img_1{
@@ -1888,7 +1923,7 @@ keyframes shrink{
 	color: #666;
 }
 
-.tc_img{
+.tc_img, .swr_img{
 	min-height: 250px;
 	margin-bottom: 5%;
 }
@@ -1901,7 +1936,7 @@ keyframes shrink{
 .tc_img_2{
 	background: url(../img/tourconnect_ui2.png) 50% 50% no-repeat;
 		background-size: 100%;
-		min-height: 350px;
+		min-height: 450px;
 }
 
 .tc_img_3{
@@ -1925,7 +1960,7 @@ keyframes shrink{
 .tc_img_6{
 	background: url(../img/tourconnect_rs.png) 50% 50% no-repeat;
 	background-size: 80%;
-	min-height: 250px;
+	min-height: 360px;
 }
 
 
@@ -1952,6 +1987,79 @@ keyframes shrink{
 	background-size: 100%;
 	min-height: 620px;
 }
+
+.tc_img_11{
+	background: url(../img/tourconnect_rs2.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 460px;
+}
+
+.tc_img_12{
+	background: url(../img/tourconnect_rs3.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 460px;
+}
+
+.tc_img_13{
+	background: url(../img/tourconnect_rs4.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 360px;
+}
+
+.swr_img_1{
+	background: url(../img/seeword1.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 540px;
+}
+
+.swr_img_2{
+	background: url(../img/seeword2.2.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 460px;
+}
+
+.swr_img_3{
+	background: url(../img/seeword5.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 360px;
+}
+
+.swr_img_4{
+	background: url(../img/seeword9.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 300px;
+}
+
+.swr_img_5{
+	background: url(../img/seeword6.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 360px;
+}
+
+.swr_img_6{
+	background: url(../img/seeword8.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 1500px;
+}
+
+.swr_img_7{
+	background: url(../img/seeword10.png) 50% 50% no-repeat;
+	background-size: 55%;
+	min-height: 360px;
+}
+
+.swr_img_8{
+	background: url(../img/seeword8.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 1500px;
+}
+
+.swr_img_9{
+	background: url(../img/seeword11.png) 50% 50% no-repeat;
+	background-size: 100%;
+	min-height: 450px;
+}
+
 
 .context_img h1{
 	padding-top: 50px;
