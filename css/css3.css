@@ -1729,9 +1729,26 @@ keyframes shrink{
 
 .tc_context_right_title{
 	text-align: center;
-	padding: 7rem 0 1rem 0;
-	background: rgb(0, 188, 212);
+	height: 100vh;
+	background: #333;
 	color: #fff;
+}
+
+.tc_context_right_title h1{
+	position: relative;
+    text-align: center;
+    padding-top: 10%; 
+    font-weight: 200;
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.tc_context_right_title p{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.25rem;
+    font-weight: 100;
 }
 
 .swr_context_right_title{
@@ -1825,8 +1842,18 @@ keyframes shrink{
 }
 
 .context_p h1{
-	font-size: 1.25rem;
-	color: rgb(0, 188, 212);
+	font-size: 2rem;
+	color: #333333;
+	font-weight:400;
+	text-align: center;
+	margin: 0.75rem 0;
+}
+
+.context_p h2{
+	font-size: 2rem;
+	color: #333333;
+	font-weight:400;
+	margin: 0.75rem 0;
 }
 
 .att_context_p_box h1{
@@ -1842,7 +1869,19 @@ keyframes shrink{
 }
 
 .context_p p{
-	color: #777;
+	color: #666;
+	font-size: 1.25rem;
+	font-weight:300;
+	    line-height: 2;
+}
+
+.context_full_box{
+	width: 98%;
+	margin: 0 auto;
+}
+
+.context_full_box .tc_img{
+	margin-top: 2%;
 }
 
 .context_p_box{
@@ -1852,9 +1891,9 @@ keyframes shrink{
 }
 
 .sh_context_p_box,.tc_context_p_box,.att_context_p_box,.hci_context_p_box{
-	width: 65%;
+	width: 55%;
 	max-width: 940px;
-	padding: 2% 0 0 0;
+	padding: 2% 0;
 }
 
 .tc_context_p_box b{
@@ -1924,42 +1963,53 @@ keyframes shrink{
 
 .tc_img, .swr_img, .hci_img{
 	min-height: 250px;
-	margin-bottom: 5%;
+	margin: 5% 0;
+}
+
+.tc_right{
+    margin-left: 60%;
+    padding-top: 5%;
+}
+
+.tc_img_0{
+	background: url(../img/tc_img_4.png) 0% 50% no-repeat;
+	background-size: 50%;
+	margin: 10% 0;
 }
 
 .tc_img_1{
-	background: url(../img/tourconnect_ui.png) 50% 50% no-repeat;
-		background-size: 100%;
+	background: url(../img/tourconnect_ui.png) 0% 50% no-repeat;
+	background-size: 50%;
 }
 
 .tc_img_2{
 	background: url(../img/tourconnect_ui2.png) 50% 50% no-repeat;
-		background-size: 100%;
-		min-height: 450px;
+	background-size: contain;
+	min-height: 350px;
 }
 
 .tc_img_3{
-	background: url(../img/tourconnect_ui3.png) 50% 50% no-repeat;
-		background-size: 100%;
-		min-height: 450px;
+	background: url(../img/tc_img_10.png) 0% 50% no-repeat;
+	background-size: 50%;
 }
 
+
 .tc_img_4{
-	background: url(../img/tourconnect_ui4.png) 50% 50% no-repeat;
+	background: url(../img/.png) 50% 50% no-repeat;
 	background-size: 100%;
 	min-height: 400px;
 }
 
 .tc_img_5{
-	background: url(../img/tourconnect_rs1.png) 50% 50% no-repeat;
+	background: url(../img/tc_img_9.png) 50% 50% no-repeat;
 	background-size: 100%;
-	min-height: 310px;
+	min-height: 1600px;
 }
 
 .tc_img_6{
-	background: url(../img/tourconnect_rs.png) 50% 50% no-repeat;
+	background: url(../img/tourconnect_userj.png) 50% 50% no-repeat;
 	background-size: 80%;
-	min-height: 360px;
+	min-height: 1200px;
 }
 
 
@@ -1970,9 +2020,9 @@ keyframes shrink{
 }
 
 .tc_img_8{
-	background: url(../img/tourconnect_userj.png) 50% 50% no-repeat;
-	background-size: 100%;
-	min-height: 950px;
+	background: url(../img/tc_img_14.png) 50% 50% no-repeat;
+	background-size: 80%;
+	min-height: 1400px;
 }
 
 .tc_img_9{
@@ -1994,15 +2044,45 @@ keyframes shrink{
 }
 
 .tc_img_12{
-	background: url(../img/tourconnect_rs3.png) 50% 50% no-repeat;
-	background-size: 100%;
-	min-height: 460px;
+	background: url(../img/tc_img_12.png) 0% 50% no-repeat;
+    background-size: 35%;
+    margin: 10% 0;
 }
 
 .tc_img_13{
-	background: url(../img/tourconnect_rs4.png) 50% 50% no-repeat;
-	background-size: 100%;
-	min-height: 360px;
+	background: url(../img/tc_img_13.png) 0% 00% no-repeat;
+	background-size: 40%;
+    margin: 10% 0;
+}
+
+.tc_img_14{
+	background: url(../img/tc_img_5.png) 0% 50% no-repeat;
+    background-size: 50%;
+    margin: 10% 0;
+}
+
+.tc_img_15{
+	background: url(../img/tc_img_6.png) 0% 50% no-repeat;
+    background-size: 50%;
+    margin: 10% 0;
+}
+
+.tc_img_16{
+	background: url(../img/tc_img_8.png) 0% 50% no-repeat;
+    background-size: 35%;
+    margin: 10% 0;
+}
+
+.tc_img_17{
+	background: url(../img/tourconnect_ui3.png) 0% 50% no-repeat;
+    background-size: 50%;
+    margin: 10% 0;
+}
+
+.tc_img_18{
+	background: url(../img/tc_img_11.png) 50% 50% no-repeat;
+	background-size: 50%;
+	min-height: 280px;
 }
 
 .swr_img_1{
